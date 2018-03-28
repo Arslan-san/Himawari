@@ -1,0 +1,24 @@
+select distinct split_part("Solo ProprietorshipKB",'.',1)::int as "Solo ProprietorshipKB",count(*) from "pi_ph_seg_seg2_seg3_holder_new"
+where "Type" = 'Surrender '
+group by split_part("Solo ProprietorshipKB",'.',1)::int 
+
+select distinct "Recovery Reason",count(*) from "pi_ph_seg_seg2_seg3_holder_new"
+where "Type" = 'Surrender '
+group by "Recovery Reason"
+
+
+select distinct "Latest Payment Completion Reason",count(*) from "pi_ph_seg_seg2_seg3_holder_new"
+where "Type" = 'Surrender '
+group by "Latest Payment Completion Reason"
+
+
+
+select distinct split_part("Solo ProprietorshipKB",'.',1)::int as "Solo ProprietorshipKB",count(*) from "pi_ph_seg_seg2_seg3_holder_new"
+group by split_part("Solo ProprietorshipKB",'.',1)::int 
+
+select distinct "Recovery Reason",count(*) from "pi_ph_seg_seg2_seg3_holder_new"
+group by "Recovery Reason"
+
+
+select distinct "Latest Payment Completion Reason",count(*) from "pi_ph_seg_seg2_seg3_holder_new"
+group by "Latest Payment Completion Reason"

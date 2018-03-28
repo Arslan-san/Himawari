@@ -1,0 +1,1166 @@
+Policy Type Name,a_group,Insured'S Gender,application Channel,detail,application Channel Count
+Annuity(Annuity Certain ),18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Annuity(Annuity Certain ),18-22,1,60,Existing Policyholder,1
+Annuity(Annuity Certain ),18-22,1,99,Other,1
+Annuity(Annuity Certain ),18-22,1,,,2
+Annuity(Annuity Certain ),18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Annuity(Annuity Certain ),18-22,2,99,Other,1
+Annuity(Annuity Certain ),23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Annuity(Annuity Certain ),23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Annuity(Annuity Certain ),23-30,1,60,Existing Policyholder,6
+Annuity(Annuity Certain ),23-30,1,99,Other,8
+Annuity(Annuity Certain ),23-30,1,,,8
+Annuity(Annuity Certain ),23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Annuity(Annuity Certain ),23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Annuity(Annuity Certain ),23-30,2,60,Existing Policyholder,8
+Annuity(Annuity Certain ),23-30,2,99,Other,3
+Annuity(Annuity Certain ),23-30,2,,,2
+Annuity(Annuity Certain ),31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Annuity(Annuity Certain ),31-40,1,60,Existing Policyholder,11
+Annuity(Annuity Certain ),31-40,1,99,Other,19
+Annuity(Annuity Certain ),31-40,1,,,4
+Annuity(Annuity Certain ),31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Annuity(Annuity Certain ),31-40,2,60,Existing Policyholder,9
+Annuity(Annuity Certain ),31-40,2,70,Group,1
+Annuity(Annuity Certain ),31-40,2,99,Other,5
+Annuity(Annuity Certain ),31-40,2,,,2
+Annuity(Annuity Certain ),41-50,1,10,apply by self,1
+Annuity(Annuity Certain ),41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),7
+Annuity(Annuity Certain ),41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Annuity(Annuity Certain ),41-50,1,60,Existing Policyholder,23
+Annuity(Annuity Certain ),41-50,1,70,Group,1
+Annuity(Annuity Certain ),41-50,1,99,Other,29
+Annuity(Annuity Certain ),41-50,1,,,11
+Annuity(Annuity Certain ),41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Annuity(Annuity Certain ),41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+Annuity(Annuity Certain ),41-50,2,60,Existing Policyholder,16
+Annuity(Annuity Certain ),41-50,2,99,Other,15
+Annuity(Annuity Certain ),41-50,2,,,4
+Annuity(Annuity Certain ),51-60,1,10,apply by self,1
+Annuity(Annuity Certain ),51-60,1,25,Introduced by Agency,1
+Annuity(Annuity Certain ),51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Annuity(Annuity Certain ),51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),5
+Annuity(Annuity Certain ),51-60,1,60,Existing Policyholder,20
+Annuity(Annuity Certain ),51-60,1,70,Group,3
+Annuity(Annuity Certain ),51-60,1,99,Other,19
+Annuity(Annuity Certain ),51-60,1,,,8
+Annuity(Annuity Certain ),51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Annuity(Annuity Certain ),51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+Annuity(Annuity Certain ),51-60,2,60,Existing Policyholder,22
+Annuity(Annuity Certain ),51-60,2,70,Group,4
+Annuity(Annuity Certain ),51-60,2,99,Other,21
+Annuity(Annuity Certain ),51-60,2,,,6
+Annuity(Annuity Certain ),61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Annuity(Annuity Certain ),61-64,1,60,Existing Policyholder,4
+Annuity(Annuity Certain ),61-64,1,70,Group,1
+Annuity(Annuity Certain ),61-64,1,99,Other,1
+Annuity(Annuity Certain ),61-64,1,,,2
+Annuity(Annuity Certain ),61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Annuity(Annuity Certain ),61-64,2,60,Existing Policyholder,6
+Annuity(Annuity Certain ),61-64,2,,,3
+Annuity(Annuity Certain ),greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Annuity(Annuity Certain ),greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Annuity(Annuity Certain ),greater than 64,1,60,Existing Policyholder,1
+Annuity(Annuity Certain ),greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Annuity(Annuity Certain ),greater than 64,2,60,Existing Policyholder,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,99,Other,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,,,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,60,Existing Policyholder,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,60,Existing Policyholder,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,99,Other,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,,,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,60,Existing Policyholder,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,1,60,Existing Policyholder,1
+Cancer,18-22,1,00,Migrating Special,1
+Cancer,18-22,1,10,apply by self,2
+Cancer,18-22,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),22
+Cancer,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),7
+Cancer,18-22,1,60,Existing Policyholder,16
+Cancer,18-22,1,70,Group,20
+Cancer,18-22,1,99,Other,8
+Cancer,18-22,1,,,26
+Cancer,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Cancer,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Cancer,18-22,2,60,Existing Policyholder,8
+Cancer,18-22,2,70,Group,3
+Cancer,18-22,2,99,Other,3
+Cancer,18-22,2,,,8
+Cancer,23-30,1,00,Migrating Special,14
+Cancer,23-30,1,10,apply by self,5
+Cancer,23-30,1,25,Introduced by Agency,1
+Cancer,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),58
+Cancer,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),19
+Cancer,23-30,1,60,Existing Policyholder,86
+Cancer,23-30,1,70,Group,122
+Cancer,23-30,1,99,Other,25
+Cancer,23-30,1,,,135
+Cancer,23-30,2,00,Migrating Special,1
+Cancer,23-30,2,10,apply by self,2
+Cancer,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),26
+Cancer,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),5
+Cancer,23-30,2,60,Existing Policyholder,25
+Cancer,23-30,2,70,Group,24
+Cancer,23-30,2,99,Other,14
+Cancer,23-30,2,,,46
+Cancer,31-40,1,00,Migrating Special,118
+Cancer,31-40,1,10,apply by self,15
+Cancer,31-40,1,25,Introduced by Agency,1
+Cancer,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),139
+Cancer,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),24
+Cancer,31-40,1,60,Existing Policyholder,200
+Cancer,31-40,1,70,Group,143
+Cancer,31-40,1,99,Other,65
+Cancer,31-40,1,,,566
+Cancer,31-40,2,00,Migrating Special,22
+Cancer,31-40,2,10,apply by self,14
+Cancer,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),52
+Cancer,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),7
+Cancer,31-40,2,60,Existing Policyholder,60
+Cancer,31-40,2,70,Group,35
+Cancer,31-40,2,99,Other,24
+Cancer,31-40,2,,,172
+Cancer,41-50,1,00,Migrating Special,222
+Cancer,41-50,1,10,apply by self,24
+Cancer,41-50,1,25,Introduced by Agency,3
+Cancer,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),258
+Cancer,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),36
+Cancer,41-50,1,60,Existing Policyholder,426
+Cancer,41-50,1,70,Group,211
+Cancer,41-50,1,99,Other,136
+Cancer,41-50,1,,,1368
+Cancer,41-50,2,00,Migrating Special,46
+Cancer,41-50,2,10,apply by self,17
+Cancer,41-50,2,25,Introduced by Agency,1
+Cancer,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),89
+Cancer,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),27
+Cancer,41-50,2,60,Existing Policyholder,142
+Cancer,41-50,2,70,Group,72
+Cancer,41-50,2,99,Other,54
+Cancer,41-50,2,,,367
+Cancer,51-60,1,00,Migrating Special,286
+Cancer,51-60,1,10,apply by self,36
+Cancer,51-60,1,25,Introduced by Agency,6
+Cancer,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),262
+Cancer,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),46
+Cancer,51-60,1,60,Existing Policyholder,598
+Cancer,51-60,1,70,Group,222
+Cancer,51-60,1,99,Other,161
+Cancer,51-60,1,,,1511
+Cancer,51-60,2,00,Migrating Special,82
+Cancer,51-60,2,10,apply by self,11
+Cancer,51-60,2,25,Introduced by Agency,2
+Cancer,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),88
+Cancer,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),36
+Cancer,51-60,2,60,Existing Policyholder,198
+Cancer,51-60,2,70,Group,47
+Cancer,51-60,2,99,Other,51
+Cancer,51-60,2,,,465
+Cancer,61-64,1,00,Migrating Special,52
+Cancer,61-64,1,10,apply by self,12
+Cancer,61-64,1,25,Introduced by Agency,1
+Cancer,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),59
+Cancer,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),26
+Cancer,61-64,1,60,Existing Policyholder,169
+Cancer,61-64,1,70,Group,21
+Cancer,61-64,1,99,Other,43
+Cancer,61-64,1,,,388
+Cancer,61-64,2,00,Migrating Special,17
+Cancer,61-64,2,10,apply by self,1
+Cancer,61-64,2,20,Introduced by employee,1
+Cancer,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),21
+Cancer,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),8
+Cancer,61-64,2,60,Existing Policyholder,60
+Cancer,61-64,2,70,Group,14
+Cancer,61-64,2,99,Other,14
+Cancer,61-64,2,,,111
+Cancer,greater than 64,1,00,Migrating Special,28
+Cancer,greater than 64,1,10,apply by self,11
+Cancer,greater than 64,1,20,Introduced by employee,1
+Cancer,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),59
+Cancer,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),52
+Cancer,greater than 64,1,60,Existing Policyholder,201
+Cancer,greater than 64,1,70,Group,29
+Cancer,greater than 64,1,99,Other,45
+Cancer,greater than 64,1,,,330
+Cancer,greater than 64,2,00,Migrating Special,14
+Cancer,greater than 64,2,10,apply by self,3
+Cancer,greater than 64,2,25,Introduced by Agency,1
+Cancer,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),31
+Cancer,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),20
+Cancer,greater than 64,2,60,Existing Policyholder,107
+Cancer,greater than 64,2,70,Group,14
+Cancer,greater than 64,2,99,Other,17
+Cancer,greater than 64,2,,,122
+Dread Disease T.L.,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Dread Disease T.L.,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Dread Disease T.L.,18-22,2,60,Existing Policyholder,1
+Dread Disease T.L.,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Dread Disease T.L.,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+Dread Disease T.L.,23-30,1,60,Existing Policyholder,3
+Dread Disease T.L.,23-30,1,99,Other,1
+Dread Disease T.L.,23-30,1,,,1
+Dread Disease T.L.,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Dread Disease T.L.,23-30,2,60,Existing Policyholder,3
+Dread Disease T.L.,23-30,2,99,Other,1
+Dread Disease T.L.,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Dread Disease T.L.,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),5
+Dread Disease T.L.,31-40,1,60,Existing Policyholder,25
+Dread Disease T.L.,31-40,1,99,Other,3
+Dread Disease T.L.,31-40,1,,,9
+Dread Disease T.L.,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),7
+Dread Disease T.L.,31-40,2,60,Existing Policyholder,13
+Dread Disease T.L.,31-40,2,99,Other,4
+Dread Disease T.L.,31-40,2,,,3
+Dread Disease T.L.,41-50,1,10,apply by self,4
+Dread Disease T.L.,41-50,1,20,Introduced by employee,1
+Dread Disease T.L.,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),13
+Dread Disease T.L.,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),7
+Dread Disease T.L.,41-50,1,60,Existing Policyholder,49
+Dread Disease T.L.,41-50,1,99,Other,8
+Dread Disease T.L.,41-50,1,,,20
+Dread Disease T.L.,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Dread Disease T.L.,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),11
+Dread Disease T.L.,41-50,2,60,Existing Policyholder,28
+Dread Disease T.L.,41-50,2,99,Other,2
+Dread Disease T.L.,41-50,2,,,10
+Dread Disease T.L.,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Dread Disease T.L.,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),9
+Dread Disease T.L.,51-60,1,60,Existing Policyholder,57
+Dread Disease T.L.,51-60,1,99,Other,6
+Dread Disease T.L.,51-60,1,,,18
+Dread Disease T.L.,51-60,2,25,Introduced by Agency,1
+Dread Disease T.L.,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Dread Disease T.L.,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+Dread Disease T.L.,51-60,2,60,Existing Policyholder,25
+Dread Disease T.L.,51-60,2,70,Group,1
+Dread Disease T.L.,51-60,2,99,Other,1
+Dread Disease T.L.,51-60,2,,,8
+Dread Disease T.L.,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Dread Disease T.L.,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Dread Disease T.L.,61-64,1,60,Existing Policyholder,13
+Dread Disease T.L.,61-64,1,,,3
+Dread Disease T.L.,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Dread Disease T.L.,61-64,2,60,Existing Policyholder,4
+Dread Disease T.L.,61-64,2,,,1
+Dread Disease T.L.,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Dread Disease T.L.,greater than 64,1,60,Existing Policyholder,13
+Dread Disease T.L.,greater than 64,1,,,1
+Dread Disease T.L.,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Dread Disease T.L.,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+Dread Disease T.L.,greater than 64,2,60,Existing Policyholder,6
+Dread Disease W.L.,18-22,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Dread Disease W.L.,18-22,1,60,Existing Policyholder,4
+Dread Disease W.L.,18-22,1,99,Other,1
+Dread Disease W.L.,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Dread Disease W.L.,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Dread Disease W.L.,18-22,2,60,Existing Policyholder,1
+Dread Disease W.L.,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),10
+Dread Disease W.L.,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),6
+Dread Disease W.L.,23-30,1,60,Existing Policyholder,19
+Dread Disease W.L.,23-30,1,99,Other,4
+Dread Disease W.L.,23-30,1,,,10
+Dread Disease W.L.,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Dread Disease W.L.,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),6
+Dread Disease W.L.,23-30,2,60,Existing Policyholder,13
+Dread Disease W.L.,23-30,2,99,Other,2
+Dread Disease W.L.,23-30,2,,,7
+Dread Disease W.L.,31-40,1,10,apply by self,2
+Dread Disease W.L.,31-40,1,25,Introduced by Agency,1
+Dread Disease W.L.,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),28
+Dread Disease W.L.,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),7
+Dread Disease W.L.,31-40,1,60,Existing Policyholder,43
+Dread Disease W.L.,31-40,1,70,Group,1
+Dread Disease W.L.,31-40,1,99,Other,12
+Dread Disease W.L.,31-40,1,,,22
+Dread Disease W.L.,31-40,2,10,apply by self,1
+Dread Disease W.L.,31-40,2,25,Introduced by Agency,3
+Dread Disease W.L.,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),5
+Dread Disease W.L.,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),5
+Dread Disease W.L.,31-40,2,60,Existing Policyholder,26
+Dread Disease W.L.,31-40,2,70,Group,1
+Dread Disease W.L.,31-40,2,99,Other,2
+Dread Disease W.L.,31-40,2,,,11
+Dread Disease W.L.,41-50,1,25,Introduced by Agency,3
+Dread Disease W.L.,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),12
+Dread Disease W.L.,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),8
+Dread Disease W.L.,41-50,1,60,Existing Policyholder,57
+Dread Disease W.L.,41-50,1,70,Group,2
+Dread Disease W.L.,41-50,1,99,Other,10
+Dread Disease W.L.,41-50,1,,,24
+Dread Disease W.L.,41-50,2,10,apply by self,1
+Dread Disease W.L.,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),11
+Dread Disease W.L.,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),9
+Dread Disease W.L.,41-50,2,60,Existing Policyholder,27
+Dread Disease W.L.,41-50,2,70,Group,1
+Dread Disease W.L.,41-50,2,99,Other,8
+Dread Disease W.L.,41-50,2,,,13
+Dread Disease W.L.,51-60,1,10,apply by self,2
+Dread Disease W.L.,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),28
+Dread Disease W.L.,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),14
+Dread Disease W.L.,51-60,1,60,Existing Policyholder,79
+Dread Disease W.L.,51-60,1,70,Group,1
+Dread Disease W.L.,51-60,1,99,Other,17
+Dread Disease W.L.,51-60,1,A1,Conversion Policy,1
+Dread Disease W.L.,51-60,1,,,13
+Dread Disease W.L.,51-60,2,10,apply by self,1
+Dread Disease W.L.,51-60,2,25,Introduced by Agency,1
+Dread Disease W.L.,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),12
+Dread Disease W.L.,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),10
+Dread Disease W.L.,51-60,2,60,Existing Policyholder,33
+Dread Disease W.L.,51-60,2,99,Other,6
+Dread Disease W.L.,51-60,2,,,12
+Dread Disease W.L.,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Dread Disease W.L.,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Dread Disease W.L.,61-64,1,60,Existing Policyholder,18
+Dread Disease W.L.,61-64,1,99,Other,3
+Dread Disease W.L.,61-64,1,,,1
+Dread Disease W.L.,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Dread Disease W.L.,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Dread Disease W.L.,61-64,2,60,Existing Policyholder,12
+Dread Disease W.L.,61-64,2,99,Other,2
+Dread Disease W.L.,61-64,2,,,3
+Dread Disease W.L.,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Dread Disease W.L.,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+Dread Disease W.L.,greater than 64,1,60,Existing Policyholder,6
+Dread Disease W.L.,greater than 64,1,99,Other,3
+Dread Disease W.L.,greater than 64,1,,,3
+Dread Disease W.L.,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Dread Disease W.L.,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Dread Disease W.L.,greater than 64,2,60,Existing Policyholder,1
+Dread Disease W.L.,greater than 64,2,,,3
+Endowment,18-22,1,00,Migrating Special,134
+Endowment,18-22,1,10,apply by self,1
+Endowment,18-22,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),18
+Endowment,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),21
+Endowment,18-22,1,60,Existing Policyholder,143
+Endowment,18-22,1,70,Group,3
+Endowment,18-22,1,99,Other,42
+Endowment,18-22,1,,,543
+Endowment,18-22,2,00,Migrating Special,204
+Endowment,18-22,2,10,apply by self,1
+Endowment,18-22,2,25,Introduced by Agency,1
+Endowment,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),23
+Endowment,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),23
+Endowment,18-22,2,60,Existing Policyholder,95
+Endowment,18-22,2,70,Group,4
+Endowment,18-22,2,99,Other,40
+Endowment,18-22,2,,,428
+Endowment,23-30,1,00,Migrating Special,342
+Endowment,23-30,1,10,apply by self,3
+Endowment,23-30,1,25,Introduced by Agency,2
+Endowment,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),27
+Endowment,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),21
+Endowment,23-30,1,60,Existing Policyholder,996
+Endowment,23-30,1,70,Group,27
+Endowment,23-30,1,99,Other,144
+Endowment,23-30,1,,,1174
+Endowment,23-30,2,00,Migrating Special,308
+Endowment,23-30,2,10,apply by self,5
+Endowment,23-30,2,25,Introduced by Agency,4
+Endowment,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),28
+Endowment,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),22
+Endowment,23-30,2,60,Existing Policyholder,372
+Endowment,23-30,2,70,Group,19
+Endowment,23-30,2,99,Other,113
+Endowment,23-30,2,,,715
+Endowment,31-40,1,00,Migrating Special,379
+Endowment,31-40,1,10,apply by self,2
+Endowment,31-40,1,25,Introduced by Agency,1
+Endowment,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),34
+Endowment,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),16
+Endowment,31-40,1,60,Existing Policyholder,1092
+Endowment,31-40,1,70,Group,24
+Endowment,31-40,1,99,Other,132
+Endowment,31-40,1,,,1327
+Endowment,31-40,2,00,Migrating Special,280
+Endowment,31-40,2,10,apply by self,1
+Endowment,31-40,2,25,Introduced by Agency,6
+Endowment,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),25
+Endowment,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),18
+Endowment,31-40,2,60,Existing Policyholder,265
+Endowment,31-40,2,70,Group,7
+Endowment,31-40,2,99,Other,116
+Endowment,31-40,2,,,782
+Endowment,41-50,1,00,Migrating Special,257
+Endowment,41-50,1,25,Introduced by Agency,6
+Endowment,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),31
+Endowment,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),8
+Endowment,41-50,1,60,Existing Policyholder,918
+Endowment,41-50,1,70,Group,25
+Endowment,41-50,1,99,Other,156
+Endowment,41-50,1,A1,Conversion Policy,1
+Endowment,41-50,1,,,1401
+Endowment,41-50,2,00,Migrating Special,175
+Endowment,41-50,2,25,Introduced by Agency,3
+Endowment,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),29
+Endowment,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),15
+Endowment,41-50,2,60,Existing Policyholder,233
+Endowment,41-50,2,70,Group,5
+Endowment,41-50,2,99,Other,211
+Endowment,41-50,2,,,973
+Endowment,51-60,1,00,Migrating Special,148
+Endowment,51-60,1,25,Introduced by Agency,2
+Endowment,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),20
+Endowment,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),9
+Endowment,51-60,1,60,Existing Policyholder,317
+Endowment,51-60,1,70,Group,14
+Endowment,51-60,1,99,Other,106
+Endowment,51-60,1,A1,Conversion Policy,3
+Endowment,51-60,1,,,739
+Endowment,51-60,2,00,Migrating Special,127
+Endowment,51-60,2,10,apply by self,3
+Endowment,51-60,2,25,Introduced by Agency,5
+Endowment,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),17
+Endowment,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),20
+Endowment,51-60,2,60,Existing Policyholder,137
+Endowment,51-60,2,70,Group,4
+Endowment,51-60,2,99,Other,99
+Endowment,51-60,2,,,426
+Endowment,61-64,1,00,Migrating Special,30
+Endowment,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Endowment,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+Endowment,61-64,1,60,Existing Policyholder,27
+Endowment,61-64,1,70,Group,2
+Endowment,61-64,1,99,Other,12
+Endowment,61-64,1,A1,Conversion Policy,1
+Endowment,61-64,1,,,151
+Endowment,61-64,2,00,Migrating Special,20
+Endowment,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),5
+Endowment,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Endowment,61-64,2,60,Existing Policyholder,13
+Endowment,61-64,2,70,Group,1
+Endowment,61-64,2,99,Other,14
+Endowment,61-64,2,A1,Conversion Policy,1
+Endowment,61-64,2,,,67
+Endowment,greater than 64,1,00,Migrating Special,13
+Endowment,greater than 64,1,25,Introduced by Agency,1
+Endowment,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Endowment,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Endowment,greater than 64,1,60,Existing Policyholder,16
+Endowment,greater than 64,1,99,Other,5
+Endowment,greater than 64,1,,,59
+Endowment,greater than 64,2,00,Migrating Special,10
+Endowment,greater than 64,2,25,Introduced by Agency,2
+Endowment,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Endowment,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),6
+Endowment,greater than 64,2,60,Existing Policyholder,20
+Endowment,greater than 64,2,99,Other,4
+Endowment,greater than 64,2,,,44
+Female Disease,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Female Disease,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Female Disease,18-22,2,60,Existing Policyholder,3
+Female Disease,18-22,2,99,Other,1
+Female Disease,18-22,2,,,8
+Female Disease,23-30,2,25,Introduced by Agency,1
+Female Disease,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Female Disease,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Female Disease,23-30,2,60,Existing Policyholder,4
+Female Disease,23-30,2,70,Group,4
+Female Disease,23-30,2,99,Other,9
+Female Disease,23-30,2,,,61
+Female Disease,31-40,2,10,apply by self,4
+Female Disease,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Female Disease,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+Female Disease,31-40,2,60,Existing Policyholder,6
+Female Disease,31-40,2,70,Group,5
+Female Disease,31-40,2,99,Other,19
+Female Disease,31-40,2,,,84
+Female Disease,41-50,2,10,apply by self,2
+Female Disease,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Female Disease,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Female Disease,41-50,2,60,Existing Policyholder,12
+Female Disease,41-50,2,70,Group,4
+Female Disease,41-50,2,99,Other,14
+Female Disease,41-50,2,,,101
+Female Disease,51-60,2,10,apply by self,1
+Female Disease,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),7
+Female Disease,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+Female Disease,51-60,2,60,Existing Policyholder,9
+Female Disease,51-60,2,70,Group,4
+Female Disease,51-60,2,99,Other,6
+Female Disease,51-60,2,,,88
+Female Disease,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Female Disease,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Female Disease,61-64,2,60,Existing Policyholder,3
+Female Disease,61-64,2,99,Other,1
+Female Disease,61-64,2,,,38
+Female Disease,greater than 64,2,10,apply by self,1
+Female Disease,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Female Disease,greater than 64,2,60,Existing Policyholder,1
+Female Disease,greater than 64,2,,,9
+Inc. Dec. Term Life,23-30,1,60,Existing Policyholder,1
+Inc. Dec. Term Life,23-30,2,99,Other,3
+Inc. Dec. Term Life,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),5
+Inc. Dec. Term Life,31-40,1,60,Existing Policyholder,14
+Inc. Dec. Term Life,31-40,1,99,Other,8
+Inc. Dec. Term Life,41-50,1,10,apply by self,1
+Inc. Dec. Term Life,41-50,1,25,Introduced by Agency,2
+Inc. Dec. Term Life,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Inc. Dec. Term Life,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Inc. Dec. Term Life,41-50,1,60,Existing Policyholder,54
+Inc. Dec. Term Life,41-50,1,70,Group,3
+Inc. Dec. Term Life,41-50,1,99,Other,15
+Inc. Dec. Term Life,41-50,2,60,Existing Policyholder,6
+Inc. Dec. Term Life,41-50,2,99,Other,5
+Inc. Dec. Term Life,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),12
+Inc. Dec. Term Life,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+Inc. Dec. Term Life,51-60,1,60,Existing Policyholder,134
+Inc. Dec. Term Life,51-60,1,70,Group,10
+Inc. Dec. Term Life,51-60,1,99,Other,55
+Inc. Dec. Term Life,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Inc. Dec. Term Life,51-60,2,60,Existing Policyholder,10
+Inc. Dec. Term Life,51-60,2,99,Other,6
+Inc. Dec. Term Life,51-60,2,,,1
+Inc. Dec. Term Life,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+Inc. Dec. Term Life,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Inc. Dec. Term Life,61-64,1,60,Existing Policyholder,37
+Inc. Dec. Term Life,61-64,1,70,Group,1
+Inc. Dec. Term Life,61-64,1,99,Other,17
+Inc. Dec. Term Life,61-64,2,60,Existing Policyholder,5
+Inc. Dec. Term Life,61-64,2,70,Group,1
+Inc. Dec. Term Life,61-64,2,99,Other,2
+Inc. Dec. Term Life,greater than 64,1,10,apply by self,1
+Inc. Dec. Term Life,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Inc. Dec. Term Life,greater than 64,1,60,Existing Policyholder,20
+Inc. Dec. Term Life,greater than 64,1,70,Group,2
+Inc. Dec. Term Life,greater than 64,1,99,Other,11
+Inc. Dec. Term Life,greater than 64,2,60,Existing Policyholder,1
+Inc. Dec. Term Life,greater than 64,2,99,Other,3
+Injury,18-22,1,60,Existing Policyholder,1
+Injury,23-30,1,60,Existing Policyholder,6
+Injury,23-30,1,70,Group,1
+Injury,23-30,1,99,Other,2
+Injury,23-30,2,60,Existing Policyholder,1
+Injury,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Injury,31-40,1,60,Existing Policyholder,12
+Injury,31-40,1,99,Other,1
+Injury,31-40,2,60,Existing Policyholder,1
+Injury,41-50,1,25,Introduced by Agency,1
+Injury,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Injury,41-50,1,60,Existing Policyholder,25
+Injury,41-50,1,70,Group,2
+Injury,41-50,1,99,Other,10
+Injury,41-50,2,60,Existing Policyholder,4
+Injury,41-50,2,99,Other,2
+Injury,51-60,1,10,apply by self,1
+Injury,51-60,1,25,Introduced by Agency,1
+Injury,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Injury,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Injury,51-60,1,60,Existing Policyholder,39
+Injury,51-60,1,70,Group,3
+Injury,51-60,1,99,Other,17
+Injury,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Injury,51-60,2,60,Existing Policyholder,7
+Injury,51-60,2,99,Other,1
+Injury,61-64,1,10,apply by self,1
+Injury,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Injury,61-64,1,60,Existing Policyholder,11
+Injury,61-64,1,99,Other,5
+Injury,61-64,2,60,Existing Policyholder,2
+Injury,61-64,2,99,Other,1
+Injury,greater than 64,1,25,Introduced by Agency,1
+Injury,greater than 64,1,60,Existing Policyholder,15
+Injury,greater than 64,1,99,Other,6
+Injury,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Injury,greater than 64,2,60,Existing Policyholder,2
+Injury,greater than 64,2,70,Group,1
+Injury,greater than 64,2,99,Other,1
+Joint life,18-22,2,00,Migrating Special,1
+Joint life,23-30,1,00,Migrating Special,2
+Joint life,23-30,1,,,3
+Joint life,31-40,1,00,Migrating Special,11
+Joint life,31-40,1,,,28
+Joint life,31-40,2,,,3
+Joint life,41-50,1,00,Migrating Special,11
+Joint life,41-50,1,,,43
+Joint life,41-50,2,00,Migrating Special,2
+Joint life,41-50,2,,,7
+Joint life,51-60,1,00,Migrating Special,25
+Joint life,51-60,1,,,34
+Joint life,51-60,2,00,Migrating Special,3
+Joint life,51-60,2,,,4
+Joint life,61-64,1,00,Migrating Special,2
+Joint life,61-64,1,,,2
+Joint life,61-64,2,,,3
+Joint life,greater than 64,1,00,Migrating Special,2
+Joint life,greater than 64,1,,,6
+Joint life,greater than 64,2,,,4
+Joint life(Flexible),23-30,1,60,Existing Policyholder,1
+Joint life(Flexible),31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Joint life(Flexible),31-40,1,60,Existing Policyholder,1
+Joint life(Flexible),31-40,1,,,5
+Joint life(Flexible),31-40,2,,,1
+Joint life(Flexible),41-50,1,60,Existing Policyholder,2
+Joint life(Flexible),41-50,1,,,9
+Joint life(Flexible),41-50,2,,,2
+Joint life(Flexible),51-60,1,60,Existing Policyholder,2
+Joint life(Flexible),51-60,1,,,12
+Joint life(Flexible),51-60,2,60,Existing Policyholder,1
+Joint life(Flexible),51-60,2,,,1
+Joint life(Flexible),61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Joint life(Flexible),61-64,1,60,Existing Policyholder,2
+Joint life(Flexible),61-64,1,,,1
+Joint life(Flexible),61-64,2,,,3
+Joint life(Flexible),greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Joint life(Flexible),greater than 64,1,,,5
+Medical,18-22,1,10,apply by self,2
+Medical,18-22,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),24
+Medical,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),15
+Medical,18-22,1,60,Existing Policyholder,83
+Medical,18-22,1,70,Group,12
+Medical,18-22,1,99,Other,10
+Medical,18-22,1,,,39
+Medical,18-22,2,10,apply by self,14
+Medical,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),14
+Medical,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),11
+Medical,18-22,2,60,Existing Policyholder,32
+Medical,18-22,2,70,Group,3
+Medical,18-22,2,99,Other,9
+Medical,18-22,2,,,22
+Medical,23-30,1,10,apply by self,18
+Medical,23-30,1,20,Introduced by employee,1
+Medical,23-30,1,25,Introduced by Agency,1
+Medical,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),91
+Medical,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),49
+Medical,23-30,1,60,Existing Policyholder,200
+Medical,23-30,1,70,Group,46
+Medical,23-30,1,99,Other,74
+Medical,23-30,1,A1,Conversion Policy,2
+Medical,23-30,1,,,153
+Medical,23-30,2,10,apply by self,81
+Medical,23-30,2,25,Introduced by Agency,1
+Medical,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),47
+Medical,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),30
+Medical,23-30,2,60,Existing Policyholder,86
+Medical,23-30,2,70,Group,14
+Medical,23-30,2,99,Other,48
+Medical,23-30,2,A1,Conversion Policy,2
+Medical,23-30,2,,,109
+Medical,31-40,1,10,apply by self,51
+Medical,31-40,1,20,Introduced by employee,2
+Medical,31-40,1,25,Introduced by Agency,3
+Medical,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),159
+Medical,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),131
+Medical,31-40,1,60,Existing Policyholder,549
+Medical,31-40,1,70,Group,70
+Medical,31-40,1,99,Other,166
+Medical,31-40,1,A1,Conversion Policy,15
+Medical,31-40,1,,,299
+Medical,31-40,2,10,apply by self,175
+Medical,31-40,2,20,Introduced by employee,1
+Medical,31-40,2,25,Introduced by Agency,1
+Medical,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),109
+Medical,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),56
+Medical,31-40,2,60,Existing Policyholder,220
+Medical,31-40,2,70,Group,31
+Medical,31-40,2,99,Other,110
+Medical,31-40,2,A1,Conversion Policy,13
+Medical,31-40,2,,,193
+Medical,41-50,1,10,apply by self,56
+Medical,41-50,1,20,Introduced by employee,1
+Medical,41-50,1,25,Introduced by Agency,5
+Medical,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),246
+Medical,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),150
+Medical,41-50,1,60,Existing Policyholder,972
+Medical,41-50,1,70,Group,98
+Medical,41-50,1,99,Other,230
+Medical,41-50,1,A1,Conversion Policy,44
+Medical,41-50,1,,,614
+Medical,41-50,2,10,apply by self,116
+Medical,41-50,2,25,Introduced by Agency,1
+Medical,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),121
+Medical,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),82
+Medical,41-50,2,60,Existing Policyholder,424
+Medical,41-50,2,70,Group,50
+Medical,41-50,2,99,Other,137
+Medical,41-50,2,A1,Conversion Policy,22
+Medical,41-50,2,,,328
+Medical,51-60,1,10,apply by self,77
+Medical,51-60,1,20,Introduced by employee,1
+Medical,51-60,1,25,Introduced by Agency,16
+Medical,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),469
+Medical,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),254
+Medical,51-60,1,60,Existing Policyholder,1836
+Medical,51-60,1,70,Group,223
+Medical,51-60,1,99,Other,418
+Medical,51-60,1,A1,Conversion Policy,72
+Medical,51-60,1,,,872
+Medical,51-60,2,10,apply by self,71
+Medical,51-60,2,20,Introduced by employee,2
+Medical,51-60,2,25,Introduced by Agency,8
+Medical,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),193
+Medical,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),151
+Medical,51-60,2,60,Existing Policyholder,767
+Medical,51-60,2,70,Group,69
+Medical,51-60,2,99,Other,201
+Medical,51-60,2,A1,Conversion Policy,47
+Medical,51-60,2,,,330
+Medical,61-64,1,10,apply by self,40
+Medical,61-64,1,25,Introduced by Agency,3
+Medical,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),180
+Medical,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),155
+Medical,61-64,1,60,Existing Policyholder,895
+Medical,61-64,1,70,Group,79
+Medical,61-64,1,99,Other,218
+Medical,61-64,1,A1,Conversion Policy,47
+Medical,61-64,1,,,282
+Medical,61-64,2,10,apply by self,20
+Medical,61-64,2,20,Introduced by employee,1
+Medical,61-64,2,25,Introduced by Agency,2
+Medical,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),93
+Medical,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),69
+Medical,61-64,2,60,Existing Policyholder,361
+Medical,61-64,2,70,Group,16
+Medical,61-64,2,99,Other,113
+Medical,61-64,2,A1,Conversion Policy,25
+Medical,61-64,2,,,140
+Medical,greater than 64,1,10,apply by self,53
+Medical,greater than 64,1,25,Introduced by Agency,4
+Medical,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),102
+Medical,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),224
+Medical,greater than 64,1,60,Existing Policyholder,1040
+Medical,greater than 64,1,70,Group,79
+Medical,greater than 64,1,99,Other,274
+Medical,greater than 64,1,A1,Conversion Policy,135
+Medical,greater than 64,1,,,95
+Medical,greater than 64,2,10,apply by self,25
+Medical,greater than 64,2,25,Introduced by Agency,1
+Medical,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),76
+Medical,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),120
+Medical,greater than 64,2,60,Existing Policyholder,521
+Medical,greater than 64,2,70,Group,22
+Medical,greater than 64,2,99,Other,169
+Medical,greater than 64,2,A1,Conversion Policy,79
+Medical,greater than 64,2,,,44
+M.I.P,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+M.I.P,18-22,1,60,Existing Policyholder,3
+M.I.P,23-30,1,10,apply by self,2
+M.I.P,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),5
+M.I.P,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),18
+M.I.P,23-30,1,60,Existing Policyholder,27
+M.I.P,23-30,1,70,Group,2
+M.I.P,23-30,1,99,Other,17
+M.I.P,23-30,1,,,16
+M.I.P,23-30,2,60,Existing Policyholder,1
+M.I.P,23-30,2,99,Other,3
+M.I.P,31-40,1,10,apply by self,8
+M.I.P,31-40,1,20,Introduced by employee,2
+M.I.P,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),26
+M.I.P,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),64
+M.I.P,31-40,1,60,Existing Policyholder,131
+M.I.P,31-40,1,70,Group,9
+M.I.P,31-40,1,99,Other,56
+M.I.P,31-40,1,,,39
+M.I.P,31-40,2,10,apply by self,1
+M.I.P,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+M.I.P,31-40,2,60,Existing Policyholder,10
+M.I.P,31-40,2,99,Other,7
+M.I.P,31-40,2,,,3
+M.I.P,41-50,1,10,apply by self,6
+M.I.P,41-50,1,25,Introduced by Agency,1
+M.I.P,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),19
+M.I.P,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),52
+M.I.P,41-50,1,60,Existing Policyholder,161
+M.I.P,41-50,1,70,Group,6
+M.I.P,41-50,1,99,Other,70
+M.I.P,41-50,1,,,31
+M.I.P,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+M.I.P,41-50,2,60,Existing Policyholder,14
+M.I.P,41-50,2,70,Group,1
+M.I.P,41-50,2,99,Other,3
+M.I.P,41-50,2,,,2
+M.I.P,51-60,1,10,apply by self,2
+M.I.P,51-60,1,20,Introduced by employee,1
+M.I.P,51-60,1,25,Introduced by Agency,1
+M.I.P,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),12
+M.I.P,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),29
+M.I.P,51-60,1,60,Existing Policyholder,116
+M.I.P,51-60,1,70,Group,7
+M.I.P,51-60,1,99,Other,37
+M.I.P,51-60,1,,,13
+M.I.P,51-60,2,25,Introduced by Agency,1
+M.I.P,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+M.I.P,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+M.I.P,51-60,2,60,Existing Policyholder,13
+M.I.P,51-60,2,99,Other,2
+M.I.P,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+M.I.P,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),8
+M.I.P,61-64,1,60,Existing Policyholder,25
+M.I.P,61-64,1,70,Group,1
+M.I.P,61-64,1,99,Other,4
+M.I.P,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+M.I.P,61-64,2,60,Existing Policyholder,1
+M.I.P,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+M.I.P,greater than 64,1,60,Existing Policyholder,21
+M.I.P,greater than 64,1,70,Group,1
+M.I.P,greater than 64,1,99,Other,9
+M.I.P,greater than 64,1,,,1
+M.I.P,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+M.I.P,greater than 64,2,60,Existing Policyholder,5
+Nursing care,31-40,1,00,Migrating Special,2
+Nursing care,31-40,2,00,Migrating Special,2
+Nursing care,31-40,2,,,2
+Nursing care,41-50,1,00,Migrating Special,3
+Nursing care,41-50,2,00,Migrating Special,2
+Nursing care,51-60,1,00,Migrating Special,23
+Nursing care,51-60,1,,,10
+Nursing care,51-60,2,00,Migrating Special,9
+Nursing care,51-60,2,,,10
+Nursing care,61-64,1,00,Migrating Special,2
+Nursing care,61-64,1,,,3
+Nursing care,61-64,2,00,Migrating Special,5
+Nursing care,61-64,2,,,6
+Nursing care,greater than 64,1,00,Migrating Special,5
+Nursing care,greater than 64,1,,,1
+Nursing care,greater than 64,2,,,3
+Term life,18-22,1,00,Migrating Special,3
+Term life,18-22,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Term life,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Term life,18-22,1,60,Existing Policyholder,9
+Term life,18-22,1,99,Other,2
+Term life,18-22,1,,,17
+Term life,18-22,2,00,Migrating Special,1
+Term life,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+Term life,18-22,2,60,Existing Policyholder,2
+Term life,18-22,2,,,4
+Term life,23-30,1,00,Migrating Special,14
+Term life,23-30,1,10,apply by self,3
+Term life,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),13
+Term life,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),6
+Term life,23-30,1,60,Existing Policyholder,35
+Term life,23-30,1,70,Group,2
+Term life,23-30,1,99,Other,8
+Term life,23-30,1,A1,Conversion Policy,1
+Term life,23-30,1,,,71
+Term life,23-30,2,00,Migrating Special,2
+Term life,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Term life,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+Term life,23-30,2,60,Existing Policyholder,5
+Term life,23-30,2,70,Group,1
+Term life,23-30,2,99,Other,1
+Term life,23-30,2,,,18
+Term life,31-40,1,00,Migrating Special,104
+Term life,31-40,1,10,apply by self,14
+Term life,31-40,1,25,Introduced by Agency,1
+Term life,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),54
+Term life,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),18
+Term life,31-40,1,60,Existing Policyholder,175
+Term life,31-40,1,70,Group,4
+Term life,31-40,1,99,Other,41
+Term life,31-40,1,A1,Conversion Policy,4
+Term life,31-40,1,,,497
+Term life,31-40,2,00,Migrating Special,18
+Term life,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),4
+Term life,31-40,2,60,Existing Policyholder,27
+Term life,31-40,2,70,Group,3
+Term life,31-40,2,99,Other,5
+Term life,31-40,2,A1,Conversion Policy,1
+Term life,31-40,2,,,77
+Term life,41-50,1,00,Migrating Special,149
+Term life,41-50,1,10,apply by self,30
+Term life,41-50,1,20,Introduced by employee,1
+Term life,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),86
+Term life,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),35
+Term life,41-50,1,60,Existing Policyholder,423
+Term life,41-50,1,70,Group,7
+Term life,41-50,1,99,Other,87
+Term life,41-50,1,A1,Conversion Policy,31
+Term life,41-50,1,,,1037
+Term life,41-50,2,00,Migrating Special,24
+Term life,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),15
+Term life,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),6
+Term life,41-50,2,60,Existing Policyholder,51
+Term life,41-50,2,70,Group,2
+Term life,41-50,2,99,Other,9
+Term life,41-50,2,A1,Conversion Policy,9
+Term life,41-50,2,,,142
+Term life,51-60,1,00,Migrating Special,179
+Term life,51-60,1,10,apply by self,43
+Term life,51-60,1,20,Introduced by employee,2
+Term life,51-60,1,25,Introduced by Agency,2
+Term life,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),123
+Term life,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),50
+Term life,51-60,1,60,Existing Policyholder,625
+Term life,51-60,1,70,Group,29
+Term life,51-60,1,99,Other,123
+Term life,51-60,1,A1,Conversion Policy,77
+Term life,51-60,1,,,1334
+Term life,51-60,2,00,Migrating Special,53
+Term life,51-60,2,10,apply by self,2
+Term life,51-60,2,25,Introduced by Agency,2
+Term life,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),16
+Term life,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),19
+Term life,51-60,2,60,Existing Policyholder,98
+Term life,51-60,2,70,Group,4
+Term life,51-60,2,99,Other,17
+Term life,51-60,2,A1,Conversion Policy,18
+Term life,51-60,2,,,282
+Term life,61-64,1,00,Migrating Special,48
+Term life,61-64,1,25,Introduced by Agency,1
+Term life,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),29
+Term life,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),30
+Term life,61-64,1,60,Existing Policyholder,205
+Term life,61-64,1,70,Group,13
+Term life,61-64,1,99,Other,28
+Term life,61-64,1,A1,Conversion Policy,51
+Term life,61-64,1,,,309
+Term life,61-64,2,00,Migrating Special,16
+Term life,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+Term life,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),9
+Term life,61-64,2,60,Existing Policyholder,38
+Term life,61-64,2,70,Group,5
+Term life,61-64,2,99,Other,3
+Term life,61-64,2,A1,Conversion Policy,10
+Term life,61-64,2,,,113
+Term life,greater than 64,1,00,Migrating Special,37
+Term life,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),34
+Term life,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),31
+Term life,greater than 64,1,60,Existing Policyholder,217
+Term life,greater than 64,1,70,Group,26
+Term life,greater than 64,1,99,Other,48
+Term life,greater than 64,1,A1,Conversion Policy,217
+Term life,greater than 64,1,,,331
+Term life,greater than 64,2,00,Migrating Special,15
+Term life,greater than 64,2,10,apply by self,1
+Term life,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),22
+Term life,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),20
+Term life,greater than 64,2,60,Existing Policyholder,90
+Term life,greater than 64,2,70,Group,14
+Term life,greater than 64,2,99,Other,16
+Term life,greater than 64,2,A1,Conversion Policy,46
+Term life,greater than 64,2,,,151
+VL Endowment,18-22,1,60,Existing Policyholder,2
+VL Endowment,18-22,1,,,37
+VL Endowment,18-22,2,,,41
+VL Endowment,23-30,1,10,apply by self,1
+VL Endowment,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+VL Endowment,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Endowment,23-30,1,60,Existing Policyholder,22
+VL Endowment,23-30,1,,,107
+VL Endowment,23-30,2,60,Existing Policyholder,3
+VL Endowment,23-30,2,70,Group,1
+VL Endowment,23-30,2,,,65
+VL Endowment,31-40,1,60,Existing Policyholder,23
+VL Endowment,31-40,1,99,Other,1
+VL Endowment,31-40,1,,,191
+VL Endowment,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+VL Endowment,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+VL Endowment,31-40,2,60,Existing Policyholder,7
+VL Endowment,31-40,2,,,70
+VL Endowment,41-50,1,60,Existing Policyholder,11
+VL Endowment,41-50,1,,,189
+VL Endowment,41-50,2,60,Existing Policyholder,2
+VL Endowment,41-50,2,,,127
+VL Endowment,51-60,1,60,Existing Policyholder,4
+VL Endowment,51-60,1,,,186
+VL Endowment,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+VL Endowment,51-60,2,60,Existing Policyholder,3
+VL Endowment,51-60,2,,,119
+VL Endowment,61-64,1,60,Existing Policyholder,1
+VL Endowment,61-64,1,,,6
+VL Endowment,61-64,2,,,4
+VL Endowment,greater than 64,1,,,5
+VL Endowment,greater than 64,2,,,3
+VL Whole life,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Whole life,18-22,1,60,Existing Policyholder,2
+VL Whole life,18-22,1,,,1
+VL Whole life,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Whole life,18-22,2,60,Existing Policyholder,1
+VL Whole life,23-30,1,25,Introduced by Agency,1
+VL Whole life,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),7
+VL Whole life,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Whole life,23-30,1,60,Existing Policyholder,5
+VL Whole life,23-30,1,,,3
+VL Whole life,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+VL Whole life,23-30,2,60,Existing Policyholder,2
+VL Whole life,23-30,2,99,Other,2
+VL Whole life,23-30,2,,,1
+VL Whole life,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),8
+VL Whole life,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Whole life,31-40,1,60,Existing Policyholder,30
+VL Whole life,31-40,1,99,Other,7
+VL Whole life,31-40,1,A1,Conversion Policy,1
+VL Whole life,31-40,1,,,9
+VL Whole life,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),1
+VL Whole life,31-40,2,60,Existing Policyholder,5
+VL Whole life,31-40,2,99,Other,2
+VL Whole life,31-40,2,,,9
+VL Whole life,41-50,1,10,apply by self,1
+VL Whole life,41-50,1,25,Introduced by Agency,1
+VL Whole life,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),14
+VL Whole life,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+VL Whole life,41-50,1,60,Existing Policyholder,38
+VL Whole life,41-50,1,70,Group,2
+VL Whole life,41-50,1,99,Other,6
+VL Whole life,41-50,1,,,23
+VL Whole life,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+VL Whole life,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Whole life,41-50,2,60,Existing Policyholder,11
+VL Whole life,41-50,2,99,Other,2
+VL Whole life,41-50,2,A1,Conversion Policy,1
+VL Whole life,41-50,2,,,14
+VL Whole life,51-60,1,25,Introduced by Agency,1
+VL Whole life,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),17
+VL Whole life,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),4
+VL Whole life,51-60,1,60,Existing Policyholder,45
+VL Whole life,51-60,1,99,Other,5
+VL Whole life,51-60,1,A1,Conversion Policy,6
+VL Whole life,51-60,1,,,18
+VL Whole life,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),5
+VL Whole life,51-60,2,60,Existing Policyholder,11
+VL Whole life,51-60,2,70,Group,2
+VL Whole life,51-60,2,99,Other,4
+VL Whole life,51-60,2,A1,Conversion Policy,1
+VL Whole life,51-60,2,,,6
+VL Whole life,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),6
+VL Whole life,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),1
+VL Whole life,61-64,1,60,Existing Policyholder,19
+VL Whole life,61-64,1,99,Other,2
+VL Whole life,61-64,1,A1,Conversion Policy,1
+VL Whole life,61-64,1,,,2
+VL Whole life,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+VL Whole life,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),2
+VL Whole life,61-64,2,60,Existing Policyholder,7
+VL Whole life,61-64,2,99,Other,1
+VL Whole life,61-64,2,,,1
+VL Whole life,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),7
+VL Whole life,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),5
+VL Whole life,greater than 64,1,60,Existing Policyholder,23
+VL Whole life,greater than 64,1,70,Group,3
+VL Whole life,greater than 64,1,99,Other,6
+VL Whole life,greater than 64,1,A1,Conversion Policy,10
+VL Whole life,greater than 64,1,,,14
+VL Whole life,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),3
+VL Whole life,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),8
+VL Whole life,greater than 64,2,60,Existing Policyholder,22
+VL Whole life,greater than 64,2,99,Other,3
+VL Whole life,greater than 64,2,,,8
+Whole life,18-22,1,00,Migrating Special,4
+Whole life,18-22,1,10,apply by self,1
+Whole life,18-22,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),8
+Whole life,18-22,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),9
+Whole life,18-22,1,60,Existing Policyholder,33
+Whole life,18-22,1,99,Other,2
+Whole life,18-22,1,,,74
+Whole life,18-22,2,00,Migrating Special,5
+Whole life,18-22,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),2
+Whole life,18-22,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),3
+Whole life,18-22,2,60,Existing Policyholder,6
+Whole life,18-22,2,,,18
+Whole life,23-30,1,00,Migrating Special,25
+Whole life,23-30,1,10,apply by self,3
+Whole life,23-30,1,25,Introduced by Agency,2
+Whole life,23-30,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),46
+Whole life,23-30,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),20
+Whole life,23-30,1,60,Existing Policyholder,109
+Whole life,23-30,1,70,Group,11
+Whole life,23-30,1,99,Other,13
+Whole life,23-30,1,A1,Conversion Policy,1
+Whole life,23-30,1,,,192
+Whole life,23-30,2,00,Migrating Special,5
+Whole life,23-30,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),14
+Whole life,23-30,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),10
+Whole life,23-30,2,60,Existing Policyholder,27
+Whole life,23-30,2,70,Group,2
+Whole life,23-30,2,99,Other,7
+Whole life,23-30,2,,,57
+Whole life,31-40,1,00,Migrating Special,60
+Whole life,31-40,1,10,apply by self,2
+Whole life,31-40,1,20,Introduced by employee,1
+Whole life,31-40,1,25,Introduced by Agency,1
+Whole life,31-40,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),87
+Whole life,31-40,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),49
+Whole life,31-40,1,60,Existing Policyholder,238
+Whole life,31-40,1,70,Group,13
+Whole life,31-40,1,99,Other,42
+Whole life,31-40,1,A1,Conversion Policy,5
+Whole life,31-40,1,,,470
+Whole life,31-40,2,00,Migrating Special,22
+Whole life,31-40,2,10,apply by self,1
+Whole life,31-40,2,20,Introduced by employee,1
+Whole life,31-40,2,25,Introduced by Agency,1
+Whole life,31-40,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),31
+Whole life,31-40,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),14
+Whole life,31-40,2,60,Existing Policyholder,64
+Whole life,31-40,2,70,Group,1
+Whole life,31-40,2,99,Other,16
+Whole life,31-40,2,A1,Conversion Policy,1
+Whole life,31-40,2,,,119
+Whole life,41-50,1,00,Migrating Special,98
+Whole life,41-50,1,10,apply by self,3
+Whole life,41-50,1,25,Introduced by Agency,4
+Whole life,41-50,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),91
+Whole life,41-50,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),70
+Whole life,41-50,1,60,Existing Policyholder,414
+Whole life,41-50,1,70,Group,18
+Whole life,41-50,1,99,Other,104
+Whole life,41-50,1,A1,Conversion Policy,18
+Whole life,41-50,1,,,763
+Whole life,41-50,2,00,Migrating Special,47
+Whole life,41-50,2,10,apply by self,3
+Whole life,41-50,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),45
+Whole life,41-50,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),35
+Whole life,41-50,2,60,Existing Policyholder,165
+Whole life,41-50,2,70,Group,11
+Whole life,41-50,2,99,Other,49
+Whole life,41-50,2,A1,Conversion Policy,3
+Whole life,41-50,2,,,266
+Whole life,51-60,1,00,Migrating Special,190
+Whole life,51-60,1,10,apply by self,15
+Whole life,51-60,1,25,Introduced by Agency,5
+Whole life,51-60,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),141
+Whole life,51-60,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),108
+Whole life,51-60,1,60,Existing Policyholder,709
+Whole life,51-60,1,70,Group,40
+Whole life,51-60,1,99,Other,158
+Whole life,51-60,1,A1,Conversion Policy,47
+Whole life,51-60,1,,,1091
+Whole life,51-60,2,00,Migrating Special,113
+Whole life,51-60,2,10,apply by self,8
+Whole life,51-60,2,20,Introduced by employee,1
+Whole life,51-60,2,25,Introduced by Agency,1
+Whole life,51-60,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),39
+Whole life,51-60,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),54
+Whole life,51-60,2,60,Existing Policyholder,206
+Whole life,51-60,2,70,Group,19
+Whole life,51-60,2,99,Other,60
+Whole life,51-60,2,A1,Conversion Policy,5
+Whole life,51-60,2,,,429
+Whole life,61-64,1,00,Migrating Special,60
+Whole life,61-64,1,10,apply by self,4
+Whole life,61-64,1,25,Introduced by Agency,1
+Whole life,61-64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),37
+Whole life,61-64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),55
+Whole life,61-64,1,60,Existing Policyholder,297
+Whole life,61-64,1,70,Group,37
+Whole life,61-64,1,99,Other,63
+Whole life,61-64,1,A1,Conversion Policy,26
+Whole life,61-64,1,,,268
+Whole life,61-64,2,00,Migrating Special,35
+Whole life,61-64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),13
+Whole life,61-64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),28
+Whole life,61-64,2,60,Existing Policyholder,107
+Whole life,61-64,2,70,Group,36
+Whole life,61-64,2,99,Other,42
+Whole life,61-64,2,A1,Conversion Policy,5
+Whole life,61-64,2,,,168
+Whole life,greater than 64,1,00,Migrating Special,32
+Whole life,greater than 64,1,10,apply by self,7
+Whole life,greater than 64,1,25,Introduced by Agency,5
+Whole life,greater than 64,1,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),69
+Whole life,greater than 64,1,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),175
+Whole life,greater than 64,1,60,Existing Policyholder,571
+Whole life,greater than 64,1,70,Group,181
+Whole life,greater than 64,1,99,Other,232
+Whole life,greater than 64,1,A1,Conversion Policy,98
+Whole life,greater than 64,1,,,287
+Whole life,greater than 64,2,00,Migrating Special,20
+Whole life,greater than 64,2,10,apply by self,4
+Whole life,greater than 64,2,25,Introduced by Agency,2
+Whole life,greater than 64,2,30,Agent him/herself and their living relatives(Short name: Oneself / living relatives),51
+Whole life,greater than 64,2,40,Friends/acquaintance/Family/Relative(Short name: Friends/acquaintance/Family/Relative),96
+Whole life,greater than 64,2,60,Existing Policyholder,281
+Whole life,greater than 64,2,70,Group,121
+Whole life,greater than 64,2,99,Other,178
+Whole life,greater than 64,2,A1,Conversion Policy,30
+Whole life,greater than 64,2,,,212

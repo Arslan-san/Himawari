@@ -1,0 +1,309 @@
+gender:policy_type:age_group:average_number_riders:top_5_rider_with_frequency
+1:Cancer:18-22:0.0123261694:('Advanced Medical', 52)-('Family Cancer', 35)-('Cancer Death', 15)-('Cancer Dia', 10)-('Female Operation', 5)
+1:M.I.P:18-22:0.2073732719:('M.I.P rider', 80)-('Accidental Death', 40)-('Family Medical', 4)-('Acc. Hospital', 3)-('Sickness Hospital', 3)
+1:Endowment:18-22:1.1283018868:('Term rider', 97)-('Sickness Hospital', 74)-('Acc. Hospital', 72)-('Accidental Death', 54)-('Adult Disease Hospital', 2)
+1:Medical:18-22:1.6178828196:('Medical Operation', 12473)-('Outpatient', 6291)-('Advanced Medical', 5735)-('Acc. Hospital', 5050)-('Adult Disease Hospital', 3107)
+1:Whole life:18-22:1.3691247557:('Accidental Death', 5007)-('Sickness Hospital', 3691)-('Acc. Hospital', 3540)-('Term rider', 457)-('M.I.P rider', 390)
+1:Inc. Dec. Term Life:18-22:0:
+1:Injury:18-22:nan:
+1:Term life:18-22:1.3870819973:('Accidental Death', 1017)-('Sickness Hospital', 897)-('Acc. Hospital', 779)-('M.I.P rider', 254)-('Inc. Term rider', 41)
+1:Juvenile:18-22:2.0081632653:('Acc. Hospital', 342)-('Sickness Hospital', 341)-('Acc.Outpatient', 301)
+1:Annuity(Annuity Certain ):18-22:0.0320855615:('Sickness Hospital', 6)-('Acc. Hospital', 4)-('Term rider', 1)-('Accidental Death', 1)
+1:Dread Disease W.L.:18-22:0.3205128205:('Family Medical', 370)-('Medical Operation(Solatium)', 5)
+1:VL Whole life:18-22:1.1833333333:('Accidental Death', 158)-('Sickness Hospital', 82)-('Acc. Hospital', 81)-('Term rider', 15)-('M.I.P rider', 12)
+1:Dread Disease T.L.:18-22:0:
+1:Joint life:18-22:4.7272727273:('Acc. Hospital', 19)-('Sickness Hospital', 19)-('Accidental Death', 14)
+1:Nursing care:18-22:0:
+1:Female Disease:18-22:1:('Female Operation', 33)
+1:Joint life(Flexible):18-22:1.5178571429:('Acc. Hospital', 30)-('Sickness Hospital', 28)-('Accidental Death', 22)-('Term rider', 3)-('Inc. Term rider', 2)
+1:VL Endowment:18-22:0.2:('Accidental Death', 2)
+1:J.M.I.P:18-22:0:
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):18-22:0:
+1:Medical（Coins） :18-22:nan:
+1:Maternity Insurance(or New Pregnant Woman Insurance):18-22:nan:
+1:Cancer:23-30:0.029108599:('Family Cancer', 729)-('Advanced Medical', 427)-('Female Operation', 140)-('Cancer Death', 95)-('Cancer Dia', 69)
+1:M.I.P:23-30:0.1271154803:('M.I.P rider', 1219)-('Accidental Death', 592)-('Term rider', 83)-('Acc. Hospital', 51)-('Sickness Hospital', 50)
+1:Endowment:23-30:0.8184892897:('Term rider', 246)-('Sickness Hospital', 158)-('Accidental Death', 154)-('Acc. Hospital', 154)-('M.I.P rider', 11)
+1:Medical:23-30:1.6822573502:('Medical Operation', 53458)-('Advanced Medical', 31628)-('Outpatient', 27162)-('Acc. Hospital', 19565)-('Adult Disease Hospital', 18889)
+1:Whole life:23-30:1.0736916158:('Accidental Death', 15818)-('Sickness Hospital', 9870)-('Acc. Hospital', 9573)-('M.I.P rider', 4903)-('Term rider', 1631)
+1:Inc. Dec. Term Life:23-30:0.0769230769:('Accidental Death', 1)
+1:Injury:23-30:1:('Acc. Hospital', 10)
+1:Term life:23-30:1.3196439409:('M.I.P rider', 5786)-('Accidental Death', 5313)-('Sickness Hospital', 4390)-('Acc. Hospital', 3356)-('Adult Disease Hospital', 368)
+1:Juvenile:23-30:2.0655848546:('Acc. Hospital', 4245)-('Sickness Hospital', 4245)-('Acc.Outpatient', 3730)
+1:Annuity(Annuity Certain ):23-30:0.0181918412:('Acc. Hospital', 13)-('Sickness Hospital', 12)-('Term rider', 5)-('Accidental Death', 3)
+1:Dread Disease W.L.:23-30:0.2130071599:('Family Medical', 1061)-('Medical Operation(Solatium)', 10)
+1:VL Whole life:23-30:0.7914650242:('Accidental Death', 961)-('M.I.P rider', 316)-('Sickness Hospital', 218)-('Acc. Hospital', 214)-('Term rider', 57)
+1:Dread Disease T.L.:23-30:0:
+1:Joint life:23-30:4.4516129032:('Sickness Hospital', 392)-('Acc. Hospital', 387)-('Accidental Death', 325)
+1:Nursing care:23-30:0:
+1:Female Disease:23-30:0.9914529915:('Female Operation', 928)
+1:Joint life(Flexible):23-30:1.7490566038:('Accidental Death', 340)-('Sickness Hospital', 265)-('Acc. Hospital', 252)-('Term rider', 47)-('Inc. Term rider', 23)
+1:VL Endowment:23-30:0.4210526316:('Acc. Hospital', 8)-('Sickness Hospital', 8)-('Accidental Death', 7)-('Term rider', 1)
+1:J.M.I.P:23-30:0.2666666667:('Acc. Hospital', 4)-('Sickness Hospital', 4)
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):23-30:0.1166666667:('Acc. Hospital', 3)-('Sickness Hospital', 3)-('Term rider', 1)
+1:Medical（Coins） :23-30:nan:
+1:Maternity Insurance(or New Pregnant Woman Insurance):23-30:0:
+1:Cancer:31-40:0.0627573841:('Family Cancer', 1828)-('Advanced Medical', 801)-('Female Operation', 353)-('Cancer Death', 105)-('Cancer Dia', 98)
+1:M.I.P:31-40:0.1377696527:('M.I.P rider', 1651)-('Accidental Death', 1430)-('Term rider', 281)-('Sickness Hospital', 155)-('Acc. Hospital', 152)
+1:Endowment:31-40:0.6670731707:('Term rider', 479)-('Acc. Hospital', 205)-('Sickness Hospital', 205)-('Accidental Death', 183)-('M.I.P rider', 14)
+1:Medical:31-40:1.7617780584:('Medical Operation', 59248)-('Advanced Medical', 46046)-('Outpatient', 29316)-('Adult Disease Hospital', 26831)-('Acc. Hospital', 23174)
+1:Whole life:31-40:1.0620813709:('Accidental Death', 14673)-('Sickness Hospital', 10716)-('Acc. Hospital', 10275)-('M.I.P rider', 6531)-('Term rider', 1654)
+1:Inc. Dec. Term Life:31-40:0.1162790698:('Sickness Hospital', 2)-('Accidental Death', 2)-('Acc. Hospital', 1)
+1:Injury:31-40:1:('Acc. Hospital', 171)
+1:Term life:31-40:1.4846448416:('Sickness Hospital', 11390)-('M.I.P rider', 9675)-('Accidental Death', 8830)-('Acc. Hospital', 7872)-('Adult Disease Hospital', 1356)
+1:Juvenile:31-40:1.9625928427:('Sickness Hospital', 5085)-('Acc. Hospital', 5045)-('Acc.Outpatient', 4403)
+1:Annuity(Annuity Certain ):31-40:0.0095959596:('Acc. Hospital', 7)-('Sickness Hospital', 6)-('Term rider', 3)-('Accidental Death', 2)-('Adult Disease Hospital', 1)
+1:Dread Disease W.L.:31-40:0.1911041134:('Family Medical', 959)-('Medical Operation(Solatium)', 12)
+1:VL Whole life:31-40:0.7493950916:('Accidental Death', 1060)-('M.I.P rider', 461)-('Acc. Hospital', 275)-('Sickness Hospital', 274)-('Term rider', 54)
+1:Dread Disease T.L.:31-40:0:
+1:Joint life:31-40:4.4:('Sickness Hospital', 490)-('Acc. Hospital', 466)-('Accidental Death', 452)
+1:Nursing care:31-40:0:
+1:Female Disease:31-40:0.9838354151:('Female Operation', 1339)
+1:Joint life(Flexible):31-40:1.378962536:('Accidental Death', 338)-('Sickness Hospital', 277)-('Acc. Hospital', 276)-('Inc. Term rider', 35)-('Term rider', 31)
+1:VL Endowment:31-40:0.101010101:('Accidental Death', 6)-('Acc. Hospital', 6)-('Sickness Hospital', 6)-('Term rider', 1)-('Endowment rider', 1)
+1:J.M.I.P:31-40:0.1666666667:('Accidental Death', 4)-('Acc. Hospital', 3)-('Sickness Hospital', 3)
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):31-40:0.1458333333:('Acc. Hospital', 3)-('Sickness Hospital', 3)-('Adult Disease Hospital', 1)
+1:Medical（Coins） :31-40:nan:
+1:Maternity Insurance(or New Pregnant Woman Insurance):31-40:nan:
+1:Cancer:41-50:0.0661790017:('Family Cancer', 1860)-('Advanced Medical', 586)-('Female Operation', 358)-('Cancer Dia', 174)-('Cancer Death', 98)
+1:M.I.P:41-50:0.1627983539:('Accidental Death', 949)-('M.I.P rider', 589)-('Term rider', 164)-('Acc. Hospital', 111)-('Sickness Hospital', 111)
+1:Endowment:41-50:0.4630102041:('Term rider', 492)-('Sickness Hospital', 208)-('Acc. Hospital', 203)-('Accidental Death', 176)-('M.I.P rider', 4)
+1:Medical:41-50:1.6533285822:('Medical Operation', 47599)-('Advanced Medical', 26522)-('Outpatient', 20807)-('Acc. Hospital', 18357)-('Adult Disease Hospital', 14103)
+1:Whole life:41-50:1.1012264186:('Accidental Death', 9439)-('Sickness Hospital', 7641)-('Acc. Hospital', 7329)-('M.I.P rider', 3100)-('Term rider', 1241)
+1:Inc. Dec. Term Life:41-50:0.1954022989:('Accidental Death', 12)-('Acc. Hospital', 3)-('Sickness Hospital', 2)
+1:Injury:41-50:1:('Acc. Hospital', 219)
+1:Term life:41-50:1.4617944938:('Sickness Hospital', 10313)-('Acc. Hospital', 6868)-('Accidental Death', 6765)-('M.I.P rider', 4994)-('Adult Disease Hospital', 1320)
+1:Juvenile:41-50:1.8550624133:('Sickness Hospital', 942)-('Acc. Hospital', 941)-('Acc.Outpatient', 792)
+1:Annuity(Annuity Certain ):41-50:0.0174146015:('Sickness Hospital', 10)-('Acc. Hospital', 8)-('Term rider', 6)-('Accidental Death', 2)
+1:Dread Disease W.L.:41-50:0.2510373444:('Family Medical', 719)-('Medical Operation(Solatium)', 7)
+1:VL Whole life:41-50:0.7705035971:('Accidental Death', 487)-('M.I.P rider', 179)-('Acc. Hospital', 169)-('Sickness Hospital', 167)-('Term rider', 51)
+1:Dread Disease T.L.:41-50:0:
+1:Joint life:41-50:4.5625:('Sickness Hospital', 253)-('Acc. Hospital', 243)-('Accidental Death', 234)
+1:Nursing care:41-50:0:
+1:Female Disease:41-50:0.9865534324:('Female Operation', 1394)
+1:Joint life(Flexible):41-50:1.0756143667:('Accidental Death', 182)-('Acc. Hospital', 138)-('Sickness Hospital', 131)-('Inc. Term rider', 93)-('Term rider', 25)
+1:VL Endowment:41-50:0.21875:('Accidental Death', 7)-('Acc. Hospital', 7)-('Sickness Hospital', 7)
+1:J.M.I.P:41-50:0.1470588235:('Accidental Death', 4)-('Term rider', 2)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):41-50:0.0833333333:('Acc. Hospital', 1)-('Sickness Hospital', 1)-('Adult Disease Hospital', 1)
+1:Medical（Coins） :41-50:0:
+1:Maternity Insurance(or New Pregnant Woman Insurance):41-50:nan:
+1:Cancer:51-60:0.0678892734:('Family Cancer', 1158)-('Advanced Medical', 406)-('Female Operation', 199)-('Cancer Dia', 152)-('Cancer Death', 47)
+1:M.I.P:51-60:0.1603643389:('Accidental Death', 319)-('M.I.P rider', 150)-('Term rider', 47)-('Sickness Hospital', 23)-('Acc. Hospital', 22)
+1:Endowment:51-60:0.4182926829:('Term rider', 387)-('Acc. Hospital', 104)-('Sickness Hospital', 97)-('Accidental Death', 94)-('M.I.P rider', 3)
+1:Medical:51-60:1.5716351922:('Medical Operation', 28155)-('Advanced Medical', 16743)-('Acc. Hospital', 12533)-('Outpatient', 11968)-('Adult Disease Hospital', 7999)
+1:Whole life:51-60:0.8221323529:('Accidental Death', 3971)-('Sickness Hospital', 2964)-('Acc. Hospital', 2808)-('M.I.P rider', 602)-('Term rider', 548)
+1:Inc. Dec. Term Life:51-60:0.0875912409:('Accidental Death', 8)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+1:Injury:51-60:1:('Acc. Hospital', 375)
+1:Term life:51-60:1.2960337687:('Sickness Hospital', 6026)-('Acc. Hospital', 3927)-('Accidental Death', 3802)-('M.I.P rider', 1348)-('Adult Disease Hospital', 869)
+1:Juvenile:51-60:1.7537313433:('Acc. Hospital', 166)-('Sickness Hospital', 166)-('Acc.Outpatient', 138)
+1:Annuity(Annuity Certain ):51-60:0.0058309038:('Acc. Hospital', 2)-('Sickness Hospital', 2)
+1:Dread Disease W.L.:51-60:0.2526315789:('Family Medical', 429)-('Medical Operation(Solatium)', 3)
+1:VL Whole life:51-60:0.428125:('Accidental Death', 166)-('M.I.P rider', 35)-('Acc. Hospital', 29)-('Sickness Hospital', 28)-('Term rider', 14)
+1:Dread Disease T.L.:51-60:0:
+1:Joint life:51-60:4.7704918033:('Sickness Hospital', 107)-('Acc. Hospital', 101)-('Accidental Death', 83)
+1:Nursing care:51-60:0:
+1:Female Disease:51-60:0.9959623149:('Female Operation', 740)
+1:Joint life(Flexible):51-60:0.7663316583:('Accidental Death', 110)-('Acc. Hospital', 66)-('Sickness Hospital', 64)-('Inc. Term rider', 62)-('Term rider', 3)
+1:VL Endowment:51-60:0.1304347826:('Accidental Death', 4)-('Acc. Hospital', 4)-('Sickness Hospital', 4)
+1:J.M.I.P:51-60:0.0384615385:('Accidental Death', 1)
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):51-60:0:
+1:Medical（Coins） :51-60:0:
+1:Maternity Insurance(or New Pregnant Woman Insurance):51-60:nan:
+1:Cancer:61-64:0.1033742331:('Family Cancer', 145)-('Advanced Medical', 138)-('Cancer Dia', 21)-('Cancer Death', 17)-('Female Operation', 16)
+1:M.I.P:61-64:0.1092150171:('Accidental Death', 21)-('M.I.P rider', 7)-('Term rider', 4)
+1:Endowment:61-64:0.3712296984:('Term rider', 113)-('Accidental Death', 23)-('Sickness Hospital', 13)-('Acc. Hospital', 11)
+1:Medical:61-64:1.5502050004:('Medical Operation', 4577)-('Advanced Medical', 4521)-('Outpatient', 2287)-('Acc. Hospital', 2116)-('Adult Disease Hospital', 1901)
+1:Whole life:61-64:0.4889867841:('Accidental Death', 454)-('Sickness Hospital', 323)-('Acc. Hospital', 320)-('Term rider', 43)-('M.I.P rider', 30)
+1:Inc. Dec. Term Life:61-64:0.1020408163:('Accidental Death', 3)-('Acc. Hospital', 1)-('Sickness Hospital', 1)
+1:Injury:61-64:1:('Acc. Hospital', 81)
+1:Term life:61-64:0.6755986317:('Accidental Death', 405)-('Sickness Hospital', 377)-('Acc. Hospital', 305)-('M.I.P rider', 68)-('Inc. Term rider', 14)
+1:Juvenile:61-64:1.6769230769:('Acc. Hospital', 40)-('Sickness Hospital', 38)-('Acc.Outpatient', 31)
+1:Annuity(Annuity Certain ):61-64:0.03125:('Acc. Hospital', 1)-('Sickness Hospital', 1)
+1:Dread Disease W.L.:61-64:0.2234636872:('Family Medical', 40)
+1:VL Whole life:61-64:0.3978494624:('Accidental Death', 19)-('Sickness Hospital', 9)-('Acc. Hospital', 8)-('Term rider', 1)
+1:Dread Disease T.L.:61-64:0:
+1:Joint life:61-64:3.7:('Acc. Hospital', 13)-('Accidental Death', 12)-('Sickness Hospital', 12)
+1:Nursing care:61-64:0:
+1:Female Disease:61-64:0.9818181818:('Female Operation', 54)
+1:Joint life(Flexible):61-64:0.743902439:('Inc. Term rider', 23)-('Accidental Death', 14)-('Acc. Hospital', 12)-('Sickness Hospital', 11)-('Term rider', 1)
+1:VL Endowment:61-64:0.0740740741:('Acc. Hospital', 1)-('Sickness Hospital', 1)
+1:J.M.I.P:61-64:0:
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):61-64:0:
+1:Medical（Coins） :61-64:0:
+1:Maternity Insurance(or New Pregnant Woman Insurance):61-64:nan:
+1:Cancer:65 and above:0.1183834049:('Advanced Medical', 175)-('Family Cancer', 108)-('Female Operation', 23)-('Cancer Death', 16)-('Cancer Dia', 9)
+1:M.I.P:65 and above:0.0625:('M.I.P rider', 4)-('Family Medical', 3)-('Accidental Death', 2)-('Term rider', 1)
+1:Endowment:65 and above:0.3259259259:('Term rider', 95)-('Accidental Death', 13)-('Acc. Hospital', 13)-('Sickness Hospital', 10)-('Adult Disease Hospital', 1)
+1:Medical:65 and above:1.4631327222:('Advanced Medical', 4882)-('Medical Operation', 2124)-('Adult Disease Hospital', 1787)-('Outpatient', 1428)-('Acc. Hospital', 1280)
+1:Whole life:65 and above:0.2917922948:('Sickness Hospital', 289)-('Acc. Hospital', 284)-('Accidental Death', 180)-('Inc. Term rider', 39)-('Term rider', 35)
+1:Inc. Dec. Term Life:65 and above:0.0869565217:('Acc. Hospital', 2)-('Accidental Death', 1)-('Sickness Hospital', 1)
+1:Injury:65 and above:0.9850746269:('Acc. Hospital', 66)
+1:Term life:65 and above:0.5383104126:('Sickness Hospital', 324)-('Acc. Hospital', 270)-('Accidental Death', 169)-('Inc. Term rider', 35)-('M.I.P rider', 12)
+1:Juvenile:65 and above:1.4:('Acc. Hospital', 8)-('Sickness Hospital', 8)-('Acc.Outpatient', 5)
+1:Annuity(Annuity Certain ):65 and above:0:
+1:Dread Disease W.L.:65 and above:0.2596153846:('Family Medical', 27)
+1:VL Whole life:65 and above:0.2954545455:('Acc. Hospital', 15)-('Sickness Hospital', 14)-('Accidental Death', 9)-('Inc. Term rider', 1)
+1:Dread Disease T.L.:65 and above:0:
+1:Joint life:65 and above:0:
+1:Nursing care:65 and above:0:
+1:Female Disease:65 and above:1:('Female Operation', 54)
+1:Joint life(Flexible):65 and above:0.6787878788:('Inc. Term rider', 56)-('Accidental Death', 26)-('Sickness Hospital', 14)-('Acc. Hospital', 12)-('Term rider', 4)
+1:VL Endowment:65 and above:0.0163934426:('Accidental Death', 1)
+1:J.M.I.P:65 and above:0:
+1:Annuity(Whole Life Annuity With Guaranteed Installment ):65 and above:0:
+1:Medical（Coins） :65 and above:0:
+1:Maternity Insurance(or New Pregnant Woman Insurance):65 and above:nan:
+2:Cancer:18-22:0.1187105577:('Female Operation', 633)-('Advanced Medical', 42)-('Cancer Dia', 13)-('Cancer Death', 8)
+2:M.I.P:18-22:0.2276422764:('M.I.P rider', 24)-('Family Medical', 2)-('Accidental Death', 2)
+2:Endowment:18-22:1.4620689655:('Term rider', 122)-('Sickness Hospital', 118)-('Acc. Hospital', 115)-('Accidental Death', 69)
+2:Medical:18-22:2.5872082471:('Medical Operation', 16291)-('Outpatient', 10021)-('Female Operation', 9217)-('Acc. Hospital', 8044)-('Advanced Medical', 7079)
+2:Whole life:18-22:1.3252074689:('Accidental Death', 2850)-('Sickness Hospital', 2267)-('Acc. Hospital', 2160)-('Term rider', 202)-('Inc. Term rider', 76)
+2:Inc. Dec. Term Life:18-22:nan:
+2:Injury:18-22:nan:
+2:Term life:18-22:1.5038314176:('Sickness Hospital', 595)-('Accidental Death', 478)-('Acc. Hospital', 416)-('Adult Disease Hospital', 32)-('Inc. Term rider', 21)
+2:Juvenile:18-22:1.9704433498:('Sickness Hospital', 279)-('Acc. Hospital', 277)-('Acc.Outpatient', 244)
+2:Annuity(Annuity Certain ):18-22:0.0321637427:('Term rider', 5)-('Accidental Death', 2)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+2:Dread Disease W.L.:18-22:0.3259803922:('Family Medical', 263)-('Medical Operation(Solatium)', 3)
+2:VL Whole life:18-22:0.9931972789:('Accidental Death', 70)-('Acc. Hospital', 33)-('Sickness Hospital', 31)-('Term rider', 8)-('Inc. Term rider', 2)
+2:Dread Disease T.L.:18-22:0:
+2:Joint life:18-22:4.5:('Accidental Death', 6)-('Acc. Hospital', 6)-('Sickness Hospital', 6)
+2:Nursing care:18-22:0:
+2:Female Disease:18-22:0.9967654987:('Female Operation', 3698)
+2:Joint life(Flexible):18-22:0.2608695652:('Accidental Death', 2)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+2:VL Endowment:18-22:1.4:('Accidental Death', 5)-('Acc. Hospital', 4)-('Sickness Hospital', 4)-('Term rider', 1)
+2:J.M.I.P:18-22:0:
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):18-22:0.1111111111:('Term rider', 1)
+2:Medical（Coins） :18-22:nan:
+2:Maternity Insurance(or New Pregnant Woman Insurance):18-22:nan:
+2:Cancer:23-30:0.1900487189:('Female Operation', 3710)-('Advanced Medical', 408)-('Cancer Dia', 37)-('Cancer Death', 37)-('Family Cancer', 21)
+2:M.I.P:23-30:0.161317929:('M.I.P rider', 304)-('Accidental Death', 51)-('Term rider', 12)-('Family Medical', 9)-('Medical Operation(Solatium)', 1)
+2:Endowment:23-30:0.995215311:('Term rider', 349)-('Sickness Hospital', 181)-('Acc. Hospital', 175)-('Accidental Death', 120)-('Endowment rider', 3)
+2:Medical:23-30:3.0720354796:('Medical Operation', 66257)-('Female Operation', 47785)-('Outpatient', 47284)-('Acc. Hospital', 37706)-('Advanced Medical', 34383)
+2:Whole life:23-30:0.9102103643:('Accidental Death', 6067)-('Sickness Hospital', 4315)-('Acc. Hospital', 4156)-('Term rider', 644)-('M.I.P rider', 386)
+2:Inc. Dec. Term Life:23-30:0:
+2:Injury:23-30:1:('Acc. Hospital', 1)
+2:Term life:23-30:1.2841815681:('Sickness Hospital', 1462)-('Accidental Death', 1374)-('Acc. Hospital', 1180)-('M.I.P rider', 420)-('Inc. Term rider', 121)
+2:Juvenile:23-30:1.9623834887:('Acc. Hospital', 2035)-('Sickness Hospital', 2034)-('Acc.Outpatient', 1826)
+2:Annuity(Annuity Certain ):23-30:0.0217548949:('Sickness Hospital', 11)-('Acc. Hospital', 9)-('Term rider', 6)-('Accidental Death', 2)-('Adult Disease Hospital', 2)
+2:Dread Disease W.L.:23-30:0.222826087:('Family Medical', 651)-('Medical Operation(Solatium)', 5)
+2:VL Whole life:23-30:0.6513761468:('Accidental Death', 319)-('Sickness Hospital', 77)-('Acc. Hospital', 76)-('M.I.P rider', 39)-('Term rider', 37)
+2:Dread Disease T.L.:23-30:0:
+2:Joint life:23-30:4.9473684211:('Accidental Death', 32)-('Acc. Hospital', 31)-('Sickness Hospital', 31)
+2:Nursing care:23-30:0:
+2:Female Disease:23-30:0.995807272:('Female Operation', 14488)
+2:Joint life(Flexible):23-30:0.4470588235:('Acc. Hospital', 11)-('Sickness Hospital', 11)-('Accidental Death', 9)-('Inc. Term rider', 5)-('Term rider', 2)
+2:VL Endowment:23-30:0.8205128205:('Accidental Death', 10)-('Sickness Hospital', 10)-('Acc. Hospital', 10)-('Term rider', 2)
+2:J.M.I.P:23-30:2:('Acc. Hospital', 4)-('Sickness Hospital', 4)-('Accidental Death', 2)
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):23-30:0.125:('Acc. Hospital', 2)-('Sickness Hospital', 2)-('Adult Disease Hospital', 1)
+2:Medical（Coins） :23-30:nan:
+2:Maternity Insurance(or New Pregnant Woman Insurance):23-30:0:
+2:Cancer:31-40:0.264235046:('Female Operation', 4586)-('Advanced Medical', 702)-('Cancer Dia', 114)-('Cancer Death', 73)-('Family Cancer', 38)
+2:M.I.P:31-40:0.1614043355:('M.I.P rider', 477)-('Accidental Death', 118)-('Term rider', 30)-('Family Medical', 29)-('Acc. Hospital', 13)
+2:Endowment:31-40:0.86846543:('Term rider', 559)-('Sickness Hospital', 175)-('Acc. Hospital', 170)-('Accidental Death', 122)-('Adult Disease Hospital', 2)
+2:Medical:31-40:2.9387842834:('Medical Operation', 56077)-('Female Operation', 45549)-('Advanced Medical', 45046)-('Outpatient', 41024)-('Acc. Hospital', 34341)
+2:Whole life:31-40:0.8201198494:('Accidental Death', 5479)-('Sickness Hospital', 4236)-('Acc. Hospital', 4027)-('M.I.P rider', 704)-('Term rider', 684)
+2:Inc. Dec. Term Life:31-40:0:
+2:Injury:31-40:1:('Acc. Hospital', 11)
+2:Term life:31-40:1.2838840189:('Sickness Hospital', 2401)-('Accidental Death', 2073)-('Acc. Hospital', 1932)-('M.I.P rider', 859)-('Adult Disease Hospital', 172)
+2:Juvenile:31-40:1.7619201031:('Sickness Hospital', 1904)-('Acc. Hospital', 1884)-('Acc.Outpatient', 1681)
+2:Annuity(Annuity Certain ):31-40:0.0155300473:('Acc. Hospital', 9)-('Sickness Hospital', 9)-('Term rider', 5)
+2:Dread Disease W.L.:31-40:0.2048012003:('Family Medical', 536)-('Medical Operation(Solatium)', 10)
+2:VL Whole life:31-40:0.5442902882:('Accidental Death', 271)-('Sickness Hospital', 63)-('Acc. Hospital', 61)-('M.I.P rider', 59)-('Term rider', 34)
+2:Dread Disease T.L.:31-40:0:
+2:Joint life:31-40:4.2352941176:('Sickness Hospital', 51)-('Acc. Hospital', 48)-('Accidental Death', 45)
+2:Nursing care:31-40:0:
+2:Female Disease:31-40:0.995399655:('Female Operation', 8655)
+2:Joint life(Flexible):31-40:0.3532110092:('Acc. Hospital', 25)-('Sickness Hospital', 25)-('Accidental Death', 21)-('Inc. Term rider', 6)
+2:VL Endowment:31-40:0.5789473684:('Accidental Death', 7)-('Acc. Hospital', 7)-('Sickness Hospital', 7)-('Term rider', 1)
+2:J.M.I.P:31-40:0.24:('Accidental Death', 2)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):31-40:0.1034482759:('Acc. Hospital', 1)-('Sickness Hospital', 1)-('Term rider', 1)
+2:Medical（Coins） :31-40:0:
+2:Maternity Insurance(or New Pregnant Woman Insurance):31-40:0:
+2:Cancer:41-50:0.2230021057:('Female Operation', 3528)-('Advanced Medical', 540)-('Cancer Dia', 245)-('Cancer Death', 77)-('Family Cancer', 58)
+2:M.I.P:41-50:0.170719603:('M.I.P rider', 196)-('Accidental Death', 99)-('Sickness Hospital', 13)-('Term rider', 12)-('Acc. Hospital', 10)
+2:Endowment:41-50:0.8879310345:('Term rider', 450)-('Sickness Hospital', 171)-('Acc. Hospital', 168)-('Accidental Death', 127)-('Endowment rider', 4)
+2:Medical:41-50:2.360618793:('Medical Operation', 36335)-('Advanced Medical', 28808)-('Outpatient', 22761)-('Female Operation', 21686)-('Acc. Hospital', 18493)
+2:Whole life:41-50:0.9050784857:('Accidental Death', 5119)-('Sickness Hospital', 4280)-('Acc. Hospital', 4061)-('Term rider', 599)-('M.I.P rider', 321)
+2:Inc. Dec. Term Life:41-50:0.0588235294:('Accidental Death', 1)
+2:Injury:41-50:1:('Acc. Hospital', 28)
+2:Term life:41-50:1.2270818754:('Sickness Hospital', 2303)-('Accidental Death', 2081)-('Acc. Hospital', 1851)-('M.I.P rider', 500)-('Adult Disease Hospital', 164)
+2:Juvenile:41-50:1.579766537:('Acc. Hospital', 284)-('Sickness Hospital', 281)-('Acc.Outpatient', 247)
+2:Annuity(Annuity Certain ):41-50:0.0142964635:('Sickness Hospital', 8)-('Acc. Hospital', 7)-('Term rider', 3)-('Accidental Death', 1)
+2:Dread Disease W.L.:41-50:0.2634920635:('Family Medical', 493)-('Medical Operation(Solatium)', 5)
+2:VL Whole life:41-50:0.5644171779:('Accidental Death', 175)-('Acc. Hospital', 70)-('Sickness Hospital', 69)-('Term rider', 24)-('M.I.P rider', 24)
+2:Dread Disease T.L.:41-50:0:
+2:Joint life:41-50:4.2894736842:('Sickness Hospital', 57)-('Acc. Hospital', 55)-('Accidental Death', 51)
+2:Nursing care:41-50:0:
+2:Female Disease:41-50:0.9952586207:('Female Operation', 4618)
+2:Joint life(Flexible):41-50:0.479245283:('Accidental Death', 40)-('Inc. Term rider', 34)-('Sickness Hospital', 27)-('Acc. Hospital', 25)-('Term rider', 1)
+2:VL Endowment:41-50:0.6136363636:('Accidental Death', 9)-('Acc. Hospital', 9)-('Sickness Hospital', 9)
+2:J.M.I.P:41-50:0.0833333333:('Acc. Hospital', 2)-('Sickness Hospital', 2)
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):41-50:0.1724137931:('Acc. Hospital', 2)-('Sickness Hospital', 2)-('Adult Disease Hospital', 1)
+2:Medical（Coins） :41-50:0:
+2:Maternity Insurance(or New Pregnant Woman Insurance):41-50:nan:
+2:Cancer:51-60:0.1840069409:('Female Operation', 1735)-('Advanced Medical', 483)-('Cancer Dia', 236)-('Cancer Death', 74)-('Family Cancer', 17)
+2:M.I.P:51-60:0.2048364154:('M.I.P rider', 84)-('Accidental Death', 47)-('Term rider', 6)-('Family Medical', 4)-('Sickness Hospital', 2)
+2:Endowment:51-60:0.823943662:('Term rider', 326)-('Acc. Hospital', 92)-('Sickness Hospital', 89)-('Accidental Death', 75)-('Adult Disease Hospital', 1)
+2:Medical:51-60:1.9750004433:('Medical Operation', 22321)-('Advanced Medical', 21447)-('Outpatient', 13090)-('Acc. Hospital', 11999)-('Female Operation', 10777)
+2:Whole life:51-60:0.6273030356:('Accidental Death', 2600)-('Sickness Hospital', 1995)-('Acc. Hospital', 1928)-('Term rider', 301)-('M.I.P rider', 122)
+2:Inc. Dec. Term Life:51-60:0:
+2:Injury:51-60:1:('Acc. Hospital', 8)
+2:Term life:51-60:0.9711191336:('Sickness Hospital', 1365)-('Accidental Death', 1305)-('Acc. Hospital', 1026)-('M.I.P rider', 167)-('Adult Disease Hospital', 91)
+2:Juvenile:51-60:1.7787056367:('Acc. Hospital', 295)-('Sickness Hospital', 295)-('Acc.Outpatient', 262)
+2:Annuity(Annuity Certain ):51-60:0.0190895742:('Sickness Hospital', 7)-('Acc. Hospital', 6)
+2:Dread Disease W.L.:51-60:0.2589489718:('Family Medical', 332)-('Medical Operation(Solatium)', 8)
+2:VL Whole life:51-60:0.4166666667:('Accidental Death', 109)-('Acc. Hospital', 31)-('Sickness Hospital', 30)-('Term rider', 16)-('M.I.P rider', 8)
+2:Dread Disease T.L.:51-60:0:
+2:Joint life:51-60:1.5:('Accidental Death', 2)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+2:Nursing care:51-60:0:
+2:Female Disease:51-60:0.9923039923:('Female Operation', 2063)
+2:Joint life(Flexible):51-60:0.3814814815:('Inc. Term rider', 47)-('Accidental Death', 35)-('Acc. Hospital', 8)-('Sickness Hospital', 8)-('Term rider', 5)
+2:VL Endowment:51-60:0.3333333333:('Acc. Hospital', 3)-('Sickness Hospital', 3)-('Accidental Death', 3)
+2:J.M.I.P:51-60:0:
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):51-60:0:
+2:Medical（Coins） :51-60:0:
+2:Maternity Insurance(or New Pregnant Woman Insurance):51-60:nan:
+2:Cancer:61-64:0.2436394998:('Female Operation', 273)-('Advanced Medical', 219)-('Cancer Death', 41)-('Cancer Dia', 30)-('Family Cancer', 2)
+2:M.I.P:61-64:0.170212766:('M.I.P rider', 8)-('Accidental Death', 6)-('Term rider', 2)
+2:Endowment:61-64:0.6338028169:('Term rider', 77)-('Sickness Hospital', 25)-('Acc. Hospital', 19)-('Accidental Death', 14)
+2:Medical:61-64:1.815889029:('Advanced Medical', 7410)-('Medical Operation', 4331)-('Outpatient', 3195)-('Adult Disease Hospital', 2667)-('Acc. Hospital', 2401)
+2:Whole life:61-64:0.324117861:('Accidental Death', 342)-('Acc. Hospital', 241)-('Sickness Hospital', 238)-('Term rider', 38)-('M.I.P rider', 11)
+2:Inc. Dec. Term Life:61-64:0:
+2:Injury:61-64:1:('Acc. Hospital', 3)
+2:Term life:61-64:0.6574585635:('Sickness Hospital', 213)-('Accidental Death', 189)-('Acc. Hospital', 155)-('M.I.P rider', 16)-('Adult Disease Hospital', 11)
+2:Juvenile:61-64:1.7364341085:('Acc. Hospital', 80)-('Sickness Hospital', 80)-('Acc.Outpatient', 64)
+2:Annuity(Annuity Certain ):61-64:0:
+2:Dread Disease W.L.:61-64:0.1714285714:('Family Medical', 30)
+2:VL Whole life:61-64:0.358490566:('Accidental Death', 16)-('Acc. Hospital', 11)-('Sickness Hospital', 8)-('Term rider', 2)-('Adult Disease Hospital', 1)
+2:Dread Disease T.L.:61-64:0:
+2:Joint life:61-64:4:('Acc. Hospital', 5)-('Sickness Hospital', 5)-('Accidental Death', 2)
+2:Nursing care:61-64:0:
+2:Female Disease:61-64:0.9873817035:('Female Operation', 313)
+2:Joint life(Flexible):61-64:0.3692307692:('Inc. Term rider', 14)-('Accidental Death', 10)
+2:VL Endowment:61-64:0.1428571429:('Accidental Death', 1)
+2:J.M.I.P:61-64:0:
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):61-64:0:
+2:Medical（Coins） :61-64:0:
+2:Maternity Insurance(or New Pregnant Woman Insurance):61-64:nan:
+2:Cancer:65 and above:0.2836245429:('Advanced Medical', 314)-('Female Operation', 294)-('Cancer Death', 58)-('Cancer Dia', 31)-('Family Cancer', 1)
+2:M.I.P:65 and above:0.1428571429:('M.I.P rider', 8)-('Family Medical', 2)-('Term rider', 1)
+2:Endowment:65 and above:0.5620437956:('Term rider', 86)-('Sickness Hospital', 27)-('Acc. Hospital', 26)-('Accidental Death', 15)
+2:Medical:65 and above:1.6648583099:('Advanced Medical', 10106)-('Adult Disease Hospital', 3333)-('Outpatient', 2625)-('Cancer Dia', 2186)-('Medical Operation', 1927)
+2:Whole life:65 and above:0.2112709267:('Sickness Hospital', 296)-('Acc. Hospital', 285)-('Accidental Death', 210)-('Inc. Term rider', 34)-('Term rider', 32)
+2:Inc. Dec. Term Life:65 and above:0:
+2:Injury:65 and above:1:('Acc. Hospital', 10)
+2:Term life:65 and above:0.6011560694:('Sickness Hospital', 288)-('Acc. Hospital', 229)-('Accidental Death', 81)-('Adult Disease Hospital', 9)-('M.I.P rider', 8)
+2:Juvenile:65 and above:1.71875:('Acc. Hospital', 19)-('Sickness Hospital', 19)-('Acc.Outpatient', 17)
+2:Annuity(Annuity Certain ):65 and above:0.0377358491:('Acc. Hospital', 1)-('Sickness Hospital', 1)
+2:Dread Disease W.L.:65 and above:0.2890625:('Family Medical', 37)
+2:VL Whole life:65 and above:0.25:('Sickness Hospital', 15)-('Acc. Hospital', 14)-('Accidental Death', 9)-('Term rider', 2)-('M.I.P rider', 1)
+2:Dread Disease T.L.:65 and above:0:
+2:Joint life:65 and above:3:('Accidental Death', 2)-('Acc. Hospital', 2)-('Sickness Hospital', 2)
+2:Nursing care:65 and above:0:
+2:Female Disease:65 and above:1:('Female Operation', 105)
+2:Joint life(Flexible):65 and above:0.4351851852:('Inc. Term rider', 46)-('Accidental Death', 28)-('Acc. Hospital', 8)-('Sickness Hospital', 8)-('Term rider', 4)
+2:VL Endowment:65 and above:0.1111111111:('Accidental Death', 1)
+2:J.M.I.P:65 and above:0:
+2:Annuity(Whole Life Annuity With Guaranteed Installment ):65 and above:0.6666666667:('Term rider', 1)-('Accidental Death', 1)
+2:Medical（Coins） :65 and above:nan:
+2:Maternity Insurance(or New Pregnant Woman Insurance):65 and above:nan:

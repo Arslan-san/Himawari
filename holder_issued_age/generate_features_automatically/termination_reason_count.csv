@@ -1,0 +1,935 @@
+Policy Type Name,a_group,Policyholder'S_Gender,Termination  Reason,merge_reason_code,Type,Details,Termination Reason  Count
+Annuity(Annuity Certain ),18-22,1,G21,G21,Surrender ,Surrender,312
+Annuity(Annuity Certain ),18-22,1,G22,G22,Surrender ,Surrender after lapse,56
+Annuity(Annuity Certain ),18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,6
+Annuity(Annuity Certain ),18-22,2,G21,G21,Surrender ,Surrender,309
+Annuity(Annuity Certain ),18-22,2,G22,G22,Surrender ,Surrender after lapse,28
+Annuity(Annuity Certain ),18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+Annuity(Annuity Certain ),23-30,1,G21,G21,Surrender ,Surrender,1584
+Annuity(Annuity Certain ),23-30,1,G22,G22,Surrender ,Surrender after lapse,202
+Annuity(Annuity Certain ),23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,28
+Annuity(Annuity Certain ),23-30,2,G21,G21,Surrender ,Surrender,1232
+Annuity(Annuity Certain ),23-30,2,G22,G22,Surrender ,Surrender after lapse,119
+Annuity(Annuity Certain ),23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,28
+Annuity(Annuity Certain ),31-40,1,G21,G21,Surrender ,Surrender,1702
+Annuity(Annuity Certain ),31-40,1,G22,G22,Surrender ,Surrender after lapse,232
+Annuity(Annuity Certain ),31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,45
+Annuity(Annuity Certain ),31-40,1,G25,G25,Surrender ,Surrender of consent,1
+Annuity(Annuity Certain ),31-40,2,G21,G21,Surrender ,Surrender,1309
+Annuity(Annuity Certain ),31-40,2,G22,G22,Surrender ,Surrender after lapse,141
+Annuity(Annuity Certain ),31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,31
+Annuity(Annuity Certain ),41-50,1,G21,G21,Surrender ,Surrender,1289
+Annuity(Annuity Certain ),41-50,1,G22,G22,Surrender ,Surrender after lapse,167
+Annuity(Annuity Certain ),41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,37
+Annuity(Annuity Certain ),41-50,2,G21,G21,Surrender ,Surrender,1192
+Annuity(Annuity Certain ),41-50,2,G22,G22,Surrender ,Surrender after lapse,120
+Annuity(Annuity Certain ),41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,17
+Annuity(Annuity Certain ),51-60,1,G21,G21,Surrender ,Surrender,618
+Annuity(Annuity Certain ),51-60,1,G22,G22,Surrender ,Surrender after lapse,50
+Annuity(Annuity Certain ),51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,18
+Annuity(Annuity Certain ),51-60,2,G21,G21,Surrender ,Surrender,607
+Annuity(Annuity Certain ),51-60,2,G22,G22,Surrender ,Surrender after lapse,62
+Annuity(Annuity Certain ),51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,12
+Annuity(Annuity Certain ),61-64,1,G21,G21,Surrender ,Surrender,53
+Annuity(Annuity Certain ),61-64,1,G22,G22,Surrender ,Surrender after lapse,9
+Annuity(Annuity Certain ),61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Annuity(Annuity Certain ),61-64,2,G21,G21,Surrender ,Surrender,50
+Annuity(Annuity Certain ),61-64,2,G22,G22,Surrender ,Surrender after lapse,4
+Annuity(Annuity Certain ),61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Annuity(Annuity Certain ),greater than 64,1,G21,G21,Surrender ,Surrender,44
+Annuity(Annuity Certain ),greater than 64,1,G22,G22,Surrender ,Surrender after lapse,10
+Annuity(Annuity Certain ),greater than 64,2,G21,G21,Surrender ,Surrender,47
+Annuity(Annuity Certain ),greater than 64,2,G22,G22,Surrender ,Surrender after lapse,6
+Annuity(Whole Life Annuity With Guaranteed Installment ),18-22,1,G21,G21,Surrender ,Surrender,13
+Annuity(Whole Life Annuity With Guaranteed Installment ),18-22,1,G22,G22,Surrender ,Surrender after lapse,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),18-22,2,G21,G21,Surrender ,Surrender,9
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,G21,G21,Surrender ,Surrender,53
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,G22,G22,Surrender ,Surrender after lapse,4
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,G21,G21,Surrender ,Surrender,34
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,G22,G22,Surrender ,Surrender after lapse,6
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,1,G21,G21,Surrender ,Surrender,39
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,1,G22,G22,Surrender ,Surrender after lapse,9
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,2,G21,G21,Surrender ,Surrender,29
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,G21,G21,Surrender ,Surrender,30
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,G22,G22,Surrender ,Surrender after lapse,5
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,2,G21,G21,Surrender ,Surrender,27
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,2,G22,G22,Surrender ,Surrender after lapse,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,1,G21,G21,Surrender ,Surrender,15
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,G21,G21,Surrender ,Surrender,17
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,G22,G22,Surrender ,Surrender after lapse,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),61-64,1,G21,G21,Surrender ,Surrender,4
+Annuity(Whole Life Annuity With Guaranteed Installment ),61-64,2,G21,G21,Surrender ,Surrender,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,1,G21,G21,Surrender ,Surrender,3
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,2,G21,G21,Surrender ,Surrender,3
+Cancer,18-22,1,G21,G21,Surrender ,Surrender,7523
+Cancer,18-22,1,G22,G22,Surrender ,Surrender after lapse,1865
+Cancer,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,102
+Cancer,18-22,1,G24,G24,Surrender ,Surrender by conversion,1
+Cancer,18-22,1,G25,G25,Surrender ,Surrender of consent,1
+Cancer,18-22,2,G21,G21,Surrender ,Surrender,5004
+Cancer,18-22,2,G22,G22,Surrender ,Surrender after lapse,794
+Cancer,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,64
+Cancer,18-22,2,G25,G25,Surrender ,Surrender of consent,1
+Cancer,23-30,1,G21,G21,Surrender ,Surrender,42075
+Cancer,23-30,1,G22,G22,Surrender ,Surrender after lapse,7659
+Cancer,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,421
+Cancer,23-30,1,G24,G24,Surrender ,Surrender by conversion,1
+Cancer,23-30,1,G25,G25,Surrender ,Surrender of consent,1
+Cancer,23-30,2,G21,G21,Surrender ,Surrender,19090
+Cancer,23-30,2,G22,G22,Surrender ,Surrender after lapse,2843
+Cancer,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,231
+Cancer,23-30,2,G24,G24,Surrender ,Surrender by conversion,4
+Cancer,31-40,1,G21,G21,Surrender ,Surrender,41235
+Cancer,31-40,1,G22,G22,Surrender ,Surrender after lapse,9021
+Cancer,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,486
+Cancer,31-40,1,G24,G24,Surrender ,Surrender by conversion,3
+Cancer,31-40,1,G25,G25,Surrender ,Surrender of consent,6
+Cancer,31-40,2,G21,G21,Surrender ,Surrender,16941
+Cancer,31-40,2,G22,G22,Surrender ,Surrender after lapse,3656
+Cancer,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,262
+Cancer,31-40,2,G24,G24,Surrender ,Surrender by conversion,1
+Cancer,31-40,2,G25,G25,Surrender ,Surrender of consent,4
+Cancer,41-50,0,G21,G21,Surrender ,Surrender,3
+Cancer,41-50,0,G22,G22,Surrender ,Surrender after lapse,1
+Cancer,41-50,1,G21,G21,Surrender ,Surrender,37705
+Cancer,41-50,1,G22,G22,Surrender ,Surrender after lapse,8283
+Cancer,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,478
+Cancer,41-50,1,G24,G24,Surrender ,Surrender by conversion,3
+Cancer,41-50,1,G25,G25,Surrender ,Surrender of consent,11
+Cancer,41-50,2,G21,G21,Surrender ,Surrender,16313
+Cancer,41-50,2,G22,G22,Surrender ,Surrender after lapse,3403
+Cancer,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,225
+Cancer,41-50,2,G24,G24,Surrender ,Surrender by conversion,4
+Cancer,41-50,2,G25,G25,Surrender ,Surrender of consent,1
+Cancer,41-50,3,G21,G21,Surrender ,Surrender,1
+Cancer,51-60,0,G22,G22,Surrender ,Surrender after lapse,1
+Cancer,51-60,1,G21,G21,Surrender ,Surrender,24390
+Cancer,51-60,1,G22,G22,Surrender ,Surrender after lapse,4174
+Cancer,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,317
+Cancer,51-60,1,G24,G24,Surrender ,Surrender by conversion,3
+Cancer,51-60,1,G25,G25,Surrender ,Surrender of consent,15
+Cancer,51-60,1,G26,G26,Surrender ,Retirement surrender,1
+Cancer,51-60,2,G21,G21,Surrender ,Surrender,11683
+Cancer,51-60,2,G22,G22,Surrender ,Surrender after lapse,1990
+Cancer,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,152
+Cancer,51-60,2,G25,G25,Surrender ,Surrender of consent,6
+Cancer,61-64,1,G21,G21,Surrender ,Surrender,2761
+Cancer,61-64,1,G22,G22,Surrender ,Surrender after lapse,463
+Cancer,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,36
+Cancer,61-64,2,G21,G21,Surrender ,Surrender,1996
+Cancer,61-64,2,G22,G22,Surrender ,Surrender after lapse,284
+Cancer,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,38
+Cancer,61-64,2,G25,G25,Surrender ,Surrender of consent,1
+Cancer,greater than 64,1,G21,G21,Surrender ,Surrender,2359
+Cancer,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,410
+Cancer,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,27
+Cancer,greater than 64,2,G21,G21,Surrender ,Surrender,2091
+Cancer,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,328
+Cancer,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,39
+Cancer,greater than 64,2,G24,G24,Surrender ,Surrender by conversion,1
+Cancer,greater than 64,2,G25,G25,Surrender ,Surrender of consent,1
+Cancer,greater than 64,2,G26,G26,Surrender ,Retirement surrender,1
+Dread Disease T.L.,18-22,1,G21,G21,Surrender ,Surrender,42
+Dread Disease T.L.,18-22,1,G22,G22,Surrender ,Surrender after lapse,12
+Dread Disease T.L.,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Dread Disease T.L.,18-22,2,G21,G21,Surrender ,Surrender,36
+Dread Disease T.L.,18-22,2,G22,G22,Surrender ,Surrender after lapse,12
+Dread Disease T.L.,23-30,1,G21,G21,Surrender ,Surrender,486
+Dread Disease T.L.,23-30,1,G22,G22,Surrender ,Surrender after lapse,104
+Dread Disease T.L.,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,8
+Dread Disease T.L.,23-30,1,G24,G24,Surrender ,Surrender by conversion,3
+Dread Disease T.L.,23-30,2,G21,G21,Surrender ,Surrender,227
+Dread Disease T.L.,23-30,2,G22,G22,Surrender ,Surrender after lapse,54
+Dread Disease T.L.,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Dread Disease T.L.,23-30,2,G24,G24,Surrender ,Surrender by conversion,5
+Dread Disease T.L.,31-40,1,G21,G21,Surrender ,Surrender,889
+Dread Disease T.L.,31-40,1,G22,G22,Surrender ,Surrender after lapse,282
+Dread Disease T.L.,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,17
+Dread Disease T.L.,31-40,1,G24,G24,Surrender ,Surrender by conversion,7
+Dread Disease T.L.,31-40,2,G21,G21,Surrender ,Surrender,397
+Dread Disease T.L.,31-40,2,G22,G22,Surrender ,Surrender after lapse,104
+Dread Disease T.L.,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,10
+Dread Disease T.L.,31-40,2,G24,G24,Surrender ,Surrender by conversion,4
+Dread Disease T.L.,41-50,1,G21,G21,Surrender ,Surrender,608
+Dread Disease T.L.,41-50,1,G22,G22,Surrender ,Surrender after lapse,263
+Dread Disease T.L.,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,18
+Dread Disease T.L.,41-50,1,G24,G24,Surrender ,Surrender by conversion,6
+Dread Disease T.L.,41-50,1,G25,G25,Surrender ,Surrender of consent,1
+Dread Disease T.L.,41-50,2,G21,G21,Surrender ,Surrender,335
+Dread Disease T.L.,41-50,2,G22,G22,Surrender ,Surrender after lapse,123
+Dread Disease T.L.,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,6
+Dread Disease T.L.,41-50,2,G24,G24,Surrender ,Surrender by conversion,2
+Dread Disease T.L.,41-50,3,G21,G21,Surrender ,Surrender,1
+Dread Disease T.L.,51-60,1,G21,G21,Surrender ,Surrender,275
+Dread Disease T.L.,51-60,1,G22,G22,Surrender ,Surrender after lapse,105
+Dread Disease T.L.,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,10
+Dread Disease T.L.,51-60,1,G24,G24,Surrender ,Surrender by conversion,5
+Dread Disease T.L.,51-60,2,G21,G21,Surrender ,Surrender,213
+Dread Disease T.L.,51-60,2,G22,G22,Surrender ,Surrender after lapse,61
+Dread Disease T.L.,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,6
+Dread Disease T.L.,51-60,2,G24,G24,Surrender ,Surrender by conversion,6
+Dread Disease T.L.,61-64,1,G21,G21,Surrender ,Surrender,30
+Dread Disease T.L.,61-64,1,G22,G22,Surrender ,Surrender after lapse,12
+Dread Disease T.L.,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Dread Disease T.L.,61-64,2,G21,G21,Surrender ,Surrender,33
+Dread Disease T.L.,61-64,2,G22,G22,Surrender ,Surrender after lapse,4
+Dread Disease T.L.,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Dread Disease T.L.,greater than 64,1,G21,G21,Surrender ,Surrender,16
+Dread Disease T.L.,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,5
+Dread Disease T.L.,greater than 64,2,G21,G21,Surrender ,Surrender,12
+Dread Disease T.L.,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,6
+Dread Disease T.L.,greater than 64,2,G24,G24,Surrender ,Surrender by conversion,1
+Dread Disease W.L.,18-22,1,G21,G21,Surrender ,Surrender,927
+Dread Disease W.L.,18-22,1,G22,G22,Surrender ,Surrender after lapse,223
+Dread Disease W.L.,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,20
+Dread Disease W.L.,18-22,2,G21,G21,Surrender ,Surrender,674
+Dread Disease W.L.,18-22,2,G22,G22,Surrender ,Surrender after lapse,120
+Dread Disease W.L.,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,21
+Dread Disease W.L.,18-22,2,G24,G24,Surrender ,Surrender by conversion,1
+Dread Disease W.L.,23-30,1,G21,G21,Surrender ,Surrender,4278
+Dread Disease W.L.,23-30,1,G22,G22,Surrender ,Surrender after lapse,667
+Dread Disease W.L.,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,83
+Dread Disease W.L.,23-30,2,G21,G21,Surrender ,Surrender,2594
+Dread Disease W.L.,23-30,2,G22,G22,Surrender ,Surrender after lapse,305
+Dread Disease W.L.,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,45
+Dread Disease W.L.,31-40,1,G21,G21,Surrender ,Surrender,4117
+Dread Disease W.L.,31-40,1,G22,G22,Surrender ,Surrender after lapse,879
+Dread Disease W.L.,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,82
+Dread Disease W.L.,31-40,1,G24,G24,Surrender ,Surrender by conversion,2
+Dread Disease W.L.,31-40,1,G25,G25,Surrender ,Surrender of consent,1
+Dread Disease W.L.,31-40,2,G21,G21,Surrender ,Surrender,2239
+Dread Disease W.L.,31-40,2,G22,G22,Surrender ,Surrender after lapse,380
+Dread Disease W.L.,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,45
+Dread Disease W.L.,31-40,2,G24,G24,Surrender ,Surrender by conversion,1
+Dread Disease W.L.,31-40,2,G25,G25,Surrender ,Surrender of consent,1
+Dread Disease W.L.,41-50,1,G21,G21,Surrender ,Surrender,2302
+Dread Disease W.L.,41-50,1,G22,G22,Surrender ,Surrender after lapse,537
+Dread Disease W.L.,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,52
+Dread Disease W.L.,41-50,1,G24,G24,Surrender ,Surrender by conversion,1
+Dread Disease W.L.,41-50,2,G21,G21,Surrender ,Surrender,1554
+Dread Disease W.L.,41-50,2,G22,G22,Surrender ,Surrender after lapse,308
+Dread Disease W.L.,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,27
+Dread Disease W.L.,41-50,2,G24,G24,Surrender ,Surrender by conversion,1
+Dread Disease W.L.,51-60,1,G21,G21,Surrender ,Surrender,1382
+Dread Disease W.L.,51-60,1,G22,G22,Surrender ,Surrender after lapse,291
+Dread Disease W.L.,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,33
+Dread Disease W.L.,51-60,1,G24,G24,Surrender ,Surrender by conversion,3
+Dread Disease W.L.,51-60,1,G25,G25,Surrender ,Surrender of consent,1
+Dread Disease W.L.,51-60,2,G21,G21,Surrender ,Surrender,1129
+Dread Disease W.L.,51-60,2,G22,G22,Surrender ,Surrender after lapse,166
+Dread Disease W.L.,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,18
+Dread Disease W.L.,61-64,1,G21,G21,Surrender ,Surrender,143
+Dread Disease W.L.,61-64,1,G22,G22,Surrender ,Surrender after lapse,32
+Dread Disease W.L.,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Dread Disease W.L.,61-64,2,G21,G21,Surrender ,Surrender,153
+Dread Disease W.L.,61-64,2,G22,G22,Surrender ,Surrender after lapse,20
+Dread Disease W.L.,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Dread Disease W.L.,greater than 64,1,G21,G21,Surrender ,Surrender,87
+Dread Disease W.L.,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,15
+Dread Disease W.L.,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Dread Disease W.L.,greater than 64,2,G21,G21,Surrender ,Surrender,104
+Dread Disease W.L.,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,23
+Dread Disease W.L.,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Endowment,18-22,1,G21,G21,Surrender ,Surrender,228
+Endowment,18-22,1,G22,G22,Surrender ,Surrender after lapse,32
+Endowment,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+Endowment,18-22,2,G21,G21,Surrender ,Surrender,260
+Endowment,18-22,2,G22,G22,Surrender ,Surrender after lapse,27
+Endowment,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Endowment,23-30,1,G21,G21,Surrender ,Surrender,794
+Endowment,23-30,1,G22,G22,Surrender ,Surrender after lapse,82
+Endowment,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,9
+Endowment,23-30,1,G25,G25,Surrender ,Surrender of consent,2
+Endowment,23-30,2,G21,G21,Surrender ,Surrender,779
+Endowment,23-30,2,G22,G22,Surrender ,Surrender after lapse,44
+Endowment,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,13
+Endowment,31-40,1,G21,G21,Surrender ,Surrender,1501
+Endowment,31-40,1,G22,G22,Surrender ,Surrender after lapse,123
+Endowment,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,16
+Endowment,31-40,2,G21,G21,Surrender ,Surrender,1103
+Endowment,31-40,2,G22,G22,Surrender ,Surrender after lapse,76
+Endowment,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,6
+Endowment,31-40,2,G25,G25,Surrender ,Surrender of consent,1
+Endowment,31-40,3,G21,G21,Surrender ,Surrender,1
+Endowment,41-50,1,G21,G21,Surrender ,Surrender,2238
+Endowment,41-50,1,G22,G22,Surrender ,Surrender after lapse,92
+Endowment,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,18
+Endowment,41-50,1,G25,G25,Surrender ,Surrender of consent,1
+Endowment,41-50,1,G26,G26,Surrender ,Retirement surrender,3
+Endowment,41-50,2,G21,G21,Surrender ,Surrender,980
+Endowment,41-50,2,G22,G22,Surrender ,Surrender after lapse,60
+Endowment,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Endowment,41-50,2,G25,G25,Surrender ,Surrender of consent,1
+Endowment,41-50,3,G21,G21,Surrender ,Surrender,7
+Endowment,51-60,1,G21,G21,Surrender ,Surrender,1575
+Endowment,51-60,1,G22,G22,Surrender ,Surrender after lapse,56
+Endowment,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,7
+Endowment,51-60,1,G25,G25,Surrender ,Surrender of consent,1
+Endowment,51-60,1,G26,G26,Surrender ,Retirement surrender,1
+Endowment,51-60,2,G21,G21,Surrender ,Surrender,657
+Endowment,51-60,2,G22,G22,Surrender ,Surrender after lapse,50
+Endowment,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Endowment,61-64,1,G21,G21,Surrender ,Surrender,420
+Endowment,61-64,1,G22,G22,Surrender ,Surrender after lapse,11
+Endowment,61-64,2,G21,G21,Surrender ,Surrender,202
+Endowment,61-64,2,G22,G22,Surrender ,Surrender after lapse,11
+Endowment,greater than 64,1,G21,G21,Surrender ,Surrender,394
+Endowment,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,7
+Endowment,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Endowment,greater than 64,2,G21,G21,Surrender ,Surrender,268
+Endowment,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,3
+Endowment,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Female Disease,18-22,1,G21,G21,Surrender ,Surrender,28
+Female Disease,18-22,1,G22,G22,Surrender ,Surrender after lapse,4
+Female Disease,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Female Disease,18-22,2,G21,G21,Surrender ,Surrender,3089
+Female Disease,18-22,2,G22,G22,Surrender ,Surrender after lapse,586
+Female Disease,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,31
+Female Disease,18-22,2,G24,G24,Surrender ,Surrender by conversion,3
+Female Disease,18-22,2,G25,G25,Surrender ,Surrender of consent,1
+Female Disease,23-30,1,G21,G21,Surrender ,Surrender,828
+Female Disease,23-30,1,G22,G22,Surrender ,Surrender after lapse,103
+Female Disease,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+Female Disease,23-30,2,G21,G21,Surrender ,Surrender,12476
+Female Disease,23-30,2,G22,G22,Surrender ,Surrender after lapse,1923
+Female Disease,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,135
+Female Disease,23-30,2,G24,G24,Surrender ,Surrender by conversion,7
+Female Disease,23-30,2,G25,G25,Surrender ,Surrender of consent,8
+Female Disease,31-40,1,G21,G21,Surrender ,Surrender,1172
+Female Disease,31-40,1,G22,G22,Surrender ,Surrender after lapse,175
+Female Disease,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,12
+Female Disease,31-40,1,G24,G24,Surrender ,Surrender by conversion,2
+Female Disease,31-40,2,G21,G21,Surrender ,Surrender,7122
+Female Disease,31-40,2,G22,G22,Surrender ,Surrender after lapse,1471
+Female Disease,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,85
+Female Disease,31-40,2,G24,G24,Surrender ,Surrender by conversion,6
+Female Disease,31-40,2,G25,G25,Surrender ,Surrender of consent,11
+Female Disease,41-50,1,G21,G21,Surrender ,Surrender,1171
+Female Disease,41-50,1,G22,G22,Surrender ,Surrender after lapse,229
+Female Disease,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,11
+Female Disease,41-50,1,G24,G24,Surrender ,Surrender by conversion,1
+Female Disease,41-50,1,G25,G25,Surrender ,Surrender of consent,1
+Female Disease,41-50,2,G21,G21,Surrender ,Surrender,3785
+Female Disease,41-50,2,G22,G22,Surrender ,Surrender after lapse,792
+Female Disease,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,52
+Female Disease,41-50,2,G24,G24,Surrender ,Surrender by conversion,6
+Female Disease,41-50,2,G25,G25,Surrender ,Surrender of consent,5
+Female Disease,51-60,1,G21,G21,Surrender ,Surrender,662
+Female Disease,51-60,1,G22,G22,Surrender ,Surrender after lapse,70
+Female Disease,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,9
+Female Disease,51-60,1,G24,G24,Surrender ,Surrender by conversion,1
+Female Disease,51-60,1,G25,G25,Surrender ,Surrender of consent,1
+Female Disease,51-60,2,G21,G21,Surrender ,Surrender,1739
+Female Disease,51-60,2,G22,G22,Surrender ,Surrender after lapse,305
+Female Disease,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,25
+Female Disease,51-60,2,G24,G24,Surrender ,Surrender by conversion,6
+Female Disease,51-60,2,G25,G25,Surrender ,Surrender of consent,4
+Female Disease,61-64,1,G21,G21,Surrender ,Surrender,50
+Female Disease,61-64,1,G22,G22,Surrender ,Surrender after lapse,3
+Female Disease,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Female Disease,61-64,2,G21,G21,Surrender ,Surrender,256
+Female Disease,61-64,2,G22,G22,Surrender ,Surrender after lapse,57
+Female Disease,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Female Disease,greater than 64,1,G21,G21,Surrender ,Surrender,45
+Female Disease,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,7
+Female Disease,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Female Disease,greater than 64,1,G25,G25,Surrender ,Surrender of consent,1
+Female Disease,greater than 64,2,G21,G21,Surrender ,Surrender,89
+Female Disease,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,15
+Female Disease,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Inc. Dec. Term Life,18-22,1,G21,G21,Surrender ,Surrender,1
+Inc. Dec. Term Life,23-30,1,G21,G21,Surrender ,Surrender,12
+Inc. Dec. Term Life,23-30,1,G22,G22,Surrender ,Surrender after lapse,1
+Inc. Dec. Term Life,23-30,2,G21,G21,Surrender ,Surrender,2
+Inc. Dec. Term Life,23-30,2,G22,G22,Surrender ,Surrender after lapse,3
+Inc. Dec. Term Life,31-40,1,G21,G21,Surrender ,Surrender,40
+Inc. Dec. Term Life,31-40,1,G22,G22,Surrender ,Surrender after lapse,2
+Inc. Dec. Term Life,31-40,1,G26,G26,Surrender ,Retirement surrender,1
+Inc. Dec. Term Life,31-40,2,G21,G21,Surrender ,Surrender,7
+Inc. Dec. Term Life,31-40,2,G22,G22,Surrender ,Surrender after lapse,3
+Inc. Dec. Term Life,41-50,1,G21,G21,Surrender ,Surrender,76
+Inc. Dec. Term Life,41-50,1,G22,G22,Surrender ,Surrender after lapse,8
+Inc. Dec. Term Life,41-50,1,G24,G24,Surrender ,Surrender by conversion,3
+Inc. Dec. Term Life,41-50,2,G21,G21,Surrender ,Surrender,16
+Inc. Dec. Term Life,41-50,2,G22,G22,Surrender ,Surrender after lapse,1
+Inc. Dec. Term Life,41-50,3,G21,G21,Surrender ,Surrender,4
+Inc. Dec. Term Life,51-60,1,G21,G21,Surrender ,Surrender,129
+Inc. Dec. Term Life,51-60,1,G22,G22,Surrender ,Surrender after lapse,6
+Inc. Dec. Term Life,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Inc. Dec. Term Life,51-60,1,G24,G24,Surrender ,Surrender by conversion,1
+Inc. Dec. Term Life,51-60,2,G21,G21,Surrender ,Surrender,20
+Inc. Dec. Term Life,51-60,2,G22,G22,Surrender ,Surrender after lapse,2
+Inc. Dec. Term Life,51-60,2,G24,G24,Surrender ,Surrender by conversion,2
+Inc. Dec. Term Life,61-64,1,G21,G21,Surrender ,Surrender,44
+Inc. Dec. Term Life,61-64,1,G22,G22,Surrender ,Surrender after lapse,4
+Inc. Dec. Term Life,61-64,1,G24,G24,Surrender ,Surrender by conversion,1
+Inc. Dec. Term Life,61-64,2,G21,G21,Surrender ,Surrender,8
+Inc. Dec. Term Life,61-64,2,G24,G24,Surrender ,Surrender by conversion,1
+Inc. Dec. Term Life,greater than 64,1,G21,G21,Surrender ,Surrender,44
+Inc. Dec. Term Life,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,1
+Inc. Dec. Term Life,greater than 64,1,G24,G24,Surrender ,Surrender by conversion,1
+Inc. Dec. Term Life,greater than 64,2,G21,G21,Surrender ,Surrender,2
+Injury,23-30,1,G21,G21,Surrender ,Surrender,7
+Injury,23-30,1,G22,G22,Surrender ,Surrender after lapse,3
+Injury,23-30,2,G21,G21,Surrender ,Surrender,1
+Injury,31-40,1,G21,G21,Surrender ,Surrender,133
+Injury,31-40,1,G22,G22,Surrender ,Surrender after lapse,10
+Injury,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+Injury,31-40,1,G26,G26,Surrender ,Retirement surrender,23
+Injury,31-40,2,G21,G21,Surrender ,Surrender,11
+Injury,41-50,1,G21,G21,Surrender ,Surrender,197
+Injury,41-50,1,G22,G22,Surrender ,Surrender after lapse,7
+Injury,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Injury,41-50,1,G26,G26,Surrender ,Retirement surrender,13
+Injury,41-50,2,G21,G21,Surrender ,Surrender,27
+Injury,41-50,2,G22,G22,Surrender ,Surrender after lapse,1
+Injury,51-60,1,G21,G21,Surrender ,Surrender,344
+Injury,51-60,1,G22,G22,Surrender ,Surrender after lapse,20
+Injury,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Injury,51-60,1,G26,G26,Surrender ,Retirement surrender,10
+Injury,51-60,2,G21,G21,Surrender ,Surrender,7
+Injury,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Injury,61-64,1,G21,G21,Surrender ,Surrender,74
+Injury,61-64,1,G22,G22,Surrender ,Surrender after lapse,7
+Injury,61-64,2,G21,G21,Surrender ,Surrender,3
+Injury,greater than 64,1,G21,G21,Surrender ,Surrender,62
+Injury,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+Injury,greater than 64,2,G21,G21,Surrender ,Surrender,10
+J.M.I.P,18-22,1,G21,G21,Surrender ,Surrender,3
+J.M.I.P,18-22,1,G22,G22,Surrender ,Surrender after lapse,1
+J.M.I.P,18-22,2,G21,G21,Surrender ,Surrender,1
+J.M.I.P,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+J.M.I.P,23-30,1,G21,G21,Surrender ,Surrender,24
+J.M.I.P,23-30,1,G22,G22,Surrender ,Surrender after lapse,5
+J.M.I.P,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+J.M.I.P,23-30,2,G21,G21,Surrender ,Surrender,3
+J.M.I.P,23-30,2,G22,G22,Surrender ,Surrender after lapse,2
+J.M.I.P,31-40,1,G21,G21,Surrender ,Surrender,50
+J.M.I.P,31-40,1,G22,G22,Surrender ,Surrender after lapse,9
+J.M.I.P,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+J.M.I.P,31-40,2,G21,G21,Surrender ,Surrender,22
+J.M.I.P,31-40,2,G22,G22,Surrender ,Surrender after lapse,2
+J.M.I.P,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+J.M.I.P,41-50,1,G21,G21,Surrender ,Surrender,64
+J.M.I.P,41-50,1,G22,G22,Surrender ,Surrender after lapse,2
+J.M.I.P,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+J.M.I.P,41-50,2,G21,G21,Surrender ,Surrender,43
+J.M.I.P,41-50,2,G22,G22,Surrender ,Surrender after lapse,4
+J.M.I.P,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+J.M.I.P,51-60,1,G21,G21,Surrender ,Surrender,23
+J.M.I.P,51-60,1,G22,G22,Surrender ,Surrender after lapse,2
+J.M.I.P,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+J.M.I.P,51-60,2,G21,G21,Surrender ,Surrender,26
+J.M.I.P,51-60,2,G22,G22,Surrender ,Surrender after lapse,2
+J.M.I.P,61-64,1,G21,G21,Surrender ,Surrender,8
+J.M.I.P,61-64,2,G21,G21,Surrender ,Surrender,6
+J.M.I.P,greater than 64,1,G21,G21,Surrender ,Surrender,4
+J.M.I.P,greater than 64,2,G21,G21,Surrender ,Surrender,4
+Joint life,18-22,1,G21,G21,Surrender ,Surrender,8
+Joint life,18-22,1,G22,G22,Surrender ,Surrender after lapse,3
+Joint life,18-22,2,G21,G21,Surrender ,Surrender,4
+Joint life,23-30,1,G21,G21,Surrender ,Surrender,208
+Joint life,23-30,1,G22,G22,Surrender ,Surrender after lapse,35
+Joint life,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+Joint life,23-30,2,G21,G21,Surrender ,Surrender,16
+Joint life,23-30,2,G22,G22,Surrender ,Surrender after lapse,3
+Joint life,31-40,1,G21,G21,Surrender ,Surrender,273
+Joint life,31-40,1,G22,G22,Surrender ,Surrender after lapse,42
+Joint life,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Joint life,31-40,1,G25,G25,Surrender ,Surrender of consent,1
+Joint life,31-40,2,G21,G21,Surrender ,Surrender,31
+Joint life,31-40,2,G22,G22,Surrender ,Surrender after lapse,2
+Joint life,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Joint life,41-50,1,G21,G21,Surrender ,Surrender,132
+Joint life,41-50,1,G22,G22,Surrender ,Surrender after lapse,24
+Joint life,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Joint life,41-50,2,G21,G21,Surrender ,Surrender,33
+Joint life,41-50,2,G22,G22,Surrender ,Surrender after lapse,5
+Joint life,51-60,1,G21,G21,Surrender ,Surrender,47
+Joint life,51-60,1,G22,G22,Surrender ,Surrender after lapse,13
+Joint life,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Joint life,51-60,2,G21,G21,Surrender ,Surrender,4
+Joint life,61-64,1,G21,G21,Surrender ,Surrender,8
+Joint life,61-64,1,G22,G22,Surrender ,Surrender after lapse,2
+Joint life,61-64,2,G21,G21,Surrender ,Surrender,3
+Joint life,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,1
+Joint life,greater than 64,2,G21,G21,Surrender ,Surrender,2
+Joint life(Flexible),18-22,1,G21,G21,Surrender ,Surrender,53
+Joint life(Flexible),18-22,1,G22,G22,Surrender ,Surrender after lapse,3
+Joint life(Flexible),18-22,2,G21,G21,Surrender ,Surrender,21
+Joint life(Flexible),18-22,2,G22,G22,Surrender ,Surrender after lapse,2
+Joint life(Flexible),23-30,1,G21,G21,Surrender ,Surrender,455
+Joint life(Flexible),23-30,1,G22,G22,Surrender ,Surrender after lapse,68
+Joint life(Flexible),23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,6
+Joint life(Flexible),23-30,1,G24,G24,Surrender ,Surrender by conversion,1
+Joint life(Flexible),23-30,2,G21,G21,Surrender ,Surrender,65
+Joint life(Flexible),23-30,2,G22,G22,Surrender ,Surrender after lapse,17
+Joint life(Flexible),23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Joint life(Flexible),31-40,1,G21,G21,Surrender ,Surrender,586
+Joint life(Flexible),31-40,1,G22,G22,Surrender ,Surrender after lapse,90
+Joint life(Flexible),31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,14
+Joint life(Flexible),31-40,1,G24,G24,Surrender ,Surrender by conversion,4
+Joint life(Flexible),31-40,2,G21,G21,Surrender ,Surrender,194
+Joint life(Flexible),31-40,2,G22,G22,Surrender ,Surrender after lapse,18
+Joint life(Flexible),31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,6
+Joint life(Flexible),41-50,1,G21,G21,Surrender ,Surrender,459
+Joint life(Flexible),41-50,1,G22,G22,Surrender ,Surrender after lapse,59
+Joint life(Flexible),41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,9
+Joint life(Flexible),41-50,1,G24,G24,Surrender ,Surrender by conversion,2
+Joint life(Flexible),41-50,2,G21,G21,Surrender ,Surrender,243
+Joint life(Flexible),41-50,2,G22,G22,Surrender ,Surrender after lapse,15
+Joint life(Flexible),41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,7
+Joint life(Flexible),51-60,1,G21,G21,Surrender ,Surrender,358
+Joint life(Flexible),51-60,1,G22,G22,Surrender ,Surrender after lapse,36
+Joint life(Flexible),51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Joint life(Flexible),51-60,2,G21,G21,Surrender ,Surrender,251
+Joint life(Flexible),51-60,2,G22,G22,Surrender ,Surrender after lapse,16
+Joint life(Flexible),51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Joint life(Flexible),61-64,1,G21,G21,Surrender ,Surrender,76
+Joint life(Flexible),61-64,1,G22,G22,Surrender ,Surrender after lapse,5
+Joint life(Flexible),61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Joint life(Flexible),61-64,2,G21,G21,Surrender ,Surrender,62
+Joint life(Flexible),61-64,2,G22,G22,Surrender ,Surrender after lapse,2
+Joint life(Flexible),61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Joint life(Flexible),greater than 64,1,G21,G21,Surrender ,Surrender,147
+Joint life(Flexible),greater than 64,1,G22,G22,Surrender ,Surrender after lapse,15
+Joint life(Flexible),greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+Joint life(Flexible),greater than 64,2,G21,G21,Surrender ,Surrender,202
+Joint life(Flexible),greater than 64,2,G22,G22,Surrender ,Surrender after lapse,13
+Joint life(Flexible),greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Juvenile,18-22,1,G21,G21,Surrender ,Surrender,366
+Juvenile,18-22,1,G22,G22,Surrender ,Surrender after lapse,116
+Juvenile,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,8
+Juvenile,18-22,2,G21,G21,Surrender ,Surrender,285
+Juvenile,18-22,2,G22,G22,Surrender ,Surrender after lapse,104
+Juvenile,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,17
+Juvenile,23-30,1,G21,G21,Surrender ,Surrender,4907
+Juvenile,23-30,1,G22,G22,Surrender ,Surrender after lapse,889
+Juvenile,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,118
+Juvenile,23-30,1,G25,G25,Surrender ,Surrender of consent,2
+Juvenile,23-30,2,G21,G21,Surrender ,Surrender,2301
+Juvenile,23-30,2,G22,G22,Surrender ,Surrender after lapse,623
+Juvenile,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,79
+Juvenile,23-30,2,G25,G25,Surrender ,Surrender of consent,1
+Juvenile,31-40,1,G21,G21,Surrender ,Surrender,6095
+Juvenile,31-40,1,G22,G22,Surrender ,Surrender after lapse,1146
+Juvenile,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,163
+Juvenile,31-40,1,G24,G24,Surrender ,Surrender by conversion,1
+Juvenile,31-40,2,G21,G21,Surrender ,Surrender,2424
+Juvenile,31-40,2,G22,G22,Surrender ,Surrender after lapse,606
+Juvenile,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,73
+Juvenile,31-40,2,G25,G25,Surrender ,Surrender of consent,1
+Juvenile,41-50,1,G21,G21,Surrender ,Surrender,1118
+Juvenile,41-50,1,G22,G22,Surrender ,Surrender after lapse,286
+Juvenile,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,38
+Juvenile,41-50,2,G21,G21,Surrender ,Surrender,364
+Juvenile,41-50,2,G22,G22,Surrender ,Surrender after lapse,133
+Juvenile,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,17
+Juvenile,51-60,1,G21,G21,Surrender ,Surrender,220
+Juvenile,51-60,1,G22,G22,Surrender ,Surrender after lapse,46
+Juvenile,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Juvenile,51-60,2,G21,G21,Surrender ,Surrender,433
+Juvenile,51-60,2,G22,G22,Surrender ,Surrender after lapse,42
+Juvenile,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+Juvenile,61-64,1,G21,G21,Surrender ,Surrender,57
+Juvenile,61-64,1,G22,G22,Surrender ,Surrender after lapse,8
+Juvenile,61-64,2,G21,G21,Surrender ,Surrender,118
+Juvenile,61-64,2,G22,G22,Surrender ,Surrender after lapse,10
+Juvenile,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Juvenile,greater than 64,1,G21,G21,Surrender ,Surrender,12
+Juvenile,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,3
+Juvenile,greater than 64,2,G21,G21,Surrender ,Surrender,29
+Juvenile,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,2
+Juvenile,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Maternity Insurance(or New Pregnant Woman Insurance),23-30,1,G21,G21,Surrender ,Surrender,2
+Maternity Insurance(or New Pregnant Woman Insurance),23-30,2,G21,G21,Surrender ,Surrender,3
+Maternity Insurance(or New Pregnant Woman Insurance),31-40,2,G21,G21,Surrender ,Surrender,2
+Maternity Insurance(or New Pregnant Woman Insurance),31-40,2,G25,G25,Surrender ,Surrender of consent,1
+Medical,18-22,1,G21,G21,Surrender ,Surrender,17931
+Medical,18-22,1,G22,G22,Surrender ,Surrender after lapse,4860
+Medical,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,252
+Medical,18-22,1,G24,G24,Surrender ,Surrender by conversion,1155
+Medical,18-22,1,G25,G25,Surrender ,Surrender of consent,4
+Medical,18-22,2,G21,G21,Surrender ,Surrender,21041
+Medical,18-22,2,G22,G22,Surrender ,Surrender after lapse,4586
+Medical,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,280
+Medical,18-22,2,G24,G24,Surrender ,Surrender by conversion,1637
+Medical,18-22,2,G25,G25,Surrender ,Surrender of consent,5
+Medical,23-30,1,G21,G21,Surrender ,Surrender,86441
+Medical,23-30,1,G22,G22,Surrender ,Surrender after lapse,16740
+Medical,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,970
+Medical,23-30,1,G24,G24,Surrender ,Surrender by conversion,6484
+Medical,23-30,1,G25,G25,Surrender ,Surrender of consent,8
+Medical,23-30,2,G21,G21,Surrender ,Surrender,90295
+Medical,23-30,2,G22,G22,Surrender ,Surrender after lapse,16420
+Medical,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1082
+Medical,23-30,2,G24,G24,Surrender ,Surrender by conversion,7413
+Medical,23-30,2,G25,G25,Surrender ,Surrender of consent,11
+Medical,31-40,1,G21,G21,Surrender ,Surrender,97747
+Medical,31-40,1,G22,G22,Surrender ,Surrender after lapse,21666
+Medical,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1212
+Medical,31-40,1,G24,G24,Surrender ,Surrender by conversion,12388
+Medical,31-40,1,G25,G25,Surrender ,Surrender of consent,30
+Medical,31-40,1,G26,G26,Surrender ,Retirement surrender,1
+Medical,31-40,2,G21,G21,Surrender ,Surrender,82697
+Medical,31-40,2,G22,G22,Surrender ,Surrender after lapse,20207
+Medical,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1309
+Medical,31-40,2,G24,G24,Surrender ,Surrender by conversion,12069
+Medical,31-40,2,G25,G25,Surrender ,Surrender of consent,28
+Medical,41-50,1,G21,G21,Surrender ,Surrender,68110
+Medical,41-50,1,G22,G22,Surrender ,Surrender after lapse,17492
+Medical,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,980
+Medical,41-50,1,G24,G24,Surrender ,Surrender by conversion,8795
+Medical,41-50,1,G25,G25,Surrender ,Surrender of consent,38
+Medical,41-50,1,G26,G26,Surrender ,Retirement surrender,1
+Medical,41-50,2,G21,G21,Surrender ,Surrender,53900
+Medical,41-50,2,G22,G22,Surrender ,Surrender after lapse,13837
+Medical,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,853
+Medical,41-50,2,G24,G24,Surrender ,Surrender by conversion,9929
+Medical,41-50,2,G25,G25,Surrender ,Surrender of consent,21
+Medical,41-50,3,G21,G21,Surrender ,Surrender,1
+Medical,51-60,1,G21,G21,Surrender ,Surrender,43000
+Medical,51-60,1,G22,G22,Surrender ,Surrender after lapse,10008
+Medical,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,623
+Medical,51-60,1,G24,G24,Surrender ,Surrender by conversion,7144
+Medical,51-60,1,G25,G25,Surrender ,Surrender of consent,68
+Medical,51-60,2,G21,G21,Surrender ,Surrender,37798
+Medical,51-60,2,G22,G22,Surrender ,Surrender after lapse,7766
+Medical,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,607
+Medical,51-60,2,G24,G24,Surrender ,Surrender by conversion,10200
+Medical,51-60,2,G25,G25,Surrender ,Surrender of consent,30
+Medical,51-60,3,G21,G21,Surrender ,Surrender,2
+Medical,61-64,1,G21,G21,Surrender ,Surrender,8369
+Medical,61-64,1,G22,G22,Surrender ,Surrender after lapse,1958
+Medical,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,162
+Medical,61-64,1,G24,G24,Surrender ,Surrender by conversion,1937
+Medical,61-64,1,G25,G25,Surrender ,Surrender of consent,13
+Medical,61-64,2,G21,G21,Surrender ,Surrender,9203
+Medical,61-64,2,G22,G22,Surrender ,Surrender after lapse,1756
+Medical,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,135
+Medical,61-64,2,G24,G24,Surrender ,Surrender by conversion,3966
+Medical,61-64,2,G25,G25,Surrender ,Surrender of consent,7
+Medical,greater than 64,1,G21,G21,Surrender ,Surrender,7093
+Medical,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,1482
+Medical,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,103
+Medical,greater than 64,1,G24,G24,Surrender ,Surrender by conversion,1356
+Medical,greater than 64,1,G25,G25,Surrender ,Surrender of consent,2
+Medical,greater than 64,2,G21,G21,Surrender ,Surrender,10250
+Medical,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,1752
+Medical,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,153
+Medical,greater than 64,2,G24,G24,Surrender ,Surrender by conversion,3509
+Medical,greater than 64,2,G25,G25,Surrender ,Surrender of consent,4
+Medical,greater than 64,3,G22,G22,Surrender ,Surrender after lapse,1
+Medical（Coins） ,31-40,2,G21,G21,Surrender ,Surrender,1
+Medical（Coins） ,41-50,1,G21,G21,Surrender ,Surrender,2
+Medical（Coins） ,41-50,2,G21,G21,Surrender ,Surrender,2
+Medical（Coins） ,51-60,1,G21,G21,Surrender ,Surrender,2
+Medical（Coins） ,51-60,2,G21,G21,Surrender ,Surrender,4
+Medical（Coins） ,61-64,1,G21,G21,Surrender ,Surrender,3
+Medical（Coins） ,61-64,2,G21,G21,Surrender ,Surrender,1
+Medical（Coins） ,greater than 64,1,G21,G21,Surrender ,Surrender,1
+M.I.P,18-22,1,G21,G21,Surrender ,Surrender,510
+M.I.P,18-22,1,G22,G22,Surrender ,Surrender after lapse,127
+M.I.P,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,13
+M.I.P,18-22,1,G24,G24,Surrender ,Surrender by conversion,1
+M.I.P,18-22,2,G21,G21,Surrender ,Surrender,95
+M.I.P,18-22,2,G22,G22,Surrender ,Surrender after lapse,27
+M.I.P,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+M.I.P,23-30,1,G21,G21,Surrender ,Surrender,14331
+M.I.P,23-30,1,G22,G22,Surrender ,Surrender after lapse,1588
+M.I.P,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,135
+M.I.P,23-30,1,G24,G24,Surrender ,Surrender by conversion,18
+M.I.P,23-30,2,G21,G21,Surrender ,Surrender,2056
+M.I.P,23-30,2,G22,G22,Surrender ,Surrender after lapse,250
+M.I.P,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,27
+M.I.P,23-30,2,G24,G24,Surrender ,Surrender by conversion,4
+M.I.P,31-40,1,G21,G21,Surrender ,Surrender,23876
+M.I.P,31-40,1,G22,G22,Surrender ,Surrender after lapse,3178
+M.I.P,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,229
+M.I.P,31-40,1,G24,G24,Surrender ,Surrender by conversion,67
+M.I.P,31-40,2,G21,G21,Surrender ,Surrender,3617
+M.I.P,31-40,2,G22,G22,Surrender ,Surrender after lapse,560
+M.I.P,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,44
+M.I.P,31-40,2,G24,G24,Surrender ,Surrender by conversion,23
+M.I.P,41-50,1,G21,G21,Surrender ,Surrender,9889
+M.I.P,41-50,1,G22,G22,Surrender ,Surrender after lapse,1982
+M.I.P,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,137
+M.I.P,41-50,1,G24,G24,Surrender ,Surrender by conversion,142
+M.I.P,41-50,2,G21,G21,Surrender ,Surrender,1581
+M.I.P,41-50,2,G22,G22,Surrender ,Surrender after lapse,392
+M.I.P,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,23
+M.I.P,41-50,2,G24,G24,Surrender ,Surrender by conversion,19
+M.I.P,51-60,1,G21,G21,Surrender ,Surrender,2906
+M.I.P,51-60,1,G22,G22,Surrender ,Surrender after lapse,570
+M.I.P,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,31
+M.I.P,51-60,1,G24,G24,Surrender ,Surrender by conversion,116
+M.I.P,51-60,2,G21,G21,Surrender ,Surrender,539
+M.I.P,51-60,2,G22,G22,Surrender ,Surrender after lapse,132
+M.I.P,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,9
+M.I.P,51-60,2,G24,G24,Surrender ,Surrender by conversion,23
+M.I.P,61-64,1,G21,G21,Surrender ,Surrender,211
+M.I.P,61-64,1,G22,G22,Surrender ,Surrender after lapse,55
+M.I.P,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+M.I.P,61-64,1,G24,G24,Surrender ,Surrender by conversion,23
+M.I.P,61-64,2,G21,G21,Surrender ,Surrender,75
+M.I.P,61-64,2,G22,G22,Surrender ,Surrender after lapse,11
+M.I.P,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+M.I.P,61-64,2,G24,G24,Surrender ,Surrender by conversion,6
+M.I.P,greater than 64,1,G21,G21,Surrender ,Surrender,116
+M.I.P,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,31
+M.I.P,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+M.I.P,greater than 64,1,G24,G24,Surrender ,Surrender by conversion,12
+M.I.P,greater than 64,2,G21,G21,Surrender ,Surrender,60
+M.I.P,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,14
+M.I.P,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+M.I.P,greater than 64,2,G24,G24,Surrender ,Surrender by conversion,2
+Nursing care,18-22,1,G21,G21,Surrender ,Surrender,7
+Nursing care,18-22,1,G22,G22,Surrender ,Surrender after lapse,3
+Nursing care,18-22,2,G21,G21,Surrender ,Surrender,15
+Nursing care,23-30,1,G21,G21,Surrender ,Surrender,98
+Nursing care,23-30,1,G22,G22,Surrender ,Surrender after lapse,12
+Nursing care,23-30,2,G21,G21,Surrender ,Surrender,22
+Nursing care,23-30,2,G22,G22,Surrender ,Surrender after lapse,5
+Nursing care,31-40,1,G21,G21,Surrender ,Surrender,124
+Nursing care,31-40,1,G22,G22,Surrender ,Surrender after lapse,18
+Nursing care,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+Nursing care,31-40,2,G21,G21,Surrender ,Surrender,42
+Nursing care,31-40,2,G22,G22,Surrender ,Surrender after lapse,7
+Nursing care,41-50,1,G21,G21,Surrender ,Surrender,79
+Nursing care,41-50,1,G22,G22,Surrender ,Surrender after lapse,11
+Nursing care,41-50,2,G21,G21,Surrender ,Surrender,53
+Nursing care,41-50,2,G22,G22,Surrender ,Surrender after lapse,6
+Nursing care,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Nursing care,51-60,1,G21,G21,Surrender ,Surrender,47
+Nursing care,51-60,1,G22,G22,Surrender ,Surrender after lapse,2
+Nursing care,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Nursing care,51-60,2,G21,G21,Surrender ,Surrender,60
+Nursing care,51-60,2,G22,G22,Surrender ,Surrender after lapse,7
+Nursing care,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Nursing care,61-64,1,G21,G21,Surrender ,Surrender,15
+Nursing care,61-64,1,G22,G22,Surrender ,Surrender after lapse,2
+Nursing care,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Nursing care,61-64,2,G21,G21,Surrender ,Surrender,8
+Nursing care,61-64,2,G22,G22,Surrender ,Surrender after lapse,1
+Nursing care,greater than 64,1,G21,G21,Surrender ,Surrender,3
+Nursing care,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,1
+Nursing care,greater than 64,2,G21,G21,Surrender ,Surrender,1
+Nursing care,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,1
+Term life,18-22,1,G21,G21,Surrender ,Surrender,1736
+Term life,18-22,1,G22,G22,Surrender ,Surrender after lapse,425
+Term life,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,20
+Term life,18-22,1,G24,G24,Surrender ,Surrender by conversion,1
+Term life,18-22,1,G25,G25,Surrender ,Surrender of consent,1
+Term life,18-22,2,G21,G21,Surrender ,Surrender,810
+Term life,18-22,2,G22,G22,Surrender ,Surrender after lapse,224
+Term life,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,8
+Term life,18-22,2,G24,G24,Surrender ,Surrender by conversion,1
+Term life,18-22,2,G25,G25,Surrender ,Surrender of consent,1
+Term life,23-30,1,G21,G21,Surrender ,Surrender,12468
+Term life,23-30,1,G22,G22,Surrender ,Surrender after lapse,2208
+Term life,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,133
+Term life,23-30,1,G24,G24,Surrender ,Surrender by conversion,13
+Term life,23-30,1,G25,G25,Surrender ,Surrender of consent,7
+Term life,23-30,2,G21,G21,Surrender ,Surrender,2939
+Term life,23-30,2,G22,G22,Surrender ,Surrender after lapse,643
+Term life,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,43
+Term life,23-30,2,G24,G24,Surrender ,Surrender by conversion,5
+Term life,23-30,2,G25,G25,Surrender ,Surrender of consent,5
+Term life,31-40,1,G21,G21,Surrender ,Surrender,21334
+Term life,31-40,1,G22,G22,Surrender ,Surrender after lapse,4915
+Term life,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,284
+Term life,31-40,1,G24,G24,Surrender ,Surrender by conversion,57
+Term life,31-40,1,G25,G25,Surrender ,Surrender of consent,38
+Term life,31-40,1,G26,G26,Surrender ,Retirement surrender,8
+Term life,31-40,2,G21,G21,Surrender ,Surrender,4581
+Term life,31-40,2,G22,G22,Surrender ,Surrender after lapse,1253
+Term life,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,71
+Term life,31-40,2,G24,G24,Surrender ,Surrender by conversion,20
+Term life,31-40,2,G25,G25,Surrender ,Surrender of consent,7
+Term life,31-40,3,G21,G21,Surrender ,Surrender,4
+Term life,41-50,0,G21,G21,Surrender ,Surrender,1
+Term life,41-50,1,G21,G21,Surrender ,Surrender,15941
+Term life,41-50,1,G22,G22,Surrender ,Surrender after lapse,4646
+Term life,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,264
+Term life,41-50,1,G24,G24,Surrender ,Surrender by conversion,122
+Term life,41-50,1,G25,G25,Surrender ,Surrender of consent,53
+Term life,41-50,1,G26,G26,Surrender ,Retirement surrender,5
+Term life,41-50,2,G21,G21,Surrender ,Surrender,4304
+Term life,41-50,2,G22,G22,Surrender ,Surrender after lapse,1298
+Term life,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,60
+Term life,41-50,2,G24,G24,Surrender ,Surrender by conversion,37
+Term life,41-50,2,G25,G25,Surrender ,Surrender of consent,16
+Term life,41-50,2,G26,G26,Surrender ,Retirement surrender,1
+Term life,41-50,3,G22,G22,Surrender ,Surrender after lapse,1
+Term life,51-60,1,G21,G21,Surrender ,Surrender,9297
+Term life,51-60,1,G22,G22,Surrender ,Surrender after lapse,2911
+Term life,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,164
+Term life,51-60,1,G24,G24,Surrender ,Surrender by conversion,153
+Term life,51-60,1,G25,G25,Surrender ,Surrender of consent,28
+Term life,51-60,1,G26,G26,Surrender ,Retirement surrender,3
+Term life,51-60,2,G21,G21,Surrender ,Surrender,3040
+Term life,51-60,2,G22,G22,Surrender ,Surrender after lapse,977
+Term life,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,69
+Term life,51-60,2,G24,G24,Surrender ,Surrender by conversion,56
+Term life,51-60,2,G25,G25,Surrender ,Surrender of consent,13
+Term life,51-60,3,G21,G21,Surrender ,Surrender,1
+Term life,61-64,1,G21,G21,Surrender ,Surrender,1276
+Term life,61-64,1,G22,G22,Surrender ,Surrender after lapse,403
+Term life,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,25
+Term life,61-64,1,G24,G24,Surrender ,Surrender by conversion,41
+Term life,61-64,1,G25,G25,Surrender ,Surrender of consent,8
+Term life,61-64,1,G26,G26,Surrender ,Retirement surrender,1
+Term life,61-64,2,G21,G21,Surrender ,Surrender,648
+Term life,61-64,2,G22,G22,Surrender ,Surrender after lapse,221
+Term life,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,11
+Term life,61-64,2,G24,G24,Surrender ,Surrender by conversion,23
+Term life,61-64,2,G25,G25,Surrender ,Surrender of consent,2
+Term life,greater than 64,1,G21,G21,Surrender ,Surrender,1174
+Term life,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,299
+Term life,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,24
+Term life,greater than 64,1,G24,G24,Surrender ,Surrender by conversion,30
+Term life,greater than 64,2,G21,G21,Surrender ,Surrender,753
+Term life,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,245
+Term life,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,23
+Term life,greater than 64,2,G24,G24,Surrender ,Surrender by conversion,17
+VL Endowment,18-22,1,G21,G21,Surrender ,Surrender,10
+VL Endowment,18-22,2,G21,G21,Surrender ,Surrender,10
+VL Endowment,23-30,1,G21,G21,Surrender ,Surrender,52
+VL Endowment,23-30,1,G22,G22,Surrender ,Surrender after lapse,5
+VL Endowment,23-30,2,G21,G21,Surrender ,Surrender,36
+VL Endowment,23-30,2,G22,G22,Surrender ,Surrender after lapse,3
+VL Endowment,31-40,1,G21,G21,Surrender ,Surrender,195
+VL Endowment,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+VL Endowment,31-40,2,G21,G21,Surrender ,Surrender,37
+VL Endowment,31-40,2,G22,G22,Surrender ,Surrender after lapse,1
+VL Endowment,31-40,3,G21,G21,Surrender ,Surrender,7
+VL Endowment,41-50,1,G21,G21,Surrender ,Surrender,91
+VL Endowment,41-50,1,G22,G22,Surrender ,Surrender after lapse,3
+VL Endowment,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+VL Endowment,41-50,2,G21,G21,Surrender ,Surrender,41
+VL Endowment,41-50,2,G22,G22,Surrender ,Surrender after lapse,2
+VL Endowment,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+VL Endowment,51-60,1,G21,G21,Surrender ,Surrender,90
+VL Endowment,51-60,1,G22,G22,Surrender ,Surrender after lapse,2
+VL Endowment,51-60,2,G21,G21,Surrender ,Surrender,27
+VL Endowment,61-64,1,G21,G21,Surrender ,Surrender,27
+VL Endowment,61-64,2,G21,G21,Surrender ,Surrender,7
+VL Endowment,greater than 64,1,G21,G21,Surrender ,Surrender,61
+VL Endowment,greater than 64,2,G21,G21,Surrender ,Surrender,9
+VL Whole life,18-22,1,G21,G21,Surrender ,Surrender,263
+VL Whole life,18-22,1,G22,G22,Surrender ,Surrender after lapse,33
+VL Whole life,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,4
+VL Whole life,18-22,2,G21,G21,Surrender ,Surrender,128
+VL Whole life,18-22,2,G22,G22,Surrender ,Surrender after lapse,18
+VL Whole life,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+VL Whole life,23-30,1,G21,G21,Surrender ,Surrender,2072
+VL Whole life,23-30,1,G22,G22,Surrender ,Surrender after lapse,169
+VL Whole life,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,31
+VL Whole life,23-30,1,G24,G24,Surrender ,Surrender by conversion,1
+VL Whole life,23-30,2,G21,G21,Surrender ,Surrender,786
+VL Whole life,23-30,2,G22,G22,Surrender ,Surrender after lapse,73
+VL Whole life,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,12
+VL Whole life,23-30,2,G24,G24,Surrender ,Surrender by conversion,1
+VL Whole life,31-40,1,G21,G21,Surrender ,Surrender,2589
+VL Whole life,31-40,1,G22,G22,Surrender ,Surrender after lapse,247
+VL Whole life,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,55
+VL Whole life,31-40,1,G24,G24,Surrender ,Surrender by conversion,2
+VL Whole life,31-40,2,G21,G21,Surrender ,Surrender,850
+VL Whole life,31-40,2,G22,G22,Surrender ,Surrender after lapse,62
+VL Whole life,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,25
+VL Whole life,41-50,1,G21,G21,Surrender ,Surrender,1243
+VL Whole life,41-50,1,G22,G22,Surrender ,Surrender after lapse,111
+VL Whole life,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,34
+VL Whole life,41-50,1,G24,G24,Surrender ,Surrender by conversion,2
+VL Whole life,41-50,2,G21,G21,Surrender ,Surrender,598
+VL Whole life,41-50,2,G22,G22,Surrender ,Surrender after lapse,41
+VL Whole life,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,13
+VL Whole life,51-60,1,G21,G21,Surrender ,Surrender,577
+VL Whole life,51-60,1,G22,G22,Surrender ,Surrender after lapse,45
+VL Whole life,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,18
+VL Whole life,51-60,2,G21,G21,Surrender ,Surrender,449
+VL Whole life,51-60,2,G22,G22,Surrender ,Surrender after lapse,26
+VL Whole life,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,5
+VL Whole life,61-64,1,G21,G21,Surrender ,Surrender,86
+VL Whole life,61-64,1,G22,G22,Surrender ,Surrender after lapse,4
+VL Whole life,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,3
+VL Whole life,61-64,2,G21,G21,Surrender ,Surrender,98
+VL Whole life,61-64,2,G22,G22,Surrender ,Surrender after lapse,6
+VL Whole life,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,2
+VL Whole life,greater than 64,1,G21,G21,Surrender ,Surrender,129
+VL Whole life,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,2
+VL Whole life,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+VL Whole life,greater than 64,2,G21,G21,Surrender ,Surrender,161
+VL Whole life,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,6
+VL Whole life,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,1
+Whole life,18-22,1,G21,G21,Surrender ,Surrender,7663
+Whole life,18-22,1,G22,G22,Surrender ,Surrender after lapse,1883
+Whole life,18-22,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,172
+Whole life,18-22,1,G24,G24,Surrender ,Surrender by conversion,2
+Whole life,18-22,1,G25,G25,Surrender ,Surrender of consent,3
+Whole life,18-22,2,G21,G21,Surrender ,Surrender,4868
+Whole life,18-22,2,G22,G22,Surrender ,Surrender after lapse,835
+Whole life,18-22,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,80
+Whole life,18-22,2,G25,G25,Surrender ,Surrender of consent,1
+Whole life,23-30,1,G21,G21,Surrender ,Surrender,32986
+Whole life,23-30,1,G22,G22,Surrender ,Surrender after lapse,6164
+Whole life,23-30,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,643
+Whole life,23-30,1,G24,G24,Surrender ,Surrender by conversion,2
+Whole life,23-30,1,G25,G25,Surrender ,Surrender of consent,6
+Whole life,23-30,2,G21,G21,Surrender ,Surrender,14934
+Whole life,23-30,2,G22,G22,Surrender ,Surrender after lapse,2336
+Whole life,23-30,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,262
+Whole life,23-30,2,G24,G24,Surrender ,Surrender by conversion,3
+Whole life,23-30,2,G25,G25,Surrender ,Surrender of consent,6
+Whole life,31-40,1,G21,G21,Surrender ,Surrender,34044
+Whole life,31-40,1,G22,G22,Surrender ,Surrender after lapse,7454
+Whole life,31-40,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,719
+Whole life,31-40,1,G24,G24,Surrender ,Surrender by conversion,18
+Whole life,31-40,1,G25,G25,Surrender ,Surrender of consent,16
+Whole life,31-40,2,G21,G21,Surrender ,Surrender,15566
+Whole life,31-40,2,G22,G22,Surrender ,Surrender after lapse,2916
+Whole life,31-40,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,366
+Whole life,31-40,2,G24,G24,Surrender ,Surrender by conversion,1
+Whole life,31-40,2,G25,G25,Surrender ,Surrender of consent,8
+Whole life,31-40,3,G21,G21,Surrender ,Surrender,2
+Whole life,41-50,1,G21,G21,Surrender ,Surrender,20969
+Whole life,41-50,1,G22,G22,Surrender ,Surrender after lapse,5114
+Whole life,41-50,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,549
+Whole life,41-50,1,G24,G24,Surrender ,Surrender by conversion,13
+Whole life,41-50,1,G25,G25,Surrender ,Surrender of consent,18
+Whole life,41-50,2,G21,G21,Surrender ,Surrender,13160
+Whole life,41-50,2,G22,G22,Surrender ,Surrender after lapse,2774
+Whole life,41-50,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,302
+Whole life,41-50,2,G24,G24,Surrender ,Surrender by conversion,4
+Whole life,41-50,2,G25,G25,Surrender ,Surrender of consent,5
+Whole life,41-50,3,G21,G21,Surrender ,Surrender,2
+Whole life,51-60,1,G21,G21,Surrender ,Surrender,10951
+Whole life,51-60,1,G22,G22,Surrender ,Surrender after lapse,2392
+Whole life,51-60,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,236
+Whole life,51-60,1,G24,G24,Surrender ,Surrender by conversion,11
+Whole life,51-60,1,G25,G25,Surrender ,Surrender of consent,10
+Whole life,51-60,2,G21,G21,Surrender ,Surrender,9502
+Whole life,51-60,2,G22,G22,Surrender ,Surrender after lapse,1693
+Whole life,51-60,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,192
+Whole life,51-60,2,G24,G24,Surrender ,Surrender by conversion,3
+Whole life,51-60,2,G25,G25,Surrender ,Surrender of consent,8
+Whole life,51-60,3,G21,G21,Surrender ,Surrender,2
+Whole life,61-64,1,G21,G21,Surrender ,Surrender,1992
+Whole life,61-64,1,G22,G22,Surrender ,Surrender after lapse,453
+Whole life,61-64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,51
+Whole life,61-64,1,G25,G25,Surrender ,Surrender of consent,1
+Whole life,61-64,2,G21,G21,Surrender ,Surrender,2267
+Whole life,61-64,2,G22,G22,Surrender ,Surrender after lapse,426
+Whole life,61-64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,53
+Whole life,61-64,2,G25,G25,Surrender ,Surrender of consent,3
+Whole life,greater than 64,1,G21,G21,Surrender ,Surrender,2376
+Whole life,greater than 64,1,G22,G22,Surrender ,Surrender after lapse,544
+Whole life,greater than 64,1,G23,G23,Surrender ,Surrender after lapse on the policy cause,64
+Whole life,greater than 64,1,G25,G25,Surrender ,Surrender of consent,1
+Whole life,greater than 64,2,G21,G21,Surrender ,Surrender,3605
+Whole life,greater than 64,2,G22,G22,Surrender ,Surrender after lapse,559
+Whole life,greater than 64,2,G23,G23,Surrender ,Surrender after lapse on the policy cause,74
+Whole life,greater than 64,2,G25,G25,Surrender ,Surrender of consent,3

@@ -1,0 +1,527 @@
+Policy Type Name,a_group,Insured'S Gender,APL Number of LOAN,count
+Annuity(Annuity Certain ),18-22,1,0,5
+Annuity(Annuity Certain ),18-22,2,0,2
+Annuity(Annuity Certain ),23-30,1,0,24
+Annuity(Annuity Certain ),23-30,1,1,2
+Annuity(Annuity Certain ),23-30,1,2,1
+Annuity(Annuity Certain ),23-30,2,0,15
+Annuity(Annuity Certain ),23-30,2,1,1
+Annuity(Annuity Certain ),31-40,1,0,32
+Annuity(Annuity Certain ),31-40,1,1,2
+Annuity(Annuity Certain ),31-40,1,2,1
+Annuity(Annuity Certain ),31-40,2,0,19
+Annuity(Annuity Certain ),31-40,2,1,2
+Annuity(Annuity Certain ),41-50,1,0,68
+Annuity(Annuity Certain ),41-50,1,1,3
+Annuity(Annuity Certain ),41-50,1,2,1
+Annuity(Annuity Certain ),41-50,1,4,1
+Annuity(Annuity Certain ),41-50,1,5,1
+Annuity(Annuity Certain ),41-50,1,16,1
+Annuity(Annuity Certain ),41-50,2,0,38
+Annuity(Annuity Certain ),41-50,2,1,1
+Annuity(Annuity Certain ),41-50,2,5,1
+Annuity(Annuity Certain ),51-60,1,0,55
+Annuity(Annuity Certain ),51-60,1,1,1
+Annuity(Annuity Certain ),51-60,1,2,1
+Annuity(Annuity Certain ),51-60,1,3,2
+Annuity(Annuity Certain ),51-60,2,0,55
+Annuity(Annuity Certain ),51-60,2,1,4
+Annuity(Annuity Certain ),51-60,2,2,1
+Annuity(Annuity Certain ),51-60,2,3,1
+Annuity(Annuity Certain ),61-64,1,0,9
+Annuity(Annuity Certain ),61-64,2,0,9
+Annuity(Annuity Certain ),61-64,2,4,1
+Annuity(Annuity Certain ),greater than 64,1,0,3
+Annuity(Annuity Certain ),greater than 64,2,0,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,0,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,0,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,0,3
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,0,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,1,0,1
+Cancer,18-22,1,0,102
+Cancer,18-22,2,0,27
+Cancer,23-30,1,0,465
+Cancer,23-30,2,0,143
+Cancer,31-40,1,0,1271
+Cancer,31-40,2,0,386
+Cancer,41-50,1,0,2684
+Cancer,41-50,2,0,815
+Cancer,51-60,1,0,3128
+Cancer,51-60,2,0,980
+Cancer,61-64,1,0,771
+Cancer,61-64,2,0,247
+Cancer,greater than 64,1,0,756
+Cancer,greater than 64,2,0,329
+Dread Disease T.L.,18-22,1,0,1
+Dread Disease T.L.,18-22,2,0,2
+Dread Disease T.L.,23-30,1,0,8
+Dread Disease T.L.,23-30,2,0,6
+Dread Disease T.L.,31-40,1,0,46
+Dread Disease T.L.,31-40,2,0,27
+Dread Disease T.L.,41-50,1,0,102
+Dread Disease T.L.,41-50,2,0,52
+Dread Disease T.L.,51-60,1,0,96
+Dread Disease T.L.,51-60,2,0,42
+Dread Disease T.L.,61-64,1,0,21
+Dread Disease T.L.,61-64,2,0,6
+Dread Disease T.L.,greater than 64,1,0,15
+Dread Disease T.L.,greater than 64,2,0,9
+Dread Disease W.L.,18-22,1,0,8
+Dread Disease W.L.,18-22,2,0,3
+Dread Disease W.L.,23-30,1,0,43
+Dread Disease W.L.,23-30,1,1,2
+Dread Disease W.L.,23-30,1,2,2
+Dread Disease W.L.,23-30,1,3,2
+Dread Disease W.L.,23-30,2,0,31
+Dread Disease W.L.,31-40,1,0,106
+Dread Disease W.L.,31-40,1,1,3
+Dread Disease W.L.,31-40,1,2,2
+Dread Disease W.L.,31-40,1,3,3
+Dread Disease W.L.,31-40,1,5,1
+Dread Disease W.L.,31-40,1,15,1
+Dread Disease W.L.,31-40,2,0,52
+Dread Disease W.L.,31-40,2,4,1
+Dread Disease W.L.,31-40,2,7,1
+Dread Disease W.L.,41-50,1,0,105
+Dread Disease W.L.,41-50,1,1,7
+Dread Disease W.L.,41-50,1,2,2
+Dread Disease W.L.,41-50,1,7,2
+Dread Disease W.L.,41-50,2,0,67
+Dread Disease W.L.,41-50,2,1,1
+Dread Disease W.L.,41-50,2,3,1
+Dread Disease W.L.,41-50,2,24,1
+Dread Disease W.L.,51-60,1,0,140
+Dread Disease W.L.,51-60,1,1,7
+Dread Disease W.L.,51-60,1,2,2
+Dread Disease W.L.,51-60,1,3,2
+Dread Disease W.L.,51-60,1,4,1
+Dread Disease W.L.,51-60,1,5,1
+Dread Disease W.L.,51-60,1,6,1
+Dread Disease W.L.,51-60,1,14,1
+Dread Disease W.L.,51-60,2,0,75
+Dread Disease W.L.,61-64,1,0,29
+Dread Disease W.L.,61-64,1,1,1
+Dread Disease W.L.,61-64,1,6,1
+Dread Disease W.L.,61-64,2,0,22
+Dread Disease W.L.,greater than 64,1,0,18
+Dread Disease W.L.,greater than 64,1,9,1
+Dread Disease W.L.,greater than 64,2,0,10
+Endowment,18-22,1,0,856
+Endowment,18-22,1,1,41
+Endowment,18-22,1,2,7
+Endowment,18-22,1,8,1
+Endowment,18-22,2,0,780
+Endowment,18-22,2,1,29
+Endowment,18-22,2,2,6
+Endowment,18-22,2,6,1
+Endowment,18-22,2,7,1
+Endowment,18-22,2,17,1
+Endowment,18-22,2,29,1
+Endowment,23-30,1,0,2639
+Endowment,23-30,1,1,59
+Endowment,23-30,1,2,24
+Endowment,23-30,1,4,3
+Endowment,23-30,1,5,2
+Endowment,23-30,1,6,4
+Endowment,23-30,1,7,1
+Endowment,23-30,1,8,2
+Endowment,23-30,1,9,1
+Endowment,23-30,1,10,1
+Endowment,23-30,2,0,1510
+Endowment,23-30,2,1,58
+Endowment,23-30,2,2,9
+Endowment,23-30,2,3,5
+Endowment,23-30,2,4,1
+Endowment,23-30,2,6,1
+Endowment,23-30,2,8,1
+Endowment,23-30,2,9,1
+Endowment,31-40,1,0,2873
+Endowment,31-40,1,1,71
+Endowment,31-40,1,2,42
+Endowment,31-40,1,3,5
+Endowment,31-40,1,4,4
+Endowment,31-40,1,5,2
+Endowment,31-40,1,6,1
+Endowment,31-40,1,7,1
+Endowment,31-40,1,8,3
+Endowment,31-40,1,9,2
+Endowment,31-40,1,11,1
+Endowment,31-40,1,12,1
+Endowment,31-40,1,14,1
+Endowment,31-40,2,0,1431
+Endowment,31-40,2,1,48
+Endowment,31-40,2,2,10
+Endowment,31-40,2,3,5
+Endowment,31-40,2,4,1
+Endowment,31-40,2,6,1
+Endowment,31-40,2,8,1
+Endowment,31-40,2,9,1
+Endowment,31-40,2,14,1
+Endowment,31-40,2,15,1
+Endowment,41-50,1,0,2705
+Endowment,41-50,1,1,70
+Endowment,41-50,1,2,17
+Endowment,41-50,1,3,1
+Endowment,41-50,1,5,4
+Endowment,41-50,1,9,1
+Endowment,41-50,1,12,1
+Endowment,41-50,1,14,1
+Endowment,41-50,1,16,1
+Endowment,41-50,1,18,1
+Endowment,41-50,1,20,1
+Endowment,41-50,2,0,1556
+Endowment,41-50,2,1,70
+Endowment,41-50,2,2,8
+Endowment,41-50,2,3,4
+Endowment,41-50,2,4,1
+Endowment,41-50,2,5,2
+Endowment,41-50,2,6,2
+Endowment,41-50,2,8,1
+Endowment,51-60,1,0,1305
+Endowment,51-60,1,1,44
+Endowment,51-60,1,2,3
+Endowment,51-60,1,3,3
+Endowment,51-60,1,5,2
+Endowment,51-60,1,8,1
+Endowment,51-60,2,0,792
+Endowment,51-60,2,1,29
+Endowment,51-60,2,2,6
+Endowment,51-60,2,3,6
+Endowment,51-60,2,4,1
+Endowment,51-60,2,5,2
+Endowment,51-60,2,8,1
+Endowment,51-60,2,9,1
+Endowment,61-64,1,0,221
+Endowment,61-64,1,1,6
+Endowment,61-64,1,2,2
+Endowment,61-64,2,0,117
+Endowment,61-64,2,1,5
+Endowment,61-64,2,2,1
+Endowment,61-64,2,4,1
+Endowment,greater than 64,1,0,96
+Endowment,greater than 64,1,1,2
+Endowment,greater than 64,1,2,1
+Endowment,greater than 64,1,7,1
+Endowment,greater than 64,2,0,84
+Endowment,greater than 64,2,1,3
+Female Disease,18-22,2,0,15
+Female Disease,23-30,2,0,86
+Female Disease,31-40,2,0,126
+Female Disease,41-50,2,0,140
+Female Disease,51-60,2,0,117
+Female Disease,61-64,2,0,44
+Female Disease,greater than 64,2,0,12
+Inc. Dec. Term Life,23-30,1,0,1
+Inc. Dec. Term Life,23-30,2,0,3
+Inc. Dec. Term Life,31-40,1,0,27
+Inc. Dec. Term Life,41-50,1,0,80
+Inc. Dec. Term Life,41-50,2,0,10
+Inc. Dec. Term Life,41-50,2,5,1
+Inc. Dec. Term Life,51-60,1,0,214
+Inc. Dec. Term Life,51-60,1,1,1
+Inc. Dec. Term Life,51-60,2,0,20
+Inc. Dec. Term Life,51-60,2,1,1
+Inc. Dec. Term Life,61-64,1,0,58
+Inc. Dec. Term Life,61-64,1,1,1
+Inc. Dec. Term Life,61-64,2,0,8
+Inc. Dec. Term Life,greater than 64,1,0,35
+Inc. Dec. Term Life,greater than 64,2,0,4
+Injury,18-22,1,0,1
+Injury,23-30,1,0,9
+Injury,23-30,2,0,1
+Injury,31-40,1,0,13
+Injury,31-40,1,1,1
+Injury,31-40,2,0,1
+Injury,41-50,1,0,39
+Injury,41-50,1,1,1
+Injury,41-50,2,0,6
+Injury,51-60,1,0,67
+Injury,51-60,1,3,1
+Injury,51-60,2,0,9
+Injury,61-64,1,0,18
+Injury,61-64,1,2,1
+Injury,61-64,2,0,3
+Injury,greater than 64,1,0,22
+Injury,greater than 64,2,0,5
+Joint life,18-22,2,0,1
+Joint life,23-30,1,0,5
+Joint life,31-40,1,0,35
+Joint life,31-40,1,1,1
+Joint life,31-40,1,2,2
+Joint life,31-40,1,3,1
+Joint life,31-40,2,0,2
+Joint life,31-40,2,1,1
+Joint life,41-50,1,0,54
+Joint life,41-50,2,0,8
+Joint life,41-50,2,5,1
+Joint life,51-60,1,0,53
+Joint life,51-60,1,1,1
+Joint life,51-60,1,2,1
+Joint life,51-60,1,3,3
+Joint life,51-60,1,8,1
+Joint life,51-60,2,0,6
+Joint life,51-60,2,1,1
+Joint life,61-64,1,0,4
+Joint life,61-64,2,0,3
+Joint life,greater than 64,1,0,8
+Joint life,greater than 64,2,0,4
+Joint life(Flexible),23-30,1,0,1
+Joint life(Flexible),31-40,1,0,7
+Joint life(Flexible),31-40,2,0,1
+Joint life(Flexible),41-50,1,0,11
+Joint life(Flexible),41-50,2,0,2
+Joint life(Flexible),51-60,1,0,13
+Joint life(Flexible),51-60,1,1,1
+Joint life(Flexible),51-60,2,0,2
+Joint life(Flexible),61-64,1,0,4
+Joint life(Flexible),61-64,2,0,3
+Joint life(Flexible),greater than 64,1,0,6
+Medical,18-22,1,0,185
+Medical,18-22,2,0,105
+Medical,23-30,1,0,634
+Medical,23-30,1,1,1
+Medical,23-30,2,0,418
+Medical,31-40,1,0,1444
+Medical,31-40,1,1,1
+Medical,31-40,2,0,909
+Medical,41-50,1,0,2414
+Medical,41-50,1,2,1
+Medical,41-50,1,4,1
+Medical,41-50,2,0,1281
+Medical,51-60,1,0,4237
+Medical,51-60,1,1,1
+Medical,51-60,2,0,1838
+Medical,51-60,2,1,1
+Medical,61-64,1,0,1899
+Medical,61-64,2,0,840
+Medical,greater than 64,1,0,2005
+Medical,greater than 64,1,2,1
+Medical,greater than 64,2,0,1055
+Medical,greater than 64,2,1,2
+M.I.P,18-22,1,0,4
+M.I.P,23-30,1,0,87
+M.I.P,23-30,2,0,4
+M.I.P,31-40,1,0,335
+M.I.P,31-40,2,0,23
+M.I.P,41-50,1,0,346
+M.I.P,41-50,2,0,22
+M.I.P,51-60,1,0,218
+M.I.P,51-60,2,0,22
+M.I.P,61-64,1,0,39
+M.I.P,61-64,2,0,2
+M.I.P,greater than 64,1,0,36
+M.I.P,greater than 64,2,0,6
+Nursing care,31-40,1,0,2
+Nursing care,31-40,2,0,4
+Nursing care,41-50,1,0,3
+Nursing care,41-50,2,0,2
+Nursing care,51-60,1,0,33
+Nursing care,51-60,2,0,19
+Nursing care,61-64,1,0,5
+Nursing care,61-64,2,0,11
+Nursing care,greater than 64,1,0,6
+Nursing care,greater than 64,2,0,3
+Term life,18-22,1,0,33
+Term life,18-22,2,0,8
+Term life,23-30,1,0,152
+Term life,23-30,1,1,1
+Term life,23-30,2,0,30
+Term life,31-40,1,0,909
+Term life,31-40,1,1,2
+Term life,31-40,1,4,1
+Term life,31-40,2,0,134
+Term life,31-40,2,3,1
+Term life,41-50,1,0,1872
+Term life,41-50,1,1,9
+Term life,41-50,1,2,2
+Term life,41-50,1,3,1
+Term life,41-50,1,4,1
+Term life,41-50,1,5,1
+Term life,41-50,2,0,256
+Term life,41-50,2,1,1
+Term life,41-50,2,7,1
+Term life,51-60,1,0,2563
+Term life,51-60,1,1,12
+Term life,51-60,1,2,4
+Term life,51-60,1,3,5
+Term life,51-60,1,4,1
+Term life,51-60,1,6,1
+Term life,51-60,1,9,1
+Term life,51-60,2,0,506
+Term life,51-60,2,1,5
+Term life,61-64,1,0,702
+Term life,61-64,1,1,3
+Term life,61-64,1,2,3
+Term life,61-64,1,3,3
+Term life,61-64,1,4,1
+Term life,61-64,1,8,1
+Term life,61-64,1,15,1
+Term life,61-64,2,0,199
+Term life,61-64,2,1,1
+Term life,greater than 64,1,0,928
+Term life,greater than 64,1,1,8
+Term life,greater than 64,1,2,4
+Term life,greater than 64,1,21,1
+Term life,greater than 64,2,0,365
+Term life,greater than 64,2,1,7
+Term life,greater than 64,2,2,1
+Term life,greater than 64,2,5,1
+Term life,greater than 64,2,11,1
+VL Endowment,18-22,1,0,39
+VL Endowment,18-22,2,0,41
+VL Endowment,23-30,1,0,133
+VL Endowment,23-30,2,0,69
+VL Endowment,31-40,1,0,215
+VL Endowment,31-40,2,0,80
+VL Endowment,41-50,1,0,200
+VL Endowment,41-50,2,0,129
+VL Endowment,51-60,1,0,190
+VL Endowment,51-60,2,0,123
+VL Endowment,61-64,1,0,7
+VL Endowment,61-64,2,0,4
+VL Endowment,greater than 64,1,0,5
+VL Endowment,greater than 64,2,0,3
+VL Whole life,18-22,1,0,4
+VL Whole life,18-22,2,0,2
+VL Whole life,23-30,1,0,17
+VL Whole life,23-30,2,0,6
+VL Whole life,31-40,1,0,56
+VL Whole life,31-40,2,0,17
+VL Whole life,41-50,1,0,89
+VL Whole life,41-50,2,0,31
+VL Whole life,51-60,1,0,96
+VL Whole life,51-60,2,0,29
+VL Whole life,61-64,1,0,31
+VL Whole life,61-64,2,0,13
+VL Whole life,greater than 64,1,0,68
+VL Whole life,greater than 64,2,0,44
+Whole life,18-22,1,0,120
+Whole life,18-22,1,1,6
+Whole life,18-22,1,2,2
+Whole life,18-22,1,4,1
+Whole life,18-22,1,5,1
+Whole life,18-22,1,12,1
+Whole life,18-22,2,0,29
+Whole life,18-22,2,1,3
+Whole life,18-22,2,2,1
+Whole life,18-22,2,3,1
+Whole life,23-30,1,0,372
+Whole life,23-30,1,1,21
+Whole life,23-30,1,2,12
+Whole life,23-30,1,3,4
+Whole life,23-30,1,4,1
+Whole life,23-30,1,5,2
+Whole life,23-30,1,6,3
+Whole life,23-30,1,7,1
+Whole life,23-30,1,8,1
+Whole life,23-30,1,10,2
+Whole life,23-30,1,12,1
+Whole life,23-30,1,14,1
+Whole life,23-30,1,23,1
+Whole life,23-30,2,0,109
+Whole life,23-30,2,1,9
+Whole life,23-30,2,3,2
+Whole life,23-30,2,4,1
+Whole life,23-30,2,6,1
+Whole life,31-40,1,0,882
+Whole life,31-40,1,1,39
+Whole life,31-40,1,2,19
+Whole life,31-40,1,3,7
+Whole life,31-40,1,4,5
+Whole life,31-40,1,5,3
+Whole life,31-40,1,6,5
+Whole life,31-40,1,7,1
+Whole life,31-40,1,8,1
+Whole life,31-40,1,9,2
+Whole life,31-40,1,11,1
+Whole life,31-40,1,12,1
+Whole life,31-40,1,17,2
+Whole life,31-40,2,0,255
+Whole life,31-40,2,1,12
+Whole life,31-40,2,2,3
+Whole life,31-40,2,4,1
+Whole life,41-50,1,0,1441
+Whole life,41-50,1,1,58
+Whole life,41-50,1,2,24
+Whole life,41-50,1,3,15
+Whole life,41-50,1,4,13
+Whole life,41-50,1,5,7
+Whole life,41-50,1,6,7
+Whole life,41-50,1,7,3
+Whole life,41-50,1,8,4
+Whole life,41-50,1,9,3
+Whole life,41-50,1,10,5
+Whole life,41-50,1,11,1
+Whole life,41-50,1,17,1
+Whole life,41-50,1,19,1
+Whole life,41-50,2,0,577
+Whole life,41-50,2,1,25
+Whole life,41-50,2,2,5
+Whole life,41-50,2,3,5
+Whole life,41-50,2,4,5
+Whole life,41-50,2,5,1
+Whole life,41-50,2,6,1
+Whole life,41-50,2,7,1
+Whole life,41-50,2,8,1
+Whole life,41-50,2,12,1
+Whole life,41-50,2,13,1
+Whole life,41-50,2,16,1
+Whole life,51-60,1,0,2326
+Whole life,51-60,1,1,81
+Whole life,51-60,1,2,39
+Whole life,51-60,1,3,24
+Whole life,51-60,1,4,8
+Whole life,51-60,1,5,9
+Whole life,51-60,1,6,5
+Whole life,51-60,1,7,3
+Whole life,51-60,1,8,4
+Whole life,51-60,1,9,2
+Whole life,51-60,1,12,3
+Whole life,51-60,2,0,892
+Whole life,51-60,2,1,15
+Whole life,51-60,2,2,10
+Whole life,51-60,2,3,7
+Whole life,51-60,2,4,3
+Whole life,51-60,2,6,2
+Whole life,51-60,2,8,1
+Whole life,51-60,2,9,1
+Whole life,51-60,2,10,1
+Whole life,51-60,2,11,2
+Whole life,51-60,2,14,1
+Whole life,61-64,1,0,785
+Whole life,61-64,1,1,34
+Whole life,61-64,1,2,19
+Whole life,61-64,1,3,5
+Whole life,61-64,1,4,2
+Whole life,61-64,1,6,1
+Whole life,61-64,1,7,1
+Whole life,61-64,1,13,1
+Whole life,61-64,2,0,407
+Whole life,61-64,2,1,12
+Whole life,61-64,2,2,8
+Whole life,61-64,2,3,3
+Whole life,61-64,2,4,2
+Whole life,61-64,2,5,1
+Whole life,61-64,2,6,1
+Whole life,greater than 64,1,0,1549
+Whole life,greater than 64,1,1,48
+Whole life,greater than 64,1,2,28
+Whole life,greater than 64,1,3,15
+Whole life,greater than 64,1,4,6
+Whole life,greater than 64,1,5,5
+Whole life,greater than 64,1,6,1
+Whole life,greater than 64,1,7,2
+Whole life,greater than 64,1,9,2
+Whole life,greater than 64,1,11,1
+Whole life,greater than 64,2,0,919
+Whole life,greater than 64,2,1,29
+Whole life,greater than 64,2,2,19
+Whole life,greater than 64,2,3,11
+Whole life,greater than 64,2,4,4
+Whole life,greater than 64,2,5,5
+Whole life,greater than 64,2,7,2
+Whole life,greater than 64,2,8,1
+Whole life,greater than 64,2,10,1
+Whole life,greater than 64,2,12,1
+Whole life,greater than 64,2,14,2
+Whole life,greater than 64,2,16,1

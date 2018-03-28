@@ -1,0 +1,914 @@
+Policy Type Name,a_group,Policyholder'S_Gender,CheckupKBfirst,check_up_detail,CheckupKBfirst Count
+Annuity(Annuity Certain ),18-22,1,0,Nonmedical Declaration,372
+Annuity(Annuity Certain ),18-22,1,1,Physician Checkup,2
+Annuity(Annuity Certain ),18-22,2,0,Nonmedical Declaration,342
+Annuity(Annuity Certain ),23-30,1,0,Nonmedical Declaration,1770
+Annuity(Annuity Certain ),23-30,1,1,Physician Checkup,37
+Annuity(Annuity Certain ),23-30,1,2,Examination by Medical Certificate etc.,5
+Annuity(Annuity Certain ),23-30,1,4,Qualified Life Insurance Interviewer,2
+Annuity(Annuity Certain ),23-30,2,0,Nonmedical Declaration,1373
+Annuity(Annuity Certain ),23-30,2,1,Physician Checkup,4
+Annuity(Annuity Certain ),23-30,2,2,Examination by Medical Certificate etc.,2
+Annuity(Annuity Certain ),31-40,1,0,Nonmedical Declaration,1936
+Annuity(Annuity Certain ),31-40,1,1,Physician Checkup,40
+Annuity(Annuity Certain ),31-40,1,2,Examination by Medical Certificate etc.,3
+Annuity(Annuity Certain ),31-40,1,4,Qualified Life Insurance Interviewer,1
+Annuity(Annuity Certain ),31-40,2,0,Nonmedical Declaration,1469
+Annuity(Annuity Certain ),31-40,2,1,Physician Checkup,10
+Annuity(Annuity Certain ),31-40,2,4,Qualified Life Insurance Interviewer,2
+Annuity(Annuity Certain ),41-50,1,0,Nonmedical Declaration,1474
+Annuity(Annuity Certain ),41-50,1,1,Physician Checkup,17
+Annuity(Annuity Certain ),41-50,1,2,Examination by Medical Certificate etc.,2
+Annuity(Annuity Certain ),41-50,2,0,Nonmedical Declaration,1323
+Annuity(Annuity Certain ),41-50,2,1,Physician Checkup,6
+Annuity(Annuity Certain ),51-60,1,0,Nonmedical Declaration,682
+Annuity(Annuity Certain ),51-60,1,1,Physician Checkup,4
+Annuity(Annuity Certain ),51-60,2,0,Nonmedical Declaration,678
+Annuity(Annuity Certain ),51-60,2,1,Physician Checkup,3
+Annuity(Annuity Certain ),61-64,1,0,Nonmedical Declaration,64
+Annuity(Annuity Certain ),61-64,2,0,Nonmedical Declaration,56
+Annuity(Annuity Certain ),greater than 64,1,0,Nonmedical Declaration,54
+Annuity(Annuity Certain ),greater than 64,2,0,Nonmedical Declaration,52
+Annuity(Annuity Certain ),greater than 64,2,1,Physician Checkup,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),18-22,1,0,Nonmedical Declaration,15
+Annuity(Whole Life Annuity With Guaranteed Installment ),18-22,2,0,Nonmedical Declaration,9
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,0,Nonmedical Declaration,56
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,1,Physician Checkup,4
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,0,Nonmedical Declaration,40
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,1,0,Nonmedical Declaration,46
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,1,1,Physician Checkup,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,1,4,Qualified Life Insurance Interviewer,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,2,0,Nonmedical Declaration,28
+Annuity(Whole Life Annuity With Guaranteed Installment ),31-40,2,1,Physician Checkup,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,0,Nonmedical Declaration,31
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,1,Physician Checkup,4
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,2,Examination by Medical Certificate etc.,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,2,0,Nonmedical Declaration,29
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,1,0,Nonmedical Declaration,13
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,1,1,Physician Checkup,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,0,Nonmedical Declaration,19
+Annuity(Whole Life Annuity With Guaranteed Installment ),61-64,1,0,Nonmedical Declaration,4
+Annuity(Whole Life Annuity With Guaranteed Installment ),61-64,2,0,Nonmedical Declaration,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,1,0,Nonmedical Declaration,3
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,2,0,Nonmedical Declaration,3
+Cancer,18-22,1,0,Nonmedical Declaration,9458
+Cancer,18-22,1,1,Physician Checkup,22
+Cancer,18-22,1,2,Examination by Medical Certificate etc.,8
+Cancer,18-22,1,4,Qualified Life Insurance Interviewer,4
+Cancer,18-22,2,0,Nonmedical Declaration,5857
+Cancer,18-22,2,1,Physician Checkup,3
+Cancer,18-22,2,2,Examination by Medical Certificate etc.,2
+Cancer,18-22,2,4,Qualified Life Insurance Interviewer,1
+Cancer,23-30,1,0,Nonmedical Declaration,49525
+Cancer,23-30,1,1,Physician Checkup,358
+Cancer,23-30,1,2,Examination by Medical Certificate etc.,268
+Cancer,23-30,1,4,Qualified Life Insurance Interviewer,6
+Cancer,23-30,2,0,Nonmedical Declaration,22053
+Cancer,23-30,2,1,Physician Checkup,88
+Cancer,23-30,2,2,Examination by Medical Certificate etc.,22
+Cancer,23-30,2,4,Qualified Life Insurance Interviewer,5
+Cancer,31-40,1,0,Nonmedical Declaration,49668
+Cancer,31-40,1,1,Physician Checkup,674
+Cancer,31-40,1,2,Examination by Medical Certificate etc.,373
+Cancer,31-40,1,3,Medical Checkup,9
+Cancer,31-40,1,4,Qualified Life Insurance Interviewer,27
+Cancer,31-40,2,0,Nonmedical Declaration,20684
+Cancer,31-40,2,1,Physician Checkup,137
+Cancer,31-40,2,2,Examination by Medical Certificate etc.,30
+Cancer,31-40,2,3,Medical Checkup,3
+Cancer,31-40,2,4,Qualified Life Insurance Interviewer,10
+Cancer,41-50,0,0,Nonmedical Declaration,4
+Cancer,41-50,1,0,Nonmedical Declaration,46145
+Cancer,41-50,1,1,Physician Checkup,237
+Cancer,41-50,1,2,Examination by Medical Certificate etc.,81
+Cancer,41-50,1,3,Medical Checkup,12
+Cancer,41-50,1,4,Qualified Life Insurance Interviewer,5
+Cancer,41-50,2,0,Nonmedical Declaration,19868
+Cancer,41-50,2,1,Physician Checkup,64
+Cancer,41-50,2,2,Examination by Medical Certificate etc.,11
+Cancer,41-50,2,3,Medical Checkup,1
+Cancer,41-50,2,4,Qualified Life Insurance Interviewer,2
+Cancer,41-50,3,0,Nonmedical Declaration,1
+Cancer,51-60,0,0,Nonmedical Declaration,1
+Cancer,51-60,1,0,Nonmedical Declaration,28835
+Cancer,51-60,1,1,Physician Checkup,48
+Cancer,51-60,1,2,Examination by Medical Certificate etc.,15
+Cancer,51-60,1,3,Medical Checkup,1
+Cancer,51-60,1,4,Qualified Life Insurance Interviewer,1
+Cancer,51-60,2,0,Nonmedical Declaration,13805
+Cancer,51-60,2,1,Physician Checkup,21
+Cancer,51-60,2,2,Examination by Medical Certificate etc.,4
+Cancer,51-60,2,4,Qualified Life Insurance Interviewer,1
+Cancer,61-64,1,0,Nonmedical Declaration,3246
+Cancer,61-64,1,1,Physician Checkup,14
+Cancer,61-64,2,0,Nonmedical Declaration,2310
+Cancer,61-64,2,1,Physician Checkup,8
+Cancer,61-64,2,4,Qualified Life Insurance Interviewer,1
+Cancer,greater than 64,1,0,Nonmedical Declaration,2772
+Cancer,greater than 64,1,1,Physician Checkup,24
+Cancer,greater than 64,2,0,Nonmedical Declaration,2438
+Cancer,greater than 64,2,1,Physician Checkup,23
+Dread Disease T.L.,18-22,1,0,Nonmedical Declaration,50
+Dread Disease T.L.,18-22,1,1,Physician Checkup,4
+Dread Disease T.L.,18-22,1,2,Examination by Medical Certificate etc.,2
+Dread Disease T.L.,18-22,2,0,Nonmedical Declaration,48
+Dread Disease T.L.,23-30,1,0,Nonmedical Declaration,325
+Dread Disease T.L.,23-30,1,1,Physician Checkup,192
+Dread Disease T.L.,23-30,1,2,Examination by Medical Certificate etc.,82
+Dread Disease T.L.,23-30,1,4,Qualified Life Insurance Interviewer,2
+Dread Disease T.L.,23-30,2,0,Nonmedical Declaration,251
+Dread Disease T.L.,23-30,2,1,Physician Checkup,33
+Dread Disease T.L.,23-30,2,2,Examination by Medical Certificate etc.,6
+Dread Disease T.L.,31-40,1,0,Nonmedical Declaration,610
+Dread Disease T.L.,31-40,1,1,Physician Checkup,456
+Dread Disease T.L.,31-40,1,2,Examination by Medical Certificate etc.,114
+Dread Disease T.L.,31-40,1,3,Medical Checkup,8
+Dread Disease T.L.,31-40,1,4,Qualified Life Insurance Interviewer,7
+Dread Disease T.L.,31-40,2,0,Nonmedical Declaration,433
+Dread Disease T.L.,31-40,2,1,Physician Checkup,64
+Dread Disease T.L.,31-40,2,2,Examination by Medical Certificate etc.,13
+Dread Disease T.L.,31-40,2,4,Qualified Life Insurance Interviewer,5
+Dread Disease T.L.,41-50,1,0,Nonmedical Declaration,564
+Dread Disease T.L.,41-50,1,1,Physician Checkup,281
+Dread Disease T.L.,41-50,1,2,Examination by Medical Certificate etc.,41
+Dread Disease T.L.,41-50,1,3,Medical Checkup,7
+Dread Disease T.L.,41-50,1,4,Qualified Life Insurance Interviewer,3
+Dread Disease T.L.,41-50,2,0,Nonmedical Declaration,400
+Dread Disease T.L.,41-50,2,1,Physician Checkup,59
+Dread Disease T.L.,41-50,2,2,Examination by Medical Certificate etc.,5
+Dread Disease T.L.,41-50,2,4,Qualified Life Insurance Interviewer,2
+Dread Disease T.L.,41-50,3,0,Nonmedical Declaration,1
+Dread Disease T.L.,51-60,1,0,Nonmedical Declaration,230
+Dread Disease T.L.,51-60,1,1,Physician Checkup,145
+Dread Disease T.L.,51-60,1,2,Examination by Medical Certificate etc.,20
+Dread Disease T.L.,51-60,2,0,Nonmedical Declaration,197
+Dread Disease T.L.,51-60,2,1,Physician Checkup,80
+Dread Disease T.L.,51-60,2,2,Examination by Medical Certificate etc.,6
+Dread Disease T.L.,51-60,2,3,Medical Checkup,2
+Dread Disease T.L.,51-60,2,4,Qualified Life Insurance Interviewer,1
+Dread Disease T.L.,61-64,1,0,Nonmedical Declaration,29
+Dread Disease T.L.,61-64,1,1,Physician Checkup,14
+Dread Disease T.L.,61-64,2,0,Nonmedical Declaration,25
+Dread Disease T.L.,61-64,2,1,Physician Checkup,12
+Dread Disease T.L.,61-64,2,2,Examination by Medical Certificate etc.,2
+Dread Disease T.L.,greater than 64,1,0,Nonmedical Declaration,6
+Dread Disease T.L.,greater than 64,1,1,Physician Checkup,10
+Dread Disease T.L.,greater than 64,1,2,Examination by Medical Certificate etc.,2
+Dread Disease T.L.,greater than 64,1,3,Medical Checkup,2
+Dread Disease T.L.,greater than 64,1,4,Qualified Life Insurance Interviewer,1
+Dread Disease T.L.,greater than 64,2,0,Nonmedical Declaration,10
+Dread Disease T.L.,greater than 64,2,1,Physician Checkup,8
+Dread Disease T.L.,greater than 64,2,2,Examination by Medical Certificate etc.,1
+Dread Disease W.L.,18-22,1,0,Nonmedical Declaration,1097
+Dread Disease W.L.,18-22,1,1,Physician Checkup,60
+Dread Disease W.L.,18-22,1,2,Examination by Medical Certificate etc.,12
+Dread Disease W.L.,18-22,1,4,Qualified Life Insurance Interviewer,1
+Dread Disease W.L.,18-22,2,0,Nonmedical Declaration,805
+Dread Disease W.L.,18-22,2,1,Physician Checkup,9
+Dread Disease W.L.,18-22,2,2,Examination by Medical Certificate etc.,2
+Dread Disease W.L.,23-30,1,0,Nonmedical Declaration,3772
+Dread Disease W.L.,23-30,1,1,Physician Checkup,919
+Dread Disease W.L.,23-30,1,2,Examination by Medical Certificate etc.,332
+Dread Disease W.L.,23-30,1,4,Qualified Life Insurance Interviewer,5
+Dread Disease W.L.,23-30,2,0,Nonmedical Declaration,2791
+Dread Disease W.L.,23-30,2,1,Physician Checkup,119
+Dread Disease W.L.,23-30,2,2,Examination by Medical Certificate etc.,32
+Dread Disease W.L.,23-30,2,3,Medical Checkup,1
+Dread Disease W.L.,23-30,2,4,Qualified Life Insurance Interviewer,1
+Dread Disease W.L.,31-40,1,0,Nonmedical Declaration,3453
+Dread Disease W.L.,31-40,1,1,Physician Checkup,1263
+Dread Disease W.L.,31-40,1,2,Examination by Medical Certificate etc.,351
+Dread Disease W.L.,31-40,1,3,Medical Checkup,8
+Dread Disease W.L.,31-40,1,4,Qualified Life Insurance Interviewer,6
+Dread Disease W.L.,31-40,2,0,Nonmedical Declaration,2443
+Dread Disease W.L.,31-40,2,1,Physician Checkup,183
+Dread Disease W.L.,31-40,2,2,Examination by Medical Certificate etc.,36
+Dread Disease W.L.,31-40,2,3,Medical Checkup,2
+Dread Disease W.L.,31-40,2,4,Qualified Life Insurance Interviewer,2
+Dread Disease W.L.,41-50,1,0,Nonmedical Declaration,2263
+Dread Disease W.L.,41-50,1,1,Physician Checkup,553
+Dread Disease W.L.,41-50,1,2,Examination by Medical Certificate etc.,72
+Dread Disease W.L.,41-50,1,3,Medical Checkup,2
+Dread Disease W.L.,41-50,1,4,Qualified Life Insurance Interviewer,1
+Dread Disease W.L.,41-50,1,6,Internet Examination,1
+Dread Disease W.L.,41-50,2,0,Nonmedical Declaration,1759
+Dread Disease W.L.,41-50,2,1,Physician Checkup,117
+Dread Disease W.L.,41-50,2,2,Examination by Medical Certificate etc.,11
+Dread Disease W.L.,41-50,2,3,Medical Checkup,2
+Dread Disease W.L.,41-50,2,4,Qualified Life Insurance Interviewer,1
+Dread Disease W.L.,51-60,1,0,Nonmedical Declaration,1518
+Dread Disease W.L.,51-60,1,1,Physician Checkup,170
+Dread Disease W.L.,51-60,1,2,Examination by Medical Certificate etc.,21
+Dread Disease W.L.,51-60,1,3,Medical Checkup,1
+Dread Disease W.L.,51-60,2,0,Nonmedical Declaration,1222
+Dread Disease W.L.,51-60,2,1,Physician Checkup,79
+Dread Disease W.L.,51-60,2,2,Examination by Medical Certificate etc.,10
+Dread Disease W.L.,51-60,2,3,Medical Checkup,2
+Dread Disease W.L.,61-64,1,0,Nonmedical Declaration,129
+Dread Disease W.L.,61-64,1,1,Physician Checkup,47
+Dread Disease W.L.,61-64,1,2,Examination by Medical Certificate etc.,3
+Dread Disease W.L.,61-64,2,0,Nonmedical Declaration,119
+Dread Disease W.L.,61-64,2,1,Physician Checkup,48
+Dread Disease W.L.,61-64,2,2,Examination by Medical Certificate etc.,8
+Dread Disease W.L.,greater than 64,1,0,Nonmedical Declaration,65
+Dread Disease W.L.,greater than 64,1,1,Physician Checkup,33
+Dread Disease W.L.,greater than 64,1,2,Examination by Medical Certificate etc.,6
+Dread Disease W.L.,greater than 64,2,0,Nonmedical Declaration,78
+Dread Disease W.L.,greater than 64,2,1,Physician Checkup,43
+Dread Disease W.L.,greater than 64,2,2,Examination by Medical Certificate etc.,7
+Endowment,18-22,1,0,Nonmedical Declaration,246
+Endowment,18-22,1,1,Physician Checkup,13
+Endowment,18-22,1,2,Examination by Medical Certificate etc.,3
+Endowment,18-22,1,4,Qualified Life Insurance Interviewer,3
+Endowment,18-22,2,0,Nonmedical Declaration,288
+Endowment,18-22,2,1,Physician Checkup,1
+Endowment,18-22,2,2,Examination by Medical Certificate etc.,1
+Endowment,23-30,1,0,Nonmedical Declaration,780
+Endowment,23-30,1,1,Physician Checkup,79
+Endowment,23-30,1,2,Examination by Medical Certificate etc.,24
+Endowment,23-30,1,4,Qualified Life Insurance Interviewer,4
+Endowment,23-30,2,0,Nonmedical Declaration,797
+Endowment,23-30,2,1,Physician Checkup,30
+Endowment,23-30,2,2,Examination by Medical Certificate etc.,8
+Endowment,23-30,2,4,Qualified Life Insurance Interviewer,1
+Endowment,31-40,1,0,Nonmedical Declaration,1483
+Endowment,31-40,1,1,Physician Checkup,116
+Endowment,31-40,1,2,Examination by Medical Certificate etc.,30
+Endowment,31-40,1,3,Medical Checkup,1
+Endowment,31-40,1,4,Qualified Life Insurance Interviewer,10
+Endowment,31-40,2,0,Nonmedical Declaration,1143
+Endowment,31-40,2,1,Physician Checkup,39
+Endowment,31-40,2,2,Examination by Medical Certificate etc.,1
+Endowment,31-40,2,4,Qualified Life Insurance Interviewer,3
+Endowment,31-40,3,0,Nonmedical Declaration,1
+Endowment,41-50,1,0,Nonmedical Declaration,2177
+Endowment,41-50,1,1,Physician Checkup,142
+Endowment,41-50,1,2,Examination by Medical Certificate etc.,19
+Endowment,41-50,1,3,Medical Checkup,1
+Endowment,41-50,1,4,Qualified Life Insurance Interviewer,13
+Endowment,41-50,2,0,Nonmedical Declaration,999
+Endowment,41-50,2,1,Physician Checkup,42
+Endowment,41-50,2,2,Examination by Medical Certificate etc.,2
+Endowment,41-50,2,3,Medical Checkup,1
+Endowment,41-50,3,0,Nonmedical Declaration,4
+Endowment,41-50,3,1,Physician Checkup,3
+Endowment,51-60,1,0,Nonmedical Declaration,1475
+Endowment,51-60,1,1,Physician Checkup,93
+Endowment,51-60,1,2,Examination by Medical Certificate etc.,67
+Endowment,51-60,1,4,Qualified Life Insurance Interviewer,5
+Endowment,51-60,2,0,Nonmedical Declaration,665
+Endowment,51-60,2,1,Physician Checkup,42
+Endowment,51-60,2,2,Examination by Medical Certificate etc.,2
+Endowment,51-60,2,3,Medical Checkup,1
+Endowment,61-64,1,0,Nonmedical Declaration,350
+Endowment,61-64,1,1,Physician Checkup,70
+Endowment,61-64,1,2,Examination by Medical Certificate etc.,11
+Endowment,61-64,2,0,Nonmedical Declaration,194
+Endowment,61-64,2,1,Physician Checkup,19
+Endowment,greater than 64,1,0,Nonmedical Declaration,326
+Endowment,greater than 64,1,1,Physician Checkup,77
+Endowment,greater than 64,1,3,Medical Checkup,2
+Endowment,greater than 64,2,0,Nonmedical Declaration,228
+Endowment,greater than 64,2,1,Physician Checkup,46
+Female Disease,18-22,1,0,Nonmedical Declaration,33
+Female Disease,18-22,2,0,Nonmedical Declaration,3696
+Female Disease,18-22,2,1,Physician Checkup,13
+Female Disease,18-22,2,4,Qualified Life Insurance Interviewer,1
+Female Disease,23-30,1,0,Nonmedical Declaration,932
+Female Disease,23-30,1,1,Physician Checkup,4
+Female Disease,23-30,2,0,Nonmedical Declaration,14454
+Female Disease,23-30,2,1,Physician Checkup,84
+Female Disease,23-30,2,2,Examination by Medical Certificate etc.,4
+Female Disease,23-30,2,4,Qualified Life Insurance Interviewer,7
+Female Disease,31-40,1,0,Nonmedical Declaration,1352
+Female Disease,31-40,1,1,Physician Checkup,9
+Female Disease,31-40,2,0,Nonmedical Declaration,8588
+Female Disease,31-40,2,1,Physician Checkup,97
+Female Disease,31-40,2,2,Examination by Medical Certificate etc.,5
+Female Disease,31-40,2,3,Medical Checkup,1
+Female Disease,31-40,2,4,Qualified Life Insurance Interviewer,4
+Female Disease,41-50,1,0,Nonmedical Declaration,1408
+Female Disease,41-50,1,1,Physician Checkup,5
+Female Disease,41-50,2,0,Nonmedical Declaration,4601
+Female Disease,41-50,2,1,Physician Checkup,38
+Female Disease,41-50,2,4,Qualified Life Insurance Interviewer,1
+Female Disease,51-60,1,0,Nonmedical Declaration,741
+Female Disease,51-60,1,1,Physician Checkup,2
+Female Disease,51-60,2,0,Nonmedical Declaration,2068
+Female Disease,51-60,2,1,Physician Checkup,8
+Female Disease,51-60,2,2,Examination by Medical Certificate etc.,2
+Female Disease,51-60,2,4,Qualified Life Insurance Interviewer,1
+Female Disease,61-64,1,0,Nonmedical Declaration,55
+Female Disease,61-64,2,0,Nonmedical Declaration,313
+Female Disease,61-64,2,1,Physician Checkup,4
+Female Disease,greater than 64,1,0,Nonmedical Declaration,54
+Female Disease,greater than 64,2,0,Nonmedical Declaration,104
+Female Disease,greater than 64,2,1,Physician Checkup,1
+Inc. Dec. Term Life,18-22,1,1,Physician Checkup,1
+Inc. Dec. Term Life,23-30,1,0,Nonmedical Declaration,7
+Inc. Dec. Term Life,23-30,1,1,Physician Checkup,6
+Inc. Dec. Term Life,23-30,2,0,Nonmedical Declaration,3
+Inc. Dec. Term Life,23-30,2,1,Physician Checkup,2
+Inc. Dec. Term Life,31-40,1,0,Nonmedical Declaration,16
+Inc. Dec. Term Life,31-40,1,1,Physician Checkup,25
+Inc. Dec. Term Life,31-40,1,2,Examination by Medical Certificate etc.,2
+Inc. Dec. Term Life,31-40,2,0,Nonmedical Declaration,5
+Inc. Dec. Term Life,31-40,2,1,Physician Checkup,4
+Inc. Dec. Term Life,31-40,2,4,Qualified Life Insurance Interviewer,1
+Inc. Dec. Term Life,41-50,1,0,Nonmedical Declaration,33
+Inc. Dec. Term Life,41-50,1,1,Physician Checkup,46
+Inc. Dec. Term Life,41-50,1,2,Examination by Medical Certificate etc.,7
+Inc. Dec. Term Life,41-50,1,3,Medical Checkup,1
+Inc. Dec. Term Life,41-50,2,0,Nonmedical Declaration,9
+Inc. Dec. Term Life,41-50,2,1,Physician Checkup,7
+Inc. Dec. Term Life,41-50,2,2,Examination by Medical Certificate etc.,1
+Inc. Dec. Term Life,41-50,3,1,Physician Checkup,4
+Inc. Dec. Term Life,51-60,1,0,Nonmedical Declaration,69
+Inc. Dec. Term Life,51-60,1,1,Physician Checkup,65
+Inc. Dec. Term Life,51-60,1,2,Examination by Medical Certificate etc.,3
+Inc. Dec. Term Life,51-60,2,0,Nonmedical Declaration,14
+Inc. Dec. Term Life,51-60,2,1,Physician Checkup,9
+Inc. Dec. Term Life,51-60,2,2,Examination by Medical Certificate etc.,1
+Inc. Dec. Term Life,61-64,1,0,Nonmedical Declaration,16
+Inc. Dec. Term Life,61-64,1,1,Physician Checkup,32
+Inc. Dec. Term Life,61-64,1,2,Examination by Medical Certificate etc.,1
+Inc. Dec. Term Life,61-64,2,0,Nonmedical Declaration,1
+Inc. Dec. Term Life,61-64,2,1,Physician Checkup,7
+Inc. Dec. Term Life,61-64,2,2,Examination by Medical Certificate etc.,1
+Inc. Dec. Term Life,greater than 64,1,0,Nonmedical Declaration,21
+Inc. Dec. Term Life,greater than 64,1,1,Physician Checkup,23
+Inc. Dec. Term Life,greater than 64,1,2,Examination by Medical Certificate etc.,1
+Inc. Dec. Term Life,greater than 64,1,3,Medical Checkup,1
+Inc. Dec. Term Life,greater than 64,2,0,Nonmedical Declaration,1
+Inc. Dec. Term Life,greater than 64,2,1,Physician Checkup,1
+Injury,23-30,1,0,Nonmedical Declaration,10
+Injury,23-30,2,0,Nonmedical Declaration,1
+Injury,31-40,1,0,Nonmedical Declaration,171
+Injury,31-40,2,0,Nonmedical Declaration,11
+Injury,41-50,1,0,Nonmedical Declaration,219
+Injury,41-50,2,0,Nonmedical Declaration,28
+Injury,51-60,1,0,Nonmedical Declaration,375
+Injury,51-60,2,0,Nonmedical Declaration,8
+Injury,61-64,1,0,Nonmedical Declaration,81
+Injury,61-64,2,0,Nonmedical Declaration,3
+Injury,greater than 64,1,0,Nonmedical Declaration,67
+Injury,greater than 64,2,0,Nonmedical Declaration,10
+J.M.I.P,18-22,1,0,Nonmedical Declaration,3
+J.M.I.P,18-22,1,1,Physician Checkup,1
+J.M.I.P,18-22,2,0,Nonmedical Declaration,2
+J.M.I.P,23-30,1,0,Nonmedical Declaration,12
+J.M.I.P,23-30,1,1,Physician Checkup,18
+J.M.I.P,23-30,2,0,Nonmedical Declaration,3
+J.M.I.P,23-30,2,1,Physician Checkup,2
+J.M.I.P,31-40,1,0,Nonmedical Declaration,30
+J.M.I.P,31-40,1,1,Physician Checkup,26
+J.M.I.P,31-40,1,2,Examination by Medical Certificate etc.,2
+J.M.I.P,31-40,1,4,Qualified Life Insurance Interviewer,2
+J.M.I.P,31-40,2,0,Nonmedical Declaration,20
+J.M.I.P,31-40,2,1,Physician Checkup,5
+J.M.I.P,41-50,1,0,Nonmedical Declaration,49
+J.M.I.P,41-50,1,1,Physician Checkup,18
+J.M.I.P,41-50,1,2,Examination by Medical Certificate etc.,1
+J.M.I.P,41-50,2,0,Nonmedical Declaration,38
+J.M.I.P,41-50,2,1,Physician Checkup,9
+J.M.I.P,41-50,2,2,Examination by Medical Certificate etc.,1
+J.M.I.P,51-60,1,0,Nonmedical Declaration,18
+J.M.I.P,51-60,1,1,Physician Checkup,6
+J.M.I.P,51-60,1,2,Examination by Medical Certificate etc.,2
+J.M.I.P,51-60,2,0,Nonmedical Declaration,18
+J.M.I.P,51-60,2,1,Physician Checkup,6
+J.M.I.P,51-60,2,2,Examination by Medical Certificate etc.,3
+J.M.I.P,51-60,2,4,Qualified Life Insurance Interviewer,1
+J.M.I.P,61-64,1,0,Nonmedical Declaration,6
+J.M.I.P,61-64,1,1,Physician Checkup,2
+J.M.I.P,61-64,2,0,Nonmedical Declaration,5
+J.M.I.P,61-64,2,1,Physician Checkup,1
+J.M.I.P,greater than 64,1,0,Nonmedical Declaration,3
+J.M.I.P,greater than 64,1,1,Physician Checkup,1
+J.M.I.P,greater than 64,2,0,Nonmedical Declaration,3
+J.M.I.P,greater than 64,2,1,Physician Checkup,1
+Joint life,18-22,1,0,Nonmedical Declaration,10
+Joint life,18-22,1,1,Physician Checkup,1
+Joint life,18-22,2,0,Nonmedical Declaration,4
+Joint life,23-30,1,0,Nonmedical Declaration,224
+Joint life,23-30,1,1,Physician Checkup,18
+Joint life,23-30,1,2,Examination by Medical Certificate etc.,6
+Joint life,23-30,2,0,Nonmedical Declaration,19
+Joint life,31-40,1,0,Nonmedical Declaration,261
+Joint life,31-40,1,1,Physician Checkup,55
+Joint life,31-40,1,2,Examination by Medical Certificate etc.,4
+Joint life,31-40,2,0,Nonmedical Declaration,29
+Joint life,31-40,2,1,Physician Checkup,5
+Joint life,41-50,1,0,Nonmedical Declaration,112
+Joint life,41-50,1,1,Physician Checkup,48
+Joint life,41-50,2,0,Nonmedical Declaration,31
+Joint life,41-50,2,1,Physician Checkup,7
+Joint life,51-60,1,0,Nonmedical Declaration,43
+Joint life,51-60,1,1,Physician Checkup,18
+Joint life,51-60,2,0,Nonmedical Declaration,2
+Joint life,51-60,2,1,Physician Checkup,2
+Joint life,61-64,1,0,Nonmedical Declaration,6
+Joint life,61-64,1,1,Physician Checkup,4
+Joint life,61-64,2,0,Nonmedical Declaration,2
+Joint life,61-64,2,1,Physician Checkup,1
+Joint life,greater than 64,1,1,Physician Checkup,1
+Joint life,greater than 64,2,0,Nonmedical Declaration,1
+Joint life,greater than 64,2,1,Physician Checkup,1
+Joint life(Flexible),18-22,1,0,Nonmedical Declaration,46
+Joint life(Flexible),18-22,1,1,Physician Checkup,10
+Joint life(Flexible),18-22,2,0,Nonmedical Declaration,18
+Joint life(Flexible),18-22,2,1,Physician Checkup,5
+Joint life(Flexible),23-30,1,0,Nonmedical Declaration,334
+Joint life(Flexible),23-30,1,1,Physician Checkup,161
+Joint life(Flexible),23-30,1,2,Examination by Medical Certificate etc.,27
+Joint life(Flexible),23-30,1,4,Qualified Life Insurance Interviewer,7
+Joint life(Flexible),23-30,1,6,Internet Examination,1
+Joint life(Flexible),23-30,2,0,Nonmedical Declaration,77
+Joint life(Flexible),23-30,2,1,Physician Checkup,6
+Joint life(Flexible),23-30,2,2,Examination by Medical Certificate etc.,1
+Joint life(Flexible),23-30,2,4,Qualified Life Insurance Interviewer,1
+Joint life(Flexible),31-40,1,0,Nonmedical Declaration,444
+Joint life(Flexible),31-40,1,1,Physician Checkup,210
+Joint life(Flexible),31-40,1,2,Examination by Medical Certificate etc.,27
+Joint life(Flexible),31-40,1,3,Medical Checkup,1
+Joint life(Flexible),31-40,1,4,Qualified Life Insurance Interviewer,12
+Joint life(Flexible),31-40,2,0,Nonmedical Declaration,201
+Joint life(Flexible),31-40,2,1,Physician Checkup,15
+Joint life(Flexible),31-40,2,2,Examination by Medical Certificate etc.,1
+Joint life(Flexible),31-40,2,4,Qualified Life Insurance Interviewer,1
+Joint life(Flexible),41-50,1,0,Nonmedical Declaration,387
+Joint life(Flexible),41-50,1,1,Physician Checkup,130
+Joint life(Flexible),41-50,1,2,Examination by Medical Certificate etc.,7
+Joint life(Flexible),41-50,1,3,Medical Checkup,1
+Joint life(Flexible),41-50,1,4,Qualified Life Insurance Interviewer,4
+Joint life(Flexible),41-50,2,0,Nonmedical Declaration,215
+Joint life(Flexible),41-50,2,1,Physician Checkup,43
+Joint life(Flexible),41-50,2,2,Examination by Medical Certificate etc.,2
+Joint life(Flexible),41-50,2,4,Qualified Life Insurance Interviewer,5
+Joint life(Flexible),51-60,1,0,Nonmedical Declaration,321
+Joint life(Flexible),51-60,1,1,Physician Checkup,74
+Joint life(Flexible),51-60,1,2,Examination by Medical Certificate etc.,3
+Joint life(Flexible),51-60,2,0,Nonmedical Declaration,220
+Joint life(Flexible),51-60,2,1,Physician Checkup,49
+Joint life(Flexible),51-60,2,2,Examination by Medical Certificate etc.,1
+Joint life(Flexible),61-64,1,0,Nonmedical Declaration,41
+Joint life(Flexible),61-64,1,1,Physician Checkup,37
+Joint life(Flexible),61-64,1,2,Examination by Medical Certificate etc.,2
+Joint life(Flexible),61-64,1,3,Medical Checkup,1
+Joint life(Flexible),61-64,1,4,Qualified Life Insurance Interviewer,1
+Joint life(Flexible),61-64,2,0,Nonmedical Declaration,49
+Joint life(Flexible),61-64,2,1,Physician Checkup,14
+Joint life(Flexible),61-64,2,2,Examination by Medical Certificate etc.,1
+Joint life(Flexible),61-64,2,3,Medical Checkup,1
+Joint life(Flexible),greater than 64,1,0,Nonmedical Declaration,104
+Joint life(Flexible),greater than 64,1,1,Physician Checkup,58
+Joint life(Flexible),greater than 64,1,2,Examination by Medical Certificate etc.,3
+Joint life(Flexible),greater than 64,2,0,Nonmedical Declaration,165
+Joint life(Flexible),greater than 64,2,1,Physician Checkup,48
+Joint life(Flexible),greater than 64,2,2,Examination by Medical Certificate etc.,2
+Joint life(Flexible),greater than 64,2,4,Qualified Life Insurance Interviewer,1
+Juvenile,18-22,1,0,Nonmedical Declaration,490
+Juvenile,18-22,2,0,Nonmedical Declaration,406
+Juvenile,23-30,1,0,Nonmedical Declaration,5909
+Juvenile,23-30,1,1,Physician Checkup,4
+Juvenile,23-30,1,2,Examination by Medical Certificate etc.,1
+Juvenile,23-30,1,4,Qualified Life Insurance Interviewer,2
+Juvenile,23-30,2,0,Nonmedical Declaration,3003
+Juvenile,23-30,2,1,Physician Checkup,1
+Juvenile,31-40,1,0,Nonmedical Declaration,7389
+Juvenile,31-40,1,1,Physician Checkup,14
+Juvenile,31-40,1,2,Examination by Medical Certificate etc.,2
+Juvenile,31-40,2,0,Nonmedical Declaration,3103
+Juvenile,31-40,2,1,Physician Checkup,1
+Juvenile,41-50,1,0,Nonmedical Declaration,1434
+Juvenile,41-50,1,1,Physician Checkup,8
+Juvenile,41-50,2,0,Nonmedical Declaration,514
+Juvenile,51-60,1,0,Nonmedical Declaration,268
+Juvenile,51-60,2,0,Nonmedical Declaration,479
+Juvenile,61-64,1,0,Nonmedical Declaration,65
+Juvenile,61-64,2,0,Nonmedical Declaration,129
+Juvenile,greater than 64,1,0,Nonmedical Declaration,15
+Juvenile,greater than 64,2,0,Nonmedical Declaration,32
+Maternity Insurance(or New Pregnant Woman Insurance),23-30,1,0,Nonmedical Declaration,2
+Maternity Insurance(or New Pregnant Woman Insurance),23-30,2,0,Nonmedical Declaration,3
+Maternity Insurance(or New Pregnant Woman Insurance),31-40,2,0,Nonmedical Declaration,3
+Medical,18-22,1,0,Nonmedical Declaration,23179
+Medical,18-22,1,1,Physician Checkup,794
+Medical,18-22,1,2,Examination by Medical Certificate etc.,181
+Medical,18-22,1,3,Medical Checkup,1
+Medical,18-22,1,4,Qualified Life Insurance Interviewer,46
+Medical,18-22,1,6,Internet Examination,1
+Medical,18-22,2,0,Nonmedical Declaration,27390
+Medical,18-22,2,1,Physician Checkup,127
+Medical,18-22,2,2,Examination by Medical Certificate etc.,18
+Medical,18-22,2,3,Medical Checkup,1
+Medical,18-22,2,4,Qualified Life Insurance Interviewer,13
+Medical,23-30,1,0,Nonmedical Declaration,93754
+Medical,23-30,1,1,Physician Checkup,11437
+Medical,23-30,1,2,Examination by Medical Certificate etc.,4680
+Medical,23-30,1,3,Medical Checkup,24
+Medical,23-30,1,4,Qualified Life Insurance Interviewer,742
+Medical,23-30,1,6,Internet Examination,6
+Medical,23-30,2,0,Nonmedical Declaration,113230
+Medical,23-30,2,1,Physician Checkup,1516
+Medical,23-30,2,2,Examination by Medical Certificate etc.,384
+Medical,23-30,2,3,Medical Checkup,1
+Medical,23-30,2,4,Qualified Life Insurance Interviewer,89
+Medical,23-30,2,6,Internet Examination,1
+Medical,31-40,1,0,Nonmedical Declaration,106868
+Medical,31-40,1,1,Physician Checkup,18820
+Medical,31-40,1,2,Examination by Medical Certificate etc.,6195
+Medical,31-40,1,3,Medical Checkup,144
+Medical,31-40,1,4,Qualified Life Insurance Interviewer,1010
+Medical,31-40,1,6,Internet Examination,7
+Medical,31-40,2,0,Nonmedical Declaration,112654
+Medical,31-40,2,1,Physician Checkup,2869
+Medical,31-40,2,2,Examination by Medical Certificate etc.,620
+Medical,31-40,2,3,Medical Checkup,18
+Medical,31-40,2,4,Qualified Life Insurance Interviewer,146
+Medical,31-40,2,6,Internet Examination,3
+Medical,41-50,1,0,Nonmedical Declaration,83849
+Medical,41-50,1,1,Physician Checkup,9654
+Medical,41-50,1,2,Examination by Medical Certificate etc.,1628
+Medical,41-50,1,3,Medical Checkup,130
+Medical,41-50,1,4,Qualified Life Insurance Interviewer,149
+Medical,41-50,1,6,Internet Examination,6
+Medical,41-50,2,0,Nonmedical Declaration,76503
+Medical,41-50,2,1,Physician Checkup,1730
+Medical,41-50,2,2,Examination by Medical Certificate etc.,250
+Medical,41-50,2,3,Medical Checkup,24
+Medical,41-50,2,4,Qualified Life Insurance Interviewer,33
+Medical,41-50,3,0,Nonmedical Declaration,1
+Medical,51-60,1,0,Nonmedical Declaration,57406
+Medical,51-60,1,1,Physician Checkup,3030
+Medical,51-60,1,2,Examination by Medical Certificate etc.,361
+Medical,51-60,1,3,Medical Checkup,39
+Medical,51-60,1,4,Qualified Life Insurance Interviewer,7
+Medical,51-60,2,0,Nonmedical Declaration,55215
+Medical,51-60,2,1,Physician Checkup,1041
+Medical,51-60,2,2,Examination by Medical Certificate etc.,133
+Medical,51-60,2,3,Medical Checkup,6
+Medical,51-60,2,4,Qualified Life Insurance Interviewer,6
+Medical,51-60,3,0,Nonmedical Declaration,2
+Medical,61-64,1,0,Nonmedical Declaration,11871
+Medical,61-64,1,1,Physician Checkup,511
+Medical,61-64,1,2,Examination by Medical Certificate etc.,53
+Medical,61-64,1,3,Medical Checkup,3
+Medical,61-64,1,4,Qualified Life Insurance Interviewer,1
+Medical,61-64,2,0,Nonmedical Declaration,14587
+Medical,61-64,2,1,Physician Checkup,444
+Medical,61-64,2,2,Examination by Medical Certificate etc.,33
+Medical,61-64,2,3,Medical Checkup,2
+Medical,61-64,2,4,Qualified Life Insurance Interviewer,1
+Medical,greater than 64,1,0,Nonmedical Declaration,9544
+Medical,greater than 64,1,1,Physician Checkup,454
+Medical,greater than 64,1,2,Examination by Medical Certificate etc.,33
+Medical,greater than 64,1,3,Medical Checkup,2
+Medical,greater than 64,1,4,Qualified Life Insurance Interviewer,3
+Medical,greater than 64,2,0,Nonmedical Declaration,14883
+Medical,greater than 64,2,1,Physician Checkup,732
+Medical,greater than 64,2,2,Examination by Medical Certificate etc.,53
+Medical,greater than 64,3,0,Nonmedical Declaration,1
+Medical（Coins） ,31-40,2,0,Nonmedical Declaration,1
+Medical（Coins） ,41-50,1,0,Nonmedical Declaration,2
+Medical（Coins） ,41-50,2,0,Nonmedical Declaration,2
+Medical（Coins） ,51-60,1,0,Nonmedical Declaration,2
+Medical（Coins） ,51-60,2,0,Nonmedical Declaration,4
+Medical（Coins） ,61-64,1,0,Nonmedical Declaration,3
+Medical（Coins） ,61-64,2,0,Nonmedical Declaration,1
+Medical（Coins） ,greater than 64,1,0,Nonmedical Declaration,1
+M.I.P,18-22,1,0,Nonmedical Declaration,66
+M.I.P,18-22,1,1,Physician Checkup,398
+M.I.P,18-22,1,2,Examination by Medical Certificate etc.,167
+M.I.P,18-22,1,3,Medical Checkup,1
+M.I.P,18-22,1,4,Qualified Life Insurance Interviewer,18
+M.I.P,18-22,1,6,Internet Examination,1
+M.I.P,18-22,2,0,Nonmedical Declaration,15
+M.I.P,18-22,2,1,Physician Checkup,87
+M.I.P,18-22,2,2,Examination by Medical Certificate etc.,15
+M.I.P,18-22,2,3,Medical Checkup,1
+M.I.P,18-22,2,4,Qualified Life Insurance Interviewer,5
+M.I.P,23-30,1,0,Nonmedical Declaration,656
+M.I.P,23-30,1,1,Physician Checkup,8634
+M.I.P,23-30,1,2,Examination by Medical Certificate etc.,6491
+M.I.P,23-30,1,3,Medical Checkup,30
+M.I.P,23-30,1,4,Qualified Life Insurance Interviewer,240
+M.I.P,23-30,1,6,Internet Examination,21
+M.I.P,23-30,2,0,Nonmedical Declaration,416
+M.I.P,23-30,2,1,Physician Checkup,1377
+M.I.P,23-30,2,2,Examination by Medical Certificate etc.,499
+M.I.P,23-30,2,3,Medical Checkup,2
+M.I.P,23-30,2,4,Qualified Life Insurance Interviewer,40
+M.I.P,23-30,2,6,Internet Examination,3
+M.I.P,31-40,1,0,Nonmedical Declaration,1438
+M.I.P,31-40,1,1,Physician Checkup,15824
+M.I.P,31-40,1,2,Examination by Medical Certificate etc.,9293
+M.I.P,31-40,1,3,Medical Checkup,310
+M.I.P,31-40,1,4,Qualified Life Insurance Interviewer,459
+M.I.P,31-40,1,6,Internet Examination,26
+M.I.P,31-40,2,0,Nonmedical Declaration,791
+M.I.P,31-40,2,1,Physician Checkup,2515
+M.I.P,31-40,2,2,Examination by Medical Certificate etc.,806
+M.I.P,31-40,2,3,Medical Checkup,29
+M.I.P,31-40,2,4,Qualified Life Insurance Interviewer,97
+M.I.P,31-40,2,6,Internet Examination,6
+M.I.P,41-50,1,0,Nonmedical Declaration,1210
+M.I.P,41-50,1,1,Physician Checkup,7913
+M.I.P,41-50,1,2,Examination by Medical Certificate etc.,2670
+M.I.P,41-50,1,3,Medical Checkup,267
+M.I.P,41-50,1,4,Qualified Life Insurance Interviewer,76
+M.I.P,41-50,1,6,Internet Examination,14
+M.I.P,41-50,2,0,Nonmedical Declaration,472
+M.I.P,41-50,2,1,Physician Checkup,1187
+M.I.P,41-50,2,2,Examination by Medical Certificate etc.,313
+M.I.P,41-50,2,3,Medical Checkup,21
+M.I.P,41-50,2,4,Qualified Life Insurance Interviewer,22
+M.I.P,51-60,1,0,Nonmedical Declaration,763
+M.I.P,51-60,1,1,Physician Checkup,2214
+M.I.P,51-60,1,2,Examination by Medical Certificate etc.,567
+M.I.P,51-60,1,3,Medical Checkup,78
+M.I.P,51-60,1,4,Qualified Life Insurance Interviewer,1
+M.I.P,51-60,2,0,Nonmedical Declaration,246
+M.I.P,51-60,2,1,Physician Checkup,380
+M.I.P,51-60,2,2,Examination by Medical Certificate etc.,68
+M.I.P,51-60,2,3,Medical Checkup,8
+M.I.P,51-60,2,4,Qualified Life Insurance Interviewer,1
+M.I.P,61-64,1,0,Nonmedical Declaration,57
+M.I.P,61-64,1,1,Physician Checkup,213
+M.I.P,61-64,1,2,Examination by Medical Certificate etc.,21
+M.I.P,61-64,1,3,Medical Checkup,2
+M.I.P,61-64,2,0,Nonmedical Declaration,26
+M.I.P,61-64,2,1,Physician Checkup,61
+M.I.P,61-64,2,2,Examination by Medical Certificate etc.,5
+M.I.P,61-64,2,4,Qualified Life Insurance Interviewer,2
+M.I.P,greater than 64,1,0,Nonmedical Declaration,24
+M.I.P,greater than 64,1,1,Physician Checkup,118
+M.I.P,greater than 64,1,2,Examination by Medical Certificate etc.,15
+M.I.P,greater than 64,1,3,Medical Checkup,1
+M.I.P,greater than 64,1,4,Qualified Life Insurance Interviewer,2
+M.I.P,greater than 64,2,0,Nonmedical Declaration,22
+M.I.P,greater than 64,2,1,Physician Checkup,49
+M.I.P,greater than 64,2,2,Examination by Medical Certificate etc.,6
+Nursing care,18-22,1,0,Nonmedical Declaration,9
+Nursing care,18-22,1,2,Examination by Medical Certificate etc.,1
+Nursing care,18-22,2,0,Nonmedical Declaration,15
+Nursing care,23-30,1,0,Nonmedical Declaration,91
+Nursing care,23-30,1,1,Physician Checkup,3
+Nursing care,23-30,1,2,Examination by Medical Certificate etc.,16
+Nursing care,23-30,2,0,Nonmedical Declaration,25
+Nursing care,23-30,2,2,Examination by Medical Certificate etc.,2
+Nursing care,31-40,1,0,Nonmedical Declaration,124
+Nursing care,31-40,1,1,Physician Checkup,11
+Nursing care,31-40,1,2,Examination by Medical Certificate etc.,9
+Nursing care,31-40,2,0,Nonmedical Declaration,46
+Nursing care,31-40,2,1,Physician Checkup,2
+Nursing care,31-40,2,2,Examination by Medical Certificate etc.,1
+Nursing care,41-50,1,0,Nonmedical Declaration,87
+Nursing care,41-50,1,1,Physician Checkup,2
+Nursing care,41-50,1,2,Examination by Medical Certificate etc.,1
+Nursing care,41-50,2,0,Nonmedical Declaration,60
+Nursing care,51-60,1,0,Nonmedical Declaration,50
+Nursing care,51-60,2,0,Nonmedical Declaration,65
+Nursing care,51-60,2,1,Physician Checkup,3
+Nursing care,61-64,1,0,Nonmedical Declaration,16
+Nursing care,61-64,1,1,Physician Checkup,2
+Nursing care,61-64,2,0,Nonmedical Declaration,7
+Nursing care,61-64,2,1,Physician Checkup,2
+Nursing care,greater than 64,1,0,Nonmedical Declaration,4
+Nursing care,greater than 64,2,0,Nonmedical Declaration,1
+Nursing care,greater than 64,2,1,Physician Checkup,1
+Term life,18-22,1,0,Nonmedical Declaration,1668
+Term life,18-22,1,1,Physician Checkup,432
+Term life,18-22,1,2,Examination by Medical Certificate etc.,61
+Term life,18-22,1,3,Medical Checkup,1
+Term life,18-22,1,4,Qualified Life Insurance Interviewer,21
+Term life,18-22,2,0,Nonmedical Declaration,956
+Term life,18-22,2,1,Physician Checkup,76
+Term life,18-22,2,2,Examination by Medical Certificate etc.,5
+Term life,18-22,2,4,Qualified Life Insurance Interviewer,7
+Term life,23-30,1,0,Nonmedical Declaration,6673
+Term life,23-30,1,1,Physician Checkup,5851
+Term life,23-30,1,2,Examination by Medical Certificate etc.,1850
+Term life,23-30,1,3,Medical Checkup,7
+Term life,23-30,1,4,Qualified Life Insurance Interviewer,448
+Term life,23-30,2,0,Nonmedical Declaration,2882
+Term life,23-30,2,1,Physician Checkup,611
+Term life,23-30,2,2,Examination by Medical Certificate etc.,96
+Term life,23-30,2,4,Qualified Life Insurance Interviewer,46
+Term life,31-40,1,0,Nonmedical Declaration,12483
+Term life,31-40,1,1,Physician Checkup,10994
+Term life,31-40,1,2,Examination by Medical Certificate etc.,2390
+Term life,31-40,1,3,Medical Checkup,63
+Term life,31-40,1,4,Qualified Life Insurance Interviewer,706
+Term life,31-40,2,0,Nonmedical Declaration,4449
+Term life,31-40,2,1,Physician Checkup,1223
+Term life,31-40,2,2,Examination by Medical Certificate etc.,180
+Term life,31-40,2,3,Medical Checkup,4
+Term life,31-40,2,4,Qualified Life Insurance Interviewer,76
+Term life,31-40,3,0,Nonmedical Declaration,1
+Term life,31-40,3,1,Physician Checkup,3
+Term life,41-50,0,0,Nonmedical Declaration,1
+Term life,41-50,1,0,Nonmedical Declaration,11730
+Term life,41-50,1,1,Physician Checkup,8228
+Term life,41-50,1,2,Examination by Medical Certificate etc.,874
+Term life,41-50,1,3,Medical Checkup,65
+Term life,41-50,1,4,Qualified Life Insurance Interviewer,134
+Term life,41-50,2,0,Nonmedical Declaration,4354
+Term life,41-50,2,1,Physician Checkup,1230
+Term life,41-50,2,2,Examination by Medical Certificate etc.,107
+Term life,41-50,2,3,Medical Checkup,4
+Term life,41-50,2,4,Qualified Life Insurance Interviewer,21
+Term life,41-50,3,1,Physician Checkup,1
+Term life,51-60,1,0,Nonmedical Declaration,8505
+Term life,51-60,1,1,Physician Checkup,3715
+Term life,51-60,1,2,Examination by Medical Certificate etc.,287
+Term life,51-60,1,3,Medical Checkup,37
+Term life,51-60,1,4,Qualified Life Insurance Interviewer,12
+Term life,51-60,2,0,Nonmedical Declaration,3308
+Term life,51-60,2,1,Physician Checkup,798
+Term life,51-60,2,2,Examination by Medical Certificate etc.,41
+Term life,51-60,2,3,Medical Checkup,6
+Term life,51-60,2,4,Qualified Life Insurance Interviewer,2
+Term life,51-60,3,1,Physician Checkup,1
+Term life,61-64,1,0,Nonmedical Declaration,956
+Term life,61-64,1,1,Physician Checkup,724
+Term life,61-64,1,2,Examination by Medical Certificate etc.,70
+Term life,61-64,1,3,Medical Checkup,4
+Term life,61-64,2,0,Nonmedical Declaration,551
+Term life,61-64,2,1,Physician Checkup,336
+Term life,61-64,2,2,Examination by Medical Certificate etc.,18
+Term life,greater than 64,1,0,Nonmedical Declaration,586
+Term life,greater than 64,1,1,Physician Checkup,861
+Term life,greater than 64,1,2,Examination by Medical Certificate etc.,70
+Term life,greater than 64,1,3,Medical Checkup,8
+Term life,greater than 64,1,4,Qualified Life Insurance Interviewer,2
+Term life,greater than 64,2,0,Nonmedical Declaration,347
+Term life,greater than 64,2,1,Physician Checkup,662
+Term life,greater than 64,2,2,Examination by Medical Certificate etc.,27
+Term life,greater than 64,2,3,Medical Checkup,1
+Term life,greater than 64,2,4,Qualified Life Insurance Interviewer,1
+VL Endowment,18-22,1,0,Nonmedical Declaration,9
+VL Endowment,18-22,1,1,Physician Checkup,1
+VL Endowment,18-22,2,0,Nonmedical Declaration,10
+VL Endowment,23-30,1,0,Nonmedical Declaration,50
+VL Endowment,23-30,1,1,Physician Checkup,2
+VL Endowment,23-30,1,2,Examination by Medical Certificate etc.,4
+VL Endowment,23-30,1,4,Qualified Life Insurance Interviewer,1
+VL Endowment,23-30,2,0,Nonmedical Declaration,35
+VL Endowment,23-30,2,1,Physician Checkup,4
+VL Endowment,31-40,1,0,Nonmedical Declaration,182
+VL Endowment,31-40,1,1,Physician Checkup,14
+VL Endowment,31-40,1,2,Examination by Medical Certificate etc.,2
+VL Endowment,31-40,2,0,Nonmedical Declaration,34
+VL Endowment,31-40,2,1,Physician Checkup,4
+VL Endowment,31-40,3,0,Nonmedical Declaration,7
+VL Endowment,41-50,1,0,Nonmedical Declaration,92
+VL Endowment,41-50,1,1,Physician Checkup,3
+VL Endowment,41-50,1,2,Examination by Medical Certificate etc.,1
+VL Endowment,41-50,2,0,Nonmedical Declaration,39
+VL Endowment,41-50,2,1,Physician Checkup,5
+VL Endowment,51-60,1,0,Nonmedical Declaration,81
+VL Endowment,51-60,1,1,Physician Checkup,10
+VL Endowment,51-60,1,2,Examination by Medical Certificate etc.,1
+VL Endowment,51-60,2,0,Nonmedical Declaration,23
+VL Endowment,51-60,2,1,Physician Checkup,4
+VL Endowment,61-64,1,0,Nonmedical Declaration,24
+VL Endowment,61-64,1,1,Physician Checkup,3
+VL Endowment,61-64,2,0,Nonmedical Declaration,5
+VL Endowment,61-64,2,1,Physician Checkup,2
+VL Endowment,greater than 64,1,0,Nonmedical Declaration,48
+VL Endowment,greater than 64,1,1,Physician Checkup,13
+VL Endowment,greater than 64,2,0,Nonmedical Declaration,2
+VL Endowment,greater than 64,2,1,Physician Checkup,7
+VL Whole life,18-22,1,0,Nonmedical Declaration,264
+VL Whole life,18-22,1,1,Physician Checkup,27
+VL Whole life,18-22,1,2,Examination by Medical Certificate etc.,5
+VL Whole life,18-22,1,4,Qualified Life Insurance Interviewer,4
+VL Whole life,18-22,2,0,Nonmedical Declaration,139
+VL Whole life,18-22,2,1,Physician Checkup,7
+VL Whole life,18-22,2,4,Qualified Life Insurance Interviewer,1
+VL Whole life,23-30,1,0,Nonmedical Declaration,1407
+VL Whole life,23-30,1,1,Physician Checkup,536
+VL Whole life,23-30,1,2,Examination by Medical Certificate etc.,238
+VL Whole life,23-30,1,3,Medical Checkup,1
+VL Whole life,23-30,1,4,Qualified Life Insurance Interviewer,91
+VL Whole life,23-30,2,0,Nonmedical Declaration,788
+VL Whole life,23-30,2,1,Physician Checkup,55
+VL Whole life,23-30,2,2,Examination by Medical Certificate etc.,16
+VL Whole life,23-30,2,4,Qualified Life Insurance Interviewer,13
+VL Whole life,31-40,1,0,Nonmedical Declaration,1480
+VL Whole life,31-40,1,1,Physician Checkup,987
+VL Whole life,31-40,1,2,Examination by Medical Certificate etc.,287
+VL Whole life,31-40,1,3,Medical Checkup,5
+VL Whole life,31-40,1,4,Qualified Life Insurance Interviewer,134
+VL Whole life,31-40,2,0,Nonmedical Declaration,757
+VL Whole life,31-40,2,1,Physician Checkup,143
+VL Whole life,31-40,2,2,Examination by Medical Certificate etc.,20
+VL Whole life,31-40,2,4,Qualified Life Insurance Interviewer,17
+VL Whole life,41-50,1,0,Nonmedical Declaration,827
+VL Whole life,41-50,1,1,Physician Checkup,478
+VL Whole life,41-50,1,2,Examination by Medical Certificate etc.,63
+VL Whole life,41-50,1,3,Medical Checkup,6
+VL Whole life,41-50,1,4,Qualified Life Insurance Interviewer,16
+VL Whole life,41-50,2,0,Nonmedical Declaration,529
+VL Whole life,41-50,2,1,Physician Checkup,111
+VL Whole life,41-50,2,2,Examination by Medical Certificate etc.,8
+VL Whole life,41-50,2,3,Medical Checkup,1
+VL Whole life,41-50,2,4,Qualified Life Insurance Interviewer,3
+VL Whole life,51-60,1,0,Nonmedical Declaration,421
+VL Whole life,51-60,1,1,Physician Checkup,196
+VL Whole life,51-60,1,2,Examination by Medical Certificate etc.,20
+VL Whole life,51-60,1,3,Medical Checkup,2
+VL Whole life,51-60,1,4,Qualified Life Insurance Interviewer,1
+VL Whole life,51-60,2,0,Nonmedical Declaration,386
+VL Whole life,51-60,2,1,Physician Checkup,89
+VL Whole life,51-60,2,2,Examination by Medical Certificate etc.,4
+VL Whole life,51-60,2,4,Qualified Life Insurance Interviewer,1
+VL Whole life,61-64,1,0,Nonmedical Declaration,44
+VL Whole life,61-64,1,1,Physician Checkup,44
+VL Whole life,61-64,1,2,Examination by Medical Certificate etc.,5
+VL Whole life,61-64,2,0,Nonmedical Declaration,49
+VL Whole life,61-64,2,1,Physician Checkup,52
+VL Whole life,61-64,2,2,Examination by Medical Certificate etc.,4
+VL Whole life,61-64,2,3,Medical Checkup,1
+VL Whole life,greater than 64,1,0,Nonmedical Declaration,32
+VL Whole life,greater than 64,1,1,Physician Checkup,99
+VL Whole life,greater than 64,1,4,Qualified Life Insurance Interviewer,1
+VL Whole life,greater than 64,2,0,Nonmedical Declaration,58
+VL Whole life,greater than 64,2,1,Physician Checkup,106
+VL Whole life,greater than 64,2,2,Examination by Medical Certificate etc.,2
+VL Whole life,greater than 64,2,4,Qualified Life Insurance Interviewer,2
+Whole life,18-22,1,0,Nonmedical Declaration,8713
+Whole life,18-22,1,1,Physician Checkup,815
+Whole life,18-22,1,2,Examination by Medical Certificate etc.,136
+Whole life,18-22,1,3,Medical Checkup,1
+Whole life,18-22,1,4,Qualified Life Insurance Interviewer,58
+Whole life,18-22,2,0,Nonmedical Declaration,5597
+Whole life,18-22,2,1,Physician Checkup,156
+Whole life,18-22,2,2,Examination by Medical Certificate etc.,19
+Whole life,18-22,2,3,Medical Checkup,1
+Whole life,18-22,2,4,Qualified Life Insurance Interviewer,11
+Whole life,23-30,1,0,Nonmedical Declaration,27720
+Whole life,23-30,1,1,Physician Checkup,8959
+Whole life,23-30,1,2,Examination by Medical Certificate etc.,2488
+Whole life,23-30,1,3,Medical Checkup,7
+Whole life,23-30,1,4,Qualified Life Insurance Interviewer,627
+Whole life,23-30,2,0,Nonmedical Declaration,16138
+Whole life,23-30,2,1,Physician Checkup,1125
+Whole life,23-30,2,2,Examination by Medical Certificate etc.,194
+Whole life,23-30,2,4,Qualified Life Insurance Interviewer,84
+Whole life,31-40,1,0,Nonmedical Declaration,25517
+Whole life,31-40,1,1,Physician Checkup,13196
+Whole life,31-40,1,2,Examination by Medical Certificate etc.,2702
+Whole life,31-40,1,3,Medical Checkup,69
+Whole life,31-40,1,4,Qualified Life Insurance Interviewer,766
+Whole life,31-40,1,6,Internet Examination,1
+Whole life,31-40,2,0,Nonmedical Declaration,16530
+Whole life,31-40,2,1,Physician Checkup,1883
+Whole life,31-40,2,2,Examination by Medical Certificate etc.,306
+Whole life,31-40,2,3,Medical Checkup,8
+Whole life,31-40,2,4,Qualified Life Insurance Interviewer,130
+Whole life,31-40,3,0,Nonmedical Declaration,1
+Whole life,31-40,3,1,Physician Checkup,1
+Whole life,41-50,1,0,Nonmedical Declaration,17874
+Whole life,41-50,1,1,Physician Checkup,7783
+Whole life,41-50,1,2,Examination by Medical Certificate etc.,772
+Whole life,41-50,1,3,Medical Checkup,73
+Whole life,41-50,1,4,Qualified Life Insurance Interviewer,158
+Whole life,41-50,1,6,Internet Examination,3
+Whole life,41-50,2,0,Nonmedical Declaration,14481
+Whole life,41-50,2,1,Physician Checkup,1572
+Whole life,41-50,2,2,Examination by Medical Certificate etc.,134
+Whole life,41-50,2,3,Medical Checkup,15
+Whole life,41-50,2,4,Qualified Life Insurance Interviewer,43
+Whole life,41-50,3,0,Nonmedical Declaration,2
+Whole life,51-60,1,0,Nonmedical Declaration,10732
+Whole life,51-60,1,1,Physician Checkup,2589
+Whole life,51-60,1,2,Examination by Medical Certificate etc.,238
+Whole life,51-60,1,3,Medical Checkup,27
+Whole life,51-60,1,4,Qualified Life Insurance Interviewer,14
+Whole life,51-60,2,0,Nonmedical Declaration,10283
+Whole life,51-60,2,1,Physician Checkup,1029
+Whole life,51-60,2,2,Examination by Medical Certificate etc.,69
+Whole life,51-60,2,3,Medical Checkup,8
+Whole life,51-60,2,4,Qualified Life Insurance Interviewer,9
+Whole life,51-60,3,1,Physician Checkup,2
+Whole life,61-64,1,0,Nonmedical Declaration,1782
+Whole life,61-64,1,1,Physician Checkup,672
+Whole life,61-64,1,2,Examination by Medical Certificate etc.,36
+Whole life,61-64,1,3,Medical Checkup,5
+Whole life,61-64,1,4,Qualified Life Insurance Interviewer,2
+Whole life,61-64,2,0,Nonmedical Declaration,2253
+Whole life,61-64,2,1,Physician Checkup,465
+Whole life,61-64,2,2,Examination by Medical Certificate etc.,30
+Whole life,61-64,2,4,Qualified Life Insurance Interviewer,1
+Whole life,greater than 64,1,0,Nonmedical Declaration,1787
+Whole life,greater than 64,1,1,Physician Checkup,1127
+Whole life,greater than 64,1,2,Examination by Medical Certificate etc.,63
+Whole life,greater than 64,1,3,Medical Checkup,2
+Whole life,greater than 64,1,4,Qualified Life Insurance Interviewer,6
+Whole life,greater than 64,2,0,Nonmedical Declaration,2660
+Whole life,greater than 64,2,1,Physician Checkup,1478
+Whole life,greater than 64,2,2,Examination by Medical Certificate etc.,96
+Whole life,greater than 64,2,3,Medical Checkup,3
+Whole life,greater than 64,2,4,Qualified Life Insurance Interviewer,4

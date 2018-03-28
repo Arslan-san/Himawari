@@ -1,0 +1,286 @@
+Policy Type Name,only_termination_sum,gender,age
+Annuity(Annuity Certain ),83,1,18-22
+Annuity(Whole Life Annuity With Guaranteed Installment ),5,1,18-22
+Cancer,1980,1,18-22
+Dread Disease T.L.,11,1,18-22
+Dread Disease W.L.,243,1,18-22
+Endowment,91,1,18-22
+Female Disease,3,1,18-22
+Inc. Dec. Term Life,1,1,18-22
+J.M.I.P,1,1,18-22
+Joint life(Flexible),23,1,18-22
+Juvenile,85,1,18-22
+Medical,6073,1,18-22
+M.I.P,123,1,18-22
+Nursing care,2,1,18-22
+Term life,478,1,18-22
+VL Endowment,3,1,18-22
+VL Whole life,64,1,18-22
+Whole life,2236,1,18-22
+Annuity(Annuity Certain ),67,2,18-22
+Annuity(Whole Life Annuity With Guaranteed Installment ),4,2,18-22
+Cancer,1539,2,18-22
+Dread Disease T.L.,13,2,18-22
+Dread Disease W.L.,191,2,18-22
+Endowment,94,2,18-22
+Female Disease,531,2,18-22
+Joint life(Flexible),16,2,18-22
+Juvenile,78,2,18-22
+Medical,5916,2,18-22
+M.I.P,19,2,18-22
+Nursing care,6,2,18-22
+Term life,258,2,18-22
+VL Endowment,2,2,18-22
+VL Whole life,28,2,18-22
+Whole life,1346,2,18-22
+Annuity(Annuity Certain ),1007,1,23-30
+Annuity(Whole Life Annuity With Guaranteed Installment ),28,1,23-30
+Cancer,29783,1,23-30
+Dread Disease T.L.,294,1,23-30
+Dread Disease W.L.,2966,1,23-30
+Endowment,601,1,23-30
+Female Disease,271,1,23-30
+Inc. Dec. Term Life,5,1,23-30
+Injury,6,1,23-30
+J.M.I.P,7,1,23-30
+Joint life,79,1,23-30
+Joint life(Flexible),241,1,23-30
+Juvenile,2353,1,23-30
+Maternity Insurance(or New Pregnant Woman Insurance),2,1,23-30
+Medical,64440,1,23-30
+M.I.P,7547,1,23-30
+Nursing care,35,1,23-30
+Term life,6178,1,23-30
+VL Endowment,29,1,23-30
+VL Whole life,994,1,23-30
+Whole life,23088,1,23-30
+Annuity(Annuity Certain ),844,2,23-30
+Annuity(Whole Life Annuity With Guaranteed Installment ),19,2,23-30
+Cancer,14690,2,23-30
+Dread Disease T.L.,172,2,23-30
+Dread Disease W.L.,1896,2,23-30
+Endowment,650,2,23-30
+Female Disease,7767,2,23-30
+Inc. Dec. Term Life,2,2,23-30
+Injury,1,2,23-30
+J.M.I.P,2,2,23-30
+Joint life,7,2,23-30
+Joint life(Flexible),56,2,23-30
+Juvenile,1366,2,23-30
+Maternity Insurance(or New Pregnant Woman Insurance),3,2,23-30
+Medical,69129,2,23-30
+M.I.P,1230,2,23-30
+Nursing care,22,2,23-30
+Term life,2115,2,23-30
+VL Endowment,24,2,23-30
+VL Whole life,462,2,23-30
+Whole life,12018,2,23-30
+Annuity(Annuity Certain ),2146,1,31-40
+Annuity(Whole Life Annuity With Guaranteed Installment ),66,1,31-40
+Cancer,50980,1,31-40
+Dread Disease T.L.,1015,1,31-40
+Dread Disease W.L.,6019,1,31-40
+Endowment,1376,1,31-40
+Female Disease,1212,1,31-40
+Inc. Dec. Term Life,27,1,31-40
+Injury,132,1,31-40
+J.M.I.P,47,1,31-40
+Joint life,249,1,31-40
+Joint life(Flexible),669,1,31-40
+Juvenile,7973,1,31-40
+Medical,140116,1,31-40
+M.I.P,27279,1,31-40
+Nursing care,121,1,31-40
+Term life,21829,1,31-40
+VL Endowment,182,1,31-40
+VL Whole life,2952,1,31-40
+Whole life,46260,1,31-40
+Annuity(Annuity Certain ),1608,2,31-40
+Annuity(Whole Life Annuity With Guaranteed Installment ),36,2,31-40
+Cancer,21314,2,31-40
+Dread Disease T.L.,476,2,31-40
+Dread Disease W.L.,3258,2,31-40
+Endowment,1044,2,31-40
+Female Disease,12962,2,31-40
+Inc. Dec. Term Life,9,2,31-40
+Injury,9,2,31-40
+J.M.I.P,18,2,31-40
+Joint life,20,2,31-40
+Joint life(Flexible),176,2,31-40
+Juvenile,3906,2,31-40
+Maternity Insurance(or New Pregnant Woman Insurance),3,2,31-40
+Medical,134988,2,31-40
+Medical（Coins） ,1,2,31-40
+M.I.P,4217,2,31-40
+Nursing care,23,2,31-40
+Term life,4765,2,31-40
+VL Endowment,38,2,31-40
+VL Whole life,1024,2,31-40
+Whole life,20319,2,31-40
+Annuity(Annuity Certain ),1773,1,41-50
+Annuity(Whole Life Annuity With Guaranteed Installment ),42,1,41-50
+Cancer,45244,1,41-50
+Dread Disease T.L.,1034,1,41-50
+Dread Disease W.L.,3653,1,41-50
+Endowment,2027,1,41-50
+Female Disease,1272,1,41-50
+Inc. Dec. Term Life,58,1,41-50
+Injury,204,1,41-50
+J.M.I.P,76,1,41-50
+Joint life,265,1,41-50
+Joint life(Flexible),630,1,41-50
+Juvenile,4162,1,41-50
+Medical,109120,1,41-50
+Medical（Coins） ,2,1,41-50
+M.I.P,17206,1,41-50
+Nursing care,132,1,41-50
+Term life,21961,1,41-50
+VL Endowment,97,1,41-50
+VL Whole life,2136,1,41-50
+Whole life,33557,1,41-50
+Annuity(Annuity Certain ),1438,2,41-50
+Annuity(Whole Life Annuity With Guaranteed Installment ),40,2,41-50
+Cancer,18074,2,41-50
+Dread Disease T.L.,442,2,41-50
+Dread Disease W.L.,2120,2,41-50
+Endowment,1202,2,41-50
+Female Disease,7315,2,41-50
+Inc. Dec. Term Life,10,2,41-50
+Injury,22,2,41-50
+J.M.I.P,37,2,41-50
+Joint life,47,2,41-50
+Joint life(Flexible),213,2,41-50
+Juvenile,1480,2,41-50
+Medical,94055,2,41-50
+Medical（Coins） ,2,2,41-50
+M.I.P,2711,2,41-50
+Nursing care,60,2,41-50
+Term life,5502,2,41-50
+VL Endowment,43,2,41-50
+VL Whole life,743,2,41-50
+Whole life,17116,2,41-50
+Annuity(Annuity Certain ),1128,1,51-60
+Annuity(Whole Life Annuity With Guaranteed Installment ),28,1,51-60
+Cancer,41764,1,51-60
+Dread Disease T.L.,632,1,51-60
+Dread Disease W.L.,2459,1,51-60
+Endowment,2027,1,51-60
+Female Disease,1312,1,51-60
+Inc. Dec. Term Life,123,1,51-60
+Injury,351,1,51-60
+J.M.I.P,47,1,51-60
+Joint life,146,1,51-60
+Joint life(Flexible),474,1,51-60
+Juvenile,821,1,51-60
+Medical,78885,1,51-60
+Medical（Coins） ,2,1,51-60
+M.I.P,6731,1,51-60
+Nursing care,85,1,51-60
+Term life,19050,1,51-60
+VL Endowment,98,1,51-60
+VL Whole life,1064,1,51-60
+Whole life,20922,1,51-60
+Annuity(Annuity Certain ),1055,2,51-60
+Annuity(Whole Life Annuity With Guaranteed Installment ),24,2,51-60
+Cancer,18626,2,51-60
+Dread Disease T.L.,376,2,51-60
+Dread Disease W.L.,1736,2,51-60
+Endowment,878,2,51-60
+Female Disease,3944,2,51-60
+Inc. Dec. Term Life,24,2,51-60
+Injury,15,2,51-60
+J.M.I.P,40,2,51-60
+Joint life,17,2,51-60
+Joint life(Flexible),268,2,51-60
+Juvenile,458,2,51-60
+Medical,67016,2,51-60
+Medical（Coins） ,4,2,51-60
+M.I.P,1062,2,51-60
+Nursing care,68,2,51-60
+Term life,5360,2,51-60
+VL Endowment,41,2,51-60
+VL Whole life,607,2,51-60
+Whole life,14287,2,51-60
+Annuity(Annuity Certain ),182,1,61-64
+Annuity(Whole Life Annuity With Guaranteed Installment ),7,1,61-64
+Cancer,9918,1,61-64
+Dread Disease T.L.,126,1,61-64
+Dread Disease W.L.,463,1,61-64
+Endowment,574,1,61-64
+Female Disease,246,1,61-64
+Inc. Dec. Term Life,55,1,61-64
+Injury,88,1,61-64
+J.M.I.P,7,1,61-64
+Joint life,24,1,61-64
+Joint life(Flexible),128,1,61-64
+Juvenile,105,1,61-64
+Medical,21287,1,61-64
+Medical（Coins） ,2,1,61-64
+M.I.P,903,1,61-64
+Nursing care,18,1,61-64
+Term life,4783,1,61-64
+VL Endowment,24,1,61-64
+VL Whole life,212,1,61-64
+Whole life,5003,1,61-64
+Annuity(Annuity Certain ),169,2,61-64
+Annuity(Whole Life Annuity With Guaranteed Installment ),4,2,61-64
+Cancer,5174,2,61-64
+Dread Disease T.L.,107,2,61-64
+Dread Disease W.L.,369,2,61-64
+Endowment,267,2,61-64
+Female Disease,780,2,61-64
+Inc. Dec. Term Life,11,2,61-64
+Injury,2,2,61-64
+J.M.I.P,12,2,61-64
+Joint life,2,2,61-64
+Joint life(Flexible),109,2,61-64
+Juvenile,180,2,61-64
+Medical,20427,2,61-64
+Medical（Coins） ,1,2,61-64
+M.I.P,190,2,61-64
+Nursing care,23,2,61-64
+Term life,1603,2,61-64
+VL Endowment,10,2,61-64
+VL Whole life,169,2,61-64
+Whole life,4113,2,61-64
+Annuity(Annuity Certain ),146,1,greater than 64
+Annuity(Whole Life Annuity With Guaranteed Installment ),5,1,greater than 64
+Cancer,12541,1,greater than 64
+Dread Disease T.L.,97,1,greater than 64
+Dread Disease W.L.,441,1,greater than 64
+Endowment,961,1,greater than 64
+Female Disease,283,1,greater than 64
+Inc. Dec. Term Life,108,1,greater than 64
+Injury,142,1,greater than 64
+J.M.I.P,15,1,greater than 64
+Joint life,48,1,greater than 64
+Joint life(Flexible),312,1,greater than 64
+Juvenile,103,1,greater than 64
+Medical,28818,1,greater than 64
+Medical（Coins） ,2,1,greater than 64
+M.I.P,511,1,greater than 64
+Nursing care,33,1,greater than 64
+Term life,6395,1,greater than 64
+VL Endowment,109,1,greater than 64
+VL Whole life,333,1,greater than 64
+Whole life,7287,1,greater than 64
+Annuity(Annuity Certain ),140,2,greater than 64
+Annuity(Whole Life Annuity With Guaranteed Installment ),5,2,greater than 64
+Cancer,8359,2,greater than 64
+Dread Disease T.L.,79,2,greater than 64
+Dread Disease W.L.,430,2,greater than 64
+Endowment,467,2,greater than 64
+Female Disease,935,2,greater than 64
+Inc. Dec. Term Life,11,2,greater than 64
+Injury,12,2,greater than 64
+J.M.I.P,9,2,greater than 64
+Joint life,12,2,greater than 64
+Joint life(Flexible),320,2,greater than 64
+Juvenile,202,2,greater than 64
+Medical,35154,2,greater than 64
+M.I.P,165,2,greater than 64
+Nursing care,28,2,greater than 64
+Term life,2897,2,greater than 64
+VL Endowment,16,2,greater than 64
+VL Whole life,348,2,greater than 64
+Whole life,8130,2,greater than 64

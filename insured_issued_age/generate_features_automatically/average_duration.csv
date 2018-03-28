@@ -1,0 +1,222 @@
+Policy Type Name,a_group,Insured'S Gender,average
+Annuity(Annuity Certain ),18-22,1,37.4
+Annuity(Annuity Certain ),18-22,2,66.5
+Annuity(Annuity Certain ),23-30,1,115.4814814815
+Annuity(Annuity Certain ),23-30,2,109.5625
+Annuity(Annuity Certain ),31-40,1,92.4
+Annuity(Annuity Certain ),31-40,2,88.5238095238
+Annuity(Annuity Certain ),41-50,1,104.44
+Annuity(Annuity Certain ),41-50,2,97.875
+Annuity(Annuity Certain ),51-60,1,102.4915254237
+Annuity(Annuity Certain ),51-60,2,105.6229508197
+Annuity(Annuity Certain ),61-64,1,91.6666666667
+Annuity(Annuity Certain ),61-64,2,114.6
+Annuity(Annuity Certain ),greater than 64,1,118.3333333333
+Annuity(Annuity Certain ),greater than 64,2,32.5
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,127.5
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,58
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,145.3333333333
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,156
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,1,173
+Cancer,18-22,1,82.1078431373
+Cancer,18-22,2,100.0740740741
+Cancer,23-30,1,100.3139784946
+Cancer,23-30,2,103.1748251748
+Cancer,31-40,1,123.1345397325
+Cancer,31-40,2,130.121761658
+Cancer,41-50,1,122.1825633383
+Cancer,41-50,2,127.5766871166
+Cancer,51-60,1,123.7969948849
+Cancer,51-60,2,130.3336734694
+Cancer,61-64,1,117.7535667964
+Cancer,61-64,2,116.8744939271
+Cancer,greater than 64,1,110.8796296296
+Cancer,greater than 64,2,106.2370820669
+Dread Disease T.L.,18-22,1,23
+Dread Disease T.L.,18-22,2,41
+Dread Disease T.L.,23-30,1,49.125
+Dread Disease T.L.,23-30,2,90.8333333333
+Dread Disease T.L.,31-40,1,73.6304347826
+Dread Disease T.L.,31-40,2,69.5185185185
+Dread Disease T.L.,41-50,1,82.4705882353
+Dread Disease T.L.,41-50,2,54.9807692308
+Dread Disease T.L.,51-60,1,54
+Dread Disease T.L.,51-60,2,70.619047619
+Dread Disease T.L.,61-64,1,42.0476190476
+Dread Disease T.L.,61-64,2,35.5
+Dread Disease T.L.,greater than 64,1,45.8666666667
+Dread Disease T.L.,greater than 64,2,48.4444444444
+Dread Disease W.L.,18-22,1,86.75
+Dread Disease W.L.,18-22,2,90.3333333333
+Dread Disease W.L.,23-30,1,89.5918367347
+Dread Disease W.L.,23-30,2,98.935483871
+Dread Disease W.L.,31-40,1,90.0689655172
+Dread Disease W.L.,31-40,2,97.7222222222
+Dread Disease W.L.,41-50,1,94.1982758621
+Dread Disease W.L.,41-50,2,76.1571428571
+Dread Disease W.L.,51-60,1,82.1548387097
+Dread Disease W.L.,51-60,2,85.56
+Dread Disease W.L.,61-64,1,73.5161290323
+Dread Disease W.L.,61-64,2,95.9545454545
+Dread Disease W.L.,greater than 64,1,82
+Dread Disease W.L.,greater than 64,2,97.5
+Endowment,18-22,1,111.4574585635
+Endowment,18-22,2,108.3553113553
+Endowment,23-30,1,111.3190789474
+Endowment,23-30,2,111.6462799496
+Endowment,31-40,1,110.408713003
+Endowment,31-40,2,110.6873333333
+Endowment,41-50,1,109.0296111309
+Endowment,41-50,2,111.6301703163
+Endowment,51-60,1,102.3696612666
+Endowment,51-60,2,108.6133651551
+Endowment,61-64,1,96.3449781659
+Endowment,61-64,2,108.5403225806
+Endowment,greater than 64,1,88.37
+Endowment,greater than 64,2,112.4827586207
+Female Disease,18-22,2,100.8666666667
+Female Disease,23-30,2,126.8488372093
+Female Disease,31-40,2,137.6904761905
+Female Disease,41-50,2,128.8571428571
+Female Disease,51-60,2,115.4102564103
+Female Disease,61-64,2,129.8863636364
+Female Disease,greater than 64,2,97
+Inc. Dec. Term Life,23-30,1,37
+Inc. Dec. Term Life,23-30,2,30.6666666667
+Inc. Dec. Term Life,31-40,1,58.4444444444
+Inc. Dec. Term Life,41-50,1,69.1875
+Inc. Dec. Term Life,41-50,2,69.5454545455
+Inc. Dec. Term Life,51-60,1,58.1906976744
+Inc. Dec. Term Life,51-60,2,66.5238095238
+Inc. Dec. Term Life,61-64,1,46.1186440678
+Inc. Dec. Term Life,61-64,2,44.875
+Inc. Dec. Term Life,greater than 64,1,46.1714285714
+Inc. Dec. Term Life,greater than 64,2,39.5
+Injury,18-22,1,92
+Injury,23-30,1,34
+Injury,23-30,2,17
+Injury,31-40,1,37.6428571429
+Injury,31-40,2,90
+Injury,41-50,1,50.45
+Injury,41-50,2,49.3333333333
+Injury,51-60,1,51.1617647059
+Injury,51-60,2,46.6666666667
+Injury,61-64,1,64.4210526316
+Injury,61-64,2,100.6666666667
+Injury,greater than 64,1,50.2727272727
+Injury,greater than 64,2,67
+Joint life,18-22,2,298
+Joint life,23-30,1,256.8
+Joint life,31-40,1,206.9743589744
+Joint life,31-40,2,295
+Joint life,41-50,1,195.2037037037
+Joint life,41-50,2,170.3333333333
+Joint life,51-60,1,186.4915254237
+Joint life,51-60,2,187.2857142857
+Joint life,61-64,1,240.5
+Joint life,61-64,2,233
+Joint life,greater than 64,1,162.75
+Joint life,greater than 64,2,102.5
+Joint life(Flexible),23-30,1,145
+Joint life(Flexible),31-40,1,102.5714285714
+Joint life(Flexible),31-40,2,16
+Joint life(Flexible),41-50,1,170.0909090909
+Joint life(Flexible),41-50,2,255
+Joint life(Flexible),51-60,1,137.7142857143
+Joint life(Flexible),51-60,2,149
+Joint life(Flexible),61-64,1,64.25
+Joint life(Flexible),61-64,2,187.3333333333
+Joint life(Flexible),greater than 64,1,191
+Medical,18-22,1,58.827027027
+Medical,18-22,2,76.6285714286
+Medical,23-30,1,75.1543307087
+Medical,23-30,2,88.8708133971
+Medical,31-40,1,82.63183391
+Medical,31-40,2,91.7150715072
+Medical,41-50,1,83.5815397351
+Medical,41-50,2,89.7236533958
+Medical,51-60,1,85.6109013686
+Medical,51-60,2,82.0445894508
+Medical,61-64,1,82.0989994734
+Medical,61-64,2,85.275
+Medical,greater than 64,1,59.1530408774
+Medical,greater than 64,2,55.0756859035
+M.I.P,18-22,1,42.75
+M.I.P,23-30,1,57.8620689655
+M.I.P,23-30,2,53
+M.I.P,31-40,1,57.5880597015
+M.I.P,31-40,2,56.652173913
+M.I.P,41-50,1,56.7884057971
+M.I.P,41-50,2,50.619047619
+M.I.P,51-60,1,53.8657407407
+M.I.P,51-60,2,45.2727272727
+M.I.P,61-64,1,39.7179487179
+M.I.P,61-64,2,34.5
+M.I.P,greater than 64,1,43.6111111111
+M.I.P,greater than 64,2,38.5
+Nursing care,31-40,1,267.5
+Nursing care,31-40,2,174.5
+Nursing care,41-50,1,156
+Nursing care,41-50,2,212.5
+Nursing care,51-60,1,210.7575757576
+Nursing care,51-60,2,179.7894736842
+Nursing care,61-64,1,227.2
+Nursing care,61-64,2,198
+Nursing care,greater than 64,1,218
+Nursing care,greater than 64,2,163.3333333333
+Term life,18-22,1,79.1212121212
+Term life,18-22,2,111
+Term life,23-30,1,106.3529411765
+Term life,23-30,2,129.7666666667
+Term life,31-40,1,138.5822368421
+Term life,31-40,2,147.3259259259
+Term life,41-50,1,118.1845174973
+Term life,41-50,2,128.9031007752
+Term life,51-60,1,101.9241779497
+Term life,51-60,2,120.9726027397
+Term life,61-64,1,84.756302521
+Term life,61-64,2,103.825
+Term life,greater than 64,1,73.2252922423
+Term life,greater than 64,2,85.3306666667
+VL Endowment,18-22,1,115.4358974359
+VL Endowment,18-22,2,126.5609756098
+VL Endowment,23-30,1,119.954887218
+VL Endowment,23-30,2,122.8260869565
+VL Endowment,31-40,1,123.1674418605
+VL Endowment,31-40,2,131
+VL Endowment,41-50,1,124.595
+VL Endowment,41-50,2,133.3488372093
+VL Endowment,51-60,1,117.5263157895
+VL Endowment,51-60,2,121.8455284553
+VL Endowment,61-64,1,105.7142857143
+VL Endowment,61-64,2,102.5
+VL Endowment,greater than 64,1,83.4
+VL Endowment,greater than 64,2,119
+VL Whole life,18-22,1,82
+VL Whole life,18-22,2,75
+VL Whole life,23-30,1,88.7647058824
+VL Whole life,23-30,2,108.5
+VL Whole life,31-40,1,112.25
+VL Whole life,31-40,2,131.1764705882
+VL Whole life,41-50,1,111.4943820225
+VL Whole life,41-50,2,156.6451612903
+VL Whole life,51-60,1,113.78125
+VL Whole life,51-60,2,125.3793103448
+VL Whole life,61-64,1,99.6451612903
+VL Whole life,61-64,2,110.1538461538
+VL Whole life,greater than 64,1,120.9558823529
+VL Whole life,greater than 64,2,119.8636363636
+Whole life,18-22,1,97.2061068702
+Whole life,18-22,2,145.7352941176
+Whole life,23-30,1,123.7843601896
+Whole life,23-30,2,124.7459016393
+Whole life,31-40,1,136.4876033058
+Whole life,31-40,2,134.4501845018
+Whole life,41-50,1,131.7523689198
+Whole life,41-50,2,133.9983974359
+Whole life,51-60,1,130.6641373802
+Whole life,51-60,2,153.0245989305
+Whole life,61-64,1,108.4186320755
+Whole life,61-64,2,128.7142857143
+Whole life,greater than 64,1,67.2335546168
+Whole life,greater than 64,2,83.8211055276

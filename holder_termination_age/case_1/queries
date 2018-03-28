@@ -1,0 +1,59 @@
+                       select "Policy Type Name",sum(count) as "only_termination_sum",'1' as "gender",'18-22' as "age"  from
+                (
+                	select "LatestPolicyType_01","Policy Type Name",count(*) from
+                	(
+                		select * from "pi_ph_seg_seg2_seg3_holder"
+                		where "Termination  Reason" is not NULL and "Type" =  'Surrender ' and   age_t >= 18
+                		and age_t <= 22
+                		and "Policyholder'S_Gender" = '1'
+                	)as q group by q."LatestPolicyType_01",q."Policy Type Name"
+    
+                ) as q GROUP BY "Policy Type Name"
+
+
+
+
+    
+                       select "Policy Type Name",sum(count) as "only_termination_sum",'1' as "gender",'greater than 64' as "age"  from
+                (
+                	select "LatestPolicyType_01","Policy Type Name",count(*) from
+                	(
+                		select * from "pi_ph_seg_seg2_seg3_holder"
+                		where "Termination  Reason" is not NULL and "Type" =  'Surrender ' and 
+                         age_t > 64
+                		and "Policyholder'S_Gender" = '1'
+                	)as q group by q."LatestPolicyType_01",q."Policy Type Name"
+    
+                ) as q GROUP BY "Policy Type Name"
+    
+    
+                 
+
+
+    
+                       select "Policy Type Name",sum(count) as "only_termination_sum",'1' as "gender",'18-22' as "age"  from
+                (
+                	select "LatestPolicyType_01","Policy Type Name",count(*) from
+                	(
+                		select * from "pi_ph_seg_seg2_seg3_holder"
+                		where "Termination  Reason" is not NULL and  age_t >= 18
+                		and age_t <= 22
+                		and "Policyholder'S_Gender" = '1'
+                	)as q group by q."LatestPolicyType_01",q."Policy Type Name"
+    
+                ) as q GROUP BY "Policy Type Name"
+
+
+
+                       select "Policy Type Name",sum(count) as "only_termination_sum",'2' as "gender",'greater than 64' as "age"  from
+                (
+                	select "LatestPolicyType_01","Policy Type Name",count(*) from
+                	(
+                		select * from "pi_ph_seg_seg2_seg3_holder"
+                		where "Termination  Reason" is not NULL and
+                         age_t > 64
+                		and "Policyholder'S_Gender" = '2'
+                	)as q group by q."LatestPolicyType_01",q."Policy Type Name"
+    
+                ) as q GROUP BY "Policy Type Name"
+    

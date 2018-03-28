@@ -1,0 +1,30 @@
+,,,
+Solo ProprietorshipKB,,,
+,Details,code,count
+,Not Solo Proprietorship,0,6346558
+,YeS Solo Proprietorship,1,15394
+,,NULL,98
+,,,
+,,,
+Recovery Reason,,,
+,Deatils,code,count
+,Recovery,E11,142
+,Auto term extended avoidance,E12,3284
+,Surrender,H21,434
+,Surrender after lapse,H22,33
+,Surrender after lapse on the policy cause,H23,8
+,Surrender of consent,H25,8
+,Hospitalization (Refund P),H63,1
+,Hospitalization (Other),H64,26
+,Other Cancellation,H65,13
+,,NULL,6358101
+Latest Payment Completion Reason,,,
+,Details,code,count
+,Payment Completion Insurance,F11,71471
+,Payment Completion Whole Life Insurance,F12,418
+,Payment Extended Insurance,F21,140
+,Auto Payment Extended Insurance,F22,1468
+,Limited Pay(ment)  ,F51,51283
+,Continuous Premium ,F52,101847
+,Lump Sum Premium Completion ,F53,13042
+,,NULL,6122381

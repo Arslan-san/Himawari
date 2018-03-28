@@ -1,0 +1,15 @@
+Q'ty = ?
+Rate = ?
+Denominator = ?
+Rate = Q'ty / Denominator
+
+Case 1: 
+
+				QTY = where Area = termination and Type = Surender and age ranges and male/femal
+				Denominator = where Area = terminated and Type = all and age ranges and male/female
+
+case 2: (currently used)
+
+				QTY = where Area = termination and Type = Surender and age ranges and male/femal
+				Denominator = where Area = all and age ranges and male/female
+

@@ -1,0 +1,480 @@
+Policy Type Name,a_group,Insured'S Gender,Termination  Reason,merge_reason_code,Type,Details,Termination Reason  Count
+Annuity(Annuity Certain ),18-22,1,G31,G31,Death,Crude death,5
+Annuity(Annuity Certain ),18-22,2,G31,G31,Death,Crude death,2
+Annuity(Annuity Certain ),23-30,1,G31,G31,Death,Crude death,27
+Annuity(Annuity Certain ),23-30,2,G31,G31,Death,Crude death,16
+Annuity(Annuity Certain ),31-40,1,G31,G31,Death,Crude death,35
+Annuity(Annuity Certain ),31-40,2,G31,G31,Death,Crude death,20
+Annuity(Annuity Certain ),31-40,2,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),1
+Annuity(Annuity Certain ),41-50,1,G31,G31,Death,Crude death,52
+Annuity(Annuity Certain ),41-50,1,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),16
+Annuity(Annuity Certain ),41-50,1,GA2,GA2,Payout,Pension Lump Payout by offset loans,7
+Annuity(Annuity Certain ),41-50,2,G31,G31,Death,Crude death,29
+Annuity(Annuity Certain ),41-50,2,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),9
+Annuity(Annuity Certain ),41-50,2,GA2,GA2,Payout,Pension Lump Payout by offset loans,2
+Annuity(Annuity Certain ),51-60,1,G31,G31,Death,Crude death,42
+Annuity(Annuity Certain ),51-60,1,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),14
+Annuity(Annuity Certain ),51-60,1,GA2,GA2,Payout,Pension Lump Payout by offset loans,3
+Annuity(Annuity Certain ),51-60,2,G31,G31,Death,Crude death,36
+Annuity(Annuity Certain ),51-60,2,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),24
+Annuity(Annuity Certain ),51-60,2,GA2,GA2,Payout,Pension Lump Payout by offset loans,1
+Annuity(Annuity Certain ),61-64,1,G31,G31,Death,Crude death,3
+Annuity(Annuity Certain ),61-64,1,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),6
+Annuity(Annuity Certain ),61-64,2,G31,G31,Death,Crude death,5
+Annuity(Annuity Certain ),61-64,2,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),5
+Annuity(Annuity Certain ),greater than 64,1,G31,G31,Death,Crude death,1
+Annuity(Annuity Certain ),greater than 64,1,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),2
+Annuity(Annuity Certain ),greater than 64,2,G31,G31,Death,Crude death,1
+Annuity(Annuity Certain ),greater than 64,2,GA1,GA1,Payout,Pension Lump Payout （Annuity Certain),1
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,1,G31,G31,Death,Crude death,2
+Annuity(Whole Life Annuity With Guaranteed Installment ),23-30,2,G31,G31,Death,Crude death,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),41-50,1,G31,G31,Death,Crude death,3
+Annuity(Whole Life Annuity With Guaranteed Installment ),51-60,2,G31,G31,Death,Crude death,1
+Annuity(Whole Life Annuity With Guaranteed Installment ),greater than 64,1,G31,G31,Death,Crude death,1
+Cancer,18-22,1,G31,G31,Death,Crude death,12
+Cancer,18-22,1,G34,G34,Death,Death except cancer (Cancer Insurance),90
+Cancer,18-22,2,G31,G31,Death,Crude death,10
+Cancer,18-22,2,G34,G34,Death,Death except cancer (Cancer Insurance),17
+Cancer,23-30,1,G31,G31,Death,Crude death,112
+Cancer,23-30,1,G34,G34,Death,Death except cancer (Cancer Insurance),353
+Cancer,23-30,2,G31,G31,Death,Crude death,71
+Cancer,23-30,2,G34,G34,Death,Death except cancer (Cancer Insurance),72
+Cancer,31-40,1,G31,G31,Death,Crude death,449
+Cancer,31-40,1,G34,G34,Death,Death except cancer (Cancer Insurance),822
+Cancer,31-40,2,G31,G31,Death,Crude death,255
+Cancer,31-40,2,G34,G34,Death,Death except cancer (Cancer Insurance),131
+Cancer,41-50,1,G31,G31,Death,Crude death,1462
+Cancer,41-50,1,G34,G34,Death,Death except cancer (Cancer Insurance),1216
+Cancer,41-50,1,G41,G41,Advanced disability,Advanced disability,6
+Cancer,41-50,2,G31,G31,Death,Crude death,552
+Cancer,41-50,2,G34,G34,Death,Death except cancer (Cancer Insurance),263
+Cancer,51-60,1,G31,G31,Death,Crude death,1889
+Cancer,51-60,1,G34,G34,Death,Death except cancer (Cancer Insurance),1229
+Cancer,51-60,1,G41,G41,Advanced disability,Advanced disability,10
+Cancer,51-60,2,G31,G31,Death,Crude death,607
+Cancer,51-60,2,G34,G34,Death,Death except cancer (Cancer Insurance),372
+Cancer,51-60,2,G41,G41,Advanced disability,Advanced disability,1
+Cancer,61-64,1,G31,G31,Death,Crude death,430
+Cancer,61-64,1,G34,G34,Death,Death except cancer (Cancer Insurance),337
+Cancer,61-64,1,G41,G41,Advanced disability,Advanced disability,4
+Cancer,61-64,2,G31,G31,Death,Crude death,145
+Cancer,61-64,2,G34,G34,Death,Death except cancer (Cancer Insurance),102
+Cancer,greater than 64,1,G31,G31,Death,Crude death,373
+Cancer,greater than 64,1,G34,G34,Death,Death except cancer (Cancer Insurance),382
+Cancer,greater than 64,1,G41,G41,Advanced disability,Advanced disability,1
+Cancer,greater than 64,2,G31,G31,Death,Crude death,139
+Cancer,greater than 64,2,G34,G34,Death,Death except cancer (Cancer Insurance),190
+Dread Disease T.L.,18-22,1,G31,G31,Death,Crude death,1
+Dread Disease T.L.,18-22,2,G37,G37,Death,Termination by Specific Disease benefit payout,2
+Dread Disease T.L.,23-30,1,G31,G31,Death,Crude death,2
+Dread Disease T.L.,23-30,1,G37,G37,Death,Termination by Specific Disease benefit payout,6
+Dread Disease T.L.,23-30,2,G31,G31,Death,Crude death,1
+Dread Disease T.L.,23-30,2,G37,G37,Death,Termination by Specific Disease benefit payout,5
+Dread Disease T.L.,31-40,1,G31,G31,Death,Crude death,12
+Dread Disease T.L.,31-40,1,G37,G37,Death,Termination by Specific Disease benefit payout,34
+Dread Disease T.L.,31-40,2,G31,G31,Death,Crude death,1
+Dread Disease T.L.,31-40,2,G37,G37,Death,Termination by Specific Disease benefit payout,26
+Dread Disease T.L.,41-50,1,G31,G31,Death,Crude death,24
+Dread Disease T.L.,41-50,1,G37,G37,Death,Termination by Specific Disease benefit payout,76
+Dread Disease T.L.,41-50,1,G41,G41,Advanced disability,Advanced disability,2
+Dread Disease T.L.,41-50,2,G31,G31,Death,Crude death,3
+Dread Disease T.L.,41-50,2,G37,G37,Death,Termination by Specific Disease benefit payout,49
+Dread Disease T.L.,51-60,1,G31,G31,Death,Crude death,12
+Dread Disease T.L.,51-60,1,G37,G37,Death,Termination by Specific Disease benefit payout,83
+Dread Disease T.L.,51-60,1,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease T.L.,51-60,2,G31,G31,Death,Crude death,3
+Dread Disease T.L.,51-60,2,G37,G37,Death,Termination by Specific Disease benefit payout,39
+Dread Disease T.L.,61-64,1,G31,G31,Death,Crude death,3
+Dread Disease T.L.,61-64,1,G37,G37,Death,Termination by Specific Disease benefit payout,18
+Dread Disease T.L.,61-64,2,G31,G31,Death,Crude death,1
+Dread Disease T.L.,61-64,2,G37,G37,Death,Termination by Specific Disease benefit payout,5
+Dread Disease T.L.,greater than 64,1,G31,G31,Death,Crude death,3
+Dread Disease T.L.,greater than 64,1,G37,G37,Death,Termination by Specific Disease benefit payout,12
+Dread Disease T.L.,greater than 64,2,G31,G31,Death,Crude death,1
+Dread Disease T.L.,greater than 64,2,G37,G37,Death,Termination by Specific Disease benefit payout,8
+Dread Disease W.L.,18-22,1,G31,G31,Death,Crude death,8
+Dread Disease W.L.,18-22,2,G31,G31,Death,Crude death,2
+Dread Disease W.L.,18-22,2,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease W.L.,23-30,1,G31,G31,Death,Crude death,35
+Dread Disease W.L.,23-30,1,G37,G37,Death,Termination by Specific Disease benefit payout,13
+Dread Disease W.L.,23-30,1,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease W.L.,23-30,2,G31,G31,Death,Crude death,15
+Dread Disease W.L.,23-30,2,G37,G37,Death,Termination by Specific Disease benefit payout,15
+Dread Disease W.L.,23-30,2,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease W.L.,31-40,1,G31,G31,Death,Crude death,64
+Dread Disease W.L.,31-40,1,G37,G37,Death,Termination by Specific Disease benefit payout,48
+Dread Disease W.L.,31-40,1,G41,G41,Advanced disability,Advanced disability,4
+Dread Disease W.L.,31-40,2,G31,G31,Death,Crude death,22
+Dread Disease W.L.,31-40,2,G37,G37,Death,Termination by Specific Disease benefit payout,30
+Dread Disease W.L.,31-40,2,G41,G41,Advanced disability,Advanced disability,2
+Dread Disease W.L.,41-50,1,G31,G31,Death,Crude death,70
+Dread Disease W.L.,41-50,1,G37,G37,Death,Termination by Specific Disease benefit payout,43
+Dread Disease W.L.,41-50,1,G41,G41,Advanced disability,Advanced disability,3
+Dread Disease W.L.,41-50,2,G31,G31,Death,Crude death,30
+Dread Disease W.L.,41-50,2,G37,G37,Death,Termination by Specific Disease benefit payout,39
+Dread Disease W.L.,41-50,2,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease W.L.,51-60,1,G31,G31,Death,Crude death,95
+Dread Disease W.L.,51-60,1,G37,G37,Death,Termination by Specific Disease benefit payout,51
+Dread Disease W.L.,51-60,1,G41,G41,Advanced disability,Advanced disability,9
+Dread Disease W.L.,51-60,2,G31,G31,Death,Crude death,41
+Dread Disease W.L.,51-60,2,G37,G37,Death,Termination by Specific Disease benefit payout,33
+Dread Disease W.L.,51-60,2,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease W.L.,61-64,1,G31,G31,Death,Crude death,19
+Dread Disease W.L.,61-64,1,G37,G37,Death,Termination by Specific Disease benefit payout,11
+Dread Disease W.L.,61-64,1,G41,G41,Advanced disability,Advanced disability,1
+Dread Disease W.L.,61-64,2,G31,G31,Death,Crude death,10
+Dread Disease W.L.,61-64,2,G37,G37,Death,Termination by Specific Disease benefit payout,12
+Dread Disease W.L.,greater than 64,1,G31,G31,Death,Crude death,13
+Dread Disease W.L.,greater than 64,1,G37,G37,Death,Termination by Specific Disease benefit payout,6
+Dread Disease W.L.,greater than 64,2,G31,G31,Death,Crude death,4
+Dread Disease W.L.,greater than 64,2,G37,G37,Death,Termination by Specific Disease benefit payout,5
+Dread Disease W.L.,greater than 64,2,G41,G41,Advanced disability,Advanced disability,1
+Endowment,18-22,1,G31,G31,Death,Crude death,13
+Endowment,18-22,1,G41,G41,Advanced disability,Advanced disability,1
+Endowment,18-22,1,G53,G53,Maturity,Maturity (Settled),891
+Endowment,18-22,2,G31,G31,Death,Crude death,5
+Endowment,18-22,2,G41,G41,Advanced disability,Advanced disability,1
+Endowment,18-22,2,G52,G52,Maturity,Maturity (Unsettled),1
+Endowment,18-22,2,G53,G53,Maturity,Maturity (Settled),812
+Endowment,23-30,1,G31,G31,Death,Crude death,36
+Endowment,23-30,1,G41,G41,Advanced disability,Advanced disability,1
+Endowment,23-30,1,G52,G52,Maturity,Maturity (Unsettled),2
+Endowment,23-30,1,G53,G53,Maturity,Maturity (Settled),2697
+Endowment,23-30,2,G31,G31,Death,Crude death,5
+Endowment,23-30,2,G53,G53,Maturity,Maturity (Settled),1581
+Endowment,31-40,1,G31,G31,Death,Crude death,73
+Endowment,31-40,1,G41,G41,Advanced disability,Advanced disability,2
+Endowment,31-40,1,G52,G52,Maturity,Maturity (Unsettled),2
+Endowment,31-40,1,G53,G53,Maturity,Maturity (Settled),2930
+Endowment,31-40,2,G31,G31,Death,Crude death,12
+Endowment,31-40,2,G52,G52,Maturity,Maturity (Unsettled),1
+Endowment,31-40,2,G53,G53,Maturity,Maturity (Settled),1487
+Endowment,41-50,1,G31,G31,Death,Crude death,158
+Endowment,41-50,1,G41,G41,Advanced disability,Advanced disability,3
+Endowment,41-50,1,G52,G52,Maturity,Maturity (Unsettled),3
+Endowment,41-50,1,G53,G53,Maturity,Maturity (Settled),2639
+Endowment,41-50,2,G31,G31,Death,Crude death,48
+Endowment,41-50,2,G41,G41,Advanced disability,Advanced disability,1
+Endowment,41-50,2,G53,G53,Maturity,Maturity (Settled),1595
+Endowment,51-60,1,G31,G31,Death,Crude death,180
+Endowment,51-60,1,G36,G36,Death,Termination by Living Needs benefit payout,2
+Endowment,51-60,1,G41,G41,Advanced disability,Advanced disability,2
+Endowment,51-60,1,G52,G52,Maturity,Maturity (Unsettled),1
+Endowment,51-60,1,G53,G53,Maturity,Maturity (Settled),1173
+Endowment,51-60,2,G31,G31,Death,Crude death,35
+Endowment,51-60,2,G53,G53,Maturity,Maturity (Settled),803
+Endowment,61-64,1,G31,G31,Death,Crude death,45
+Endowment,61-64,1,G36,G36,Death,Termination by Living Needs benefit payout,1
+Endowment,61-64,1,G41,G41,Advanced disability,Advanced disability,2
+Endowment,61-64,1,G53,G53,Maturity,Maturity (Settled),181
+Endowment,61-64,2,G31,G31,Death,Crude death,10
+Endowment,61-64,2,G53,G53,Maturity,Maturity (Settled),114
+Endowment,greater than 64,1,G31,G31,Death,Crude death,26
+Endowment,greater than 64,1,G53,G53,Maturity,Maturity (Settled),74
+Endowment,greater than 64,2,G31,G31,Death,Crude death,12
+Endowment,greater than 64,2,G53,G53,Maturity,Maturity (Settled),75
+Female Disease,18-22,2,G31,G31,Death,Crude death,14
+Female Disease,18-22,2,G41,G41,Advanced disability,Advanced disability,1
+Female Disease,23-30,2,G31,G31,Death,Crude death,86
+Female Disease,31-40,2,G31,G31,Death,Crude death,125
+Female Disease,31-40,2,G41,G41,Advanced disability,Advanced disability,1
+Female Disease,41-50,2,G31,G31,Death,Crude death,136
+Female Disease,41-50,2,G36,G36,Death,Termination by Living Needs benefit payout,1
+Female Disease,41-50,2,G41,G41,Advanced disability,Advanced disability,3
+Female Disease,51-60,2,G31,G31,Death,Crude death,115
+Female Disease,51-60,2,G41,G41,Advanced disability,Advanced disability,2
+Female Disease,61-64,2,G31,G31,Death,Crude death,44
+Female Disease,greater than 64,2,G31,G31,Death,Crude death,12
+Inc. Dec. Term Life,23-30,1,G31,G31,Death,Crude death,1
+Inc. Dec. Term Life,23-30,2,G31,G31,Death,Crude death,3
+Inc. Dec. Term Life,31-40,1,G31,G31,Death,Crude death,23
+Inc. Dec. Term Life,31-40,1,G41,G41,Advanced disability,Advanced disability,4
+Inc. Dec. Term Life,41-50,1,G31,G31,Death,Crude death,76
+Inc. Dec. Term Life,41-50,1,G41,G41,Advanced disability,Advanced disability,4
+Inc. Dec. Term Life,41-50,2,G31,G31,Death,Crude death,10
+Inc. Dec. Term Life,41-50,2,G41,G41,Advanced disability,Advanced disability,1
+Inc. Dec. Term Life,51-60,1,G31,G31,Death,Crude death,205
+Inc. Dec. Term Life,51-60,1,G41,G41,Advanced disability,Advanced disability,10
+Inc. Dec. Term Life,51-60,2,G31,G31,Death,Crude death,19
+Inc. Dec. Term Life,51-60,2,G36,G36,Death,Termination by Living Needs benefit payout,1
+Inc. Dec. Term Life,51-60,2,G41,G41,Advanced disability,Advanced disability,1
+Inc. Dec. Term Life,61-64,1,G31,G31,Death,Crude death,59
+Inc. Dec. Term Life,61-64,2,G31,G31,Death,Crude death,8
+Inc. Dec. Term Life,greater than 64,1,G31,G31,Death,Crude death,35
+Inc. Dec. Term Life,greater than 64,2,G31,G31,Death,Crude death,4
+Injury,18-22,1,G31,G31,Death,Crude death,1
+Injury,23-30,1,G31,G31,Death,Crude death,9
+Injury,23-30,2,G31,G31,Death,Crude death,1
+Injury,31-40,1,G31,G31,Death,Crude death,14
+Injury,31-40,2,G31,G31,Death,Crude death,1
+Injury,41-50,1,G31,G31,Death,Crude death,40
+Injury,41-50,2,G31,G31,Death,Crude death,6
+Injury,51-60,1,G31,G31,Death,Crude death,68
+Injury,51-60,2,G31,G31,Death,Crude death,9
+Injury,61-64,1,G31,G31,Death,Crude death,19
+Injury,61-64,2,G31,G31,Death,Crude death,3
+Injury,greater than 64,1,G31,G31,Death,Crude death,22
+Injury,greater than 64,2,G31,G31,Death,Crude death,5
+Joint life,18-22,2,G41,G41,Advanced disability,Advanced disability,1
+Joint life,23-30,1,G31,G31,Death,Crude death,1
+Joint life,23-30,1,G32,G32,Death,Death (Second Joint Policy),4
+Joint life,31-40,1,G31,G31,Death,Crude death,25
+Joint life,31-40,1,G32,G32,Death,Death (Second Joint Policy),12
+Joint life,31-40,1,G41,G41,Advanced disability,Advanced disability,1
+Joint life,31-40,1,G42,G42,Advanced disability,Advanced disability (Second Joint Policy),1
+Joint life,31-40,2,G31,G31,Death,Crude death,1
+Joint life,31-40,2,G32,G32,Death,Death (Second Joint Policy),2
+Joint life,41-50,1,G31,G31,Death,Crude death,42
+Joint life,41-50,1,G32,G32,Death,Death (Second Joint Policy),12
+Joint life,41-50,2,G31,G31,Death,Crude death,2
+Joint life,41-50,2,G32,G32,Death,Death (Second Joint Policy),7
+Joint life,51-60,1,G31,G31,Death,Crude death,47
+Joint life,51-60,1,G32,G32,Death,Death (Second Joint Policy),10
+Joint life,51-60,1,G33,G33,Death,Life&NonLifeDeath/Advanced disability,1
+Joint life,51-60,1,G42,G42,Advanced disability,Advanced disability (Second Joint Policy),1
+Joint life,51-60,2,G31,G31,Death,Crude death,1
+Joint life,51-60,2,G32,G32,Death,Death (Second Joint Policy),6
+Joint life,61-64,1,G31,G31,Death,Crude death,4
+Joint life,61-64,2,G31,G31,Death,Crude death,3
+Joint life,greater than 64,1,G31,G31,Death,Crude death,5
+Joint life,greater than 64,1,G33,G33,Death,Life&NonLifeDeath/Advanced disability,2
+Joint life,greater than 64,1,G41,G41,Advanced disability,Advanced disability,1
+Joint life,greater than 64,2,G31,G31,Death,Crude death,1
+Joint life,greater than 64,2,G32,G32,Death,Death (Second Joint Policy),2
+Joint life,greater than 64,2,G41,G41,Advanced disability,Advanced disability,1
+Joint life(Flexible),23-30,1,G31,G31,Death,Crude death,1
+Joint life(Flexible),31-40,1,G31,G31,Death,Crude death,6
+Joint life(Flexible),31-40,1,G32,G32,Death,Death (Second Joint Policy),1
+Joint life(Flexible),31-40,2,G31,G31,Death,Crude death,1
+Joint life(Flexible),41-50,1,G31,G31,Death,Crude death,8
+Joint life(Flexible),41-50,1,G32,G32,Death,Death (Second Joint Policy),2
+Joint life(Flexible),41-50,1,G33,G33,Death,Life&NonLifeDeath/Advanced disability,1
+Joint life(Flexible),41-50,2,G31,G31,Death,Crude death,1
+Joint life(Flexible),41-50,2,G32,G32,Death,Death (Second Joint Policy),1
+Joint life(Flexible),51-60,1,G31,G31,Death,Crude death,12
+Joint life(Flexible),51-60,1,G32,G32,Death,Death (Second Joint Policy),1
+Joint life(Flexible),51-60,1,G33,G33,Death,Life&NonLifeDeath/Advanced disability,1
+Joint life(Flexible),51-60,2,G31,G31,Death,Crude death,2
+Joint life(Flexible),61-64,1,G31,G31,Death,Crude death,2
+Joint life(Flexible),61-64,1,G33,G33,Death,Life&NonLifeDeath/Advanced disability,2
+Joint life(Flexible),61-64,2,G31,G31,Death,Crude death,1
+Joint life(Flexible),61-64,2,G33,G33,Death,Life&NonLifeDeath/Advanced disability,2
+Joint life(Flexible),greater than 64,1,G31,G31,Death,Crude death,2
+Joint life(Flexible),greater than 64,1,G33,G33,Death,Life&NonLifeDeath/Advanced disability,4
+Medical,18-22,1,G31,G31,Death,Crude death,184
+Medical,18-22,1,G41,G41,Advanced disability,Advanced disability,1
+Medical,18-22,2,G31,G31,Death,Crude death,103
+Medical,18-22,2,G41,G41,Advanced disability,Advanced disability,2
+Medical,23-30,1,G31,G31,Death,Crude death,628
+Medical,23-30,1,G41,G41,Advanced disability,Advanced disability,7
+Medical,23-30,2,G31,G31,Death,Crude death,416
+Medical,23-30,2,G41,G41,Advanced disability,Advanced disability,2
+Medical,31-40,1,G31,G31,Death,Crude death,1433
+Medical,31-40,1,G36,G36,Death,Termination by Living Needs benefit payout,1
+Medical,31-40,1,G41,G41,Advanced disability,Advanced disability,11
+Medical,31-40,2,G31,G31,Death,Crude death,905
+Medical,31-40,2,G41,G41,Advanced disability,Advanced disability,4
+Medical,41-50,1,G31,G31,Death,Crude death,2385
+Medical,41-50,1,G41,G41,Advanced disability,Advanced disability,31
+Medical,41-50,2,G31,G31,Death,Crude death,1273
+Medical,41-50,2,G36,G36,Death,Termination by Living Needs benefit payout,1
+Medical,41-50,2,G41,G41,Advanced disability,Advanced disability,7
+Medical,51-60,1,G31,G31,Death,Crude death,4205
+Medical,51-60,1,G41,G41,Advanced disability,Advanced disability,33
+Medical,51-60,2,G31,G31,Death,Crude death,1823
+Medical,51-60,2,G41,G41,Advanced disability,Advanced disability,16
+Medical,61-64,1,G31,G31,Death,Crude death,1889
+Medical,61-64,1,G41,G41,Advanced disability,Advanced disability,10
+Medical,61-64,2,G31,G31,Death,Crude death,836
+Medical,61-64,2,G41,G41,Advanced disability,Advanced disability,4
+Medical,greater than 64,1,G31,G31,Death,Crude death,2004
+Medical,greater than 64,1,G41,G41,Advanced disability,Advanced disability,2
+Medical,greater than 64,2,G31,G31,Death,Crude death,1056
+Medical,greater than 64,2,G41,G41,Advanced disability,Advanced disability,1
+M.I.P,18-22,1,G31,G31,Death,Crude death,2
+M.I.P,18-22,1,G41,G41,Advanced disability,Advanced disability,2
+M.I.P,23-30,1,G31,G31,Death,Crude death,82
+M.I.P,23-30,1,G41,G41,Advanced disability,Advanced disability,5
+M.I.P,23-30,2,G31,G31,Death,Crude death,4
+M.I.P,31-40,1,G31,G31,Death,Crude death,305
+M.I.P,31-40,1,G36,G36,Death,Termination by Living Needs benefit payout,1
+M.I.P,31-40,1,G41,G41,Advanced disability,Advanced disability,29
+M.I.P,31-40,2,G31,G31,Death,Crude death,21
+M.I.P,31-40,2,G41,G41,Advanced disability,Advanced disability,2
+M.I.P,41-50,1,G31,G31,Death,Crude death,317
+M.I.P,41-50,1,G36,G36,Death,Termination by Living Needs benefit payout,8
+M.I.P,41-50,1,G41,G41,Advanced disability,Advanced disability,20
+M.I.P,41-50,1,,,,,1
+M.I.P,41-50,2,G31,G31,Death,Crude death,18
+M.I.P,41-50,2,G36,G36,Death,Termination by Living Needs benefit payout,2
+M.I.P,41-50,2,G41,G41,Advanced disability,Advanced disability,1
+M.I.P,41-50,2,,,,,1
+M.I.P,51-60,1,G31,G31,Death,Crude death,194
+M.I.P,51-60,1,G36,G36,Death,Termination by Living Needs benefit payout,4
+M.I.P,51-60,1,G41,G41,Advanced disability,Advanced disability,18
+M.I.P,51-60,1,,,,,2
+M.I.P,51-60,2,G31,G31,Death,Crude death,18
+M.I.P,51-60,2,G36,G36,Death,Termination by Living Needs benefit payout,3
+M.I.P,51-60,2,G41,G41,Advanced disability,Advanced disability,1
+M.I.P,61-64,1,G31,G31,Death,Crude death,37
+M.I.P,61-64,1,G41,G41,Advanced disability,Advanced disability,2
+M.I.P,61-64,2,G31,G31,Death,Crude death,1
+M.I.P,61-64,2,G41,G41,Advanced disability,Advanced disability,1
+M.I.P,greater than 64,1,G31,G31,Death,Crude death,32
+M.I.P,greater than 64,1,G36,G36,Death,Termination by Living Needs benefit payout,2
+M.I.P,greater than 64,1,G41,G41,Advanced disability,Advanced disability,2
+M.I.P,greater than 64,2,G31,G31,Death,Crude death,6
+Nursing care,31-40,1,G31,G31,Death,Crude death,2
+Nursing care,31-40,2,G31,G31,Death,Crude death,4
+Nursing care,41-50,1,G31,G31,Death,Crude death,3
+Nursing care,41-50,2,G31,G31,Death,Crude death,2
+Nursing care,51-60,1,G31,G31,Death,Crude death,33
+Nursing care,51-60,2,G31,G31,Death,Crude death,19
+Nursing care,61-64,1,G31,G31,Death,Crude death,5
+Nursing care,61-64,2,G31,G31,Death,Crude death,10
+Nursing care,61-64,2,G43,G43,Advanced disability,Termination by care benefit payout,1
+Nursing care,greater than 64,1,G31,G31,Death,Crude death,6
+Nursing care,greater than 64,2,G31,G31,Death,Crude death,3
+Term life,18-22,1,G31,G31,Death,Crude death,33
+Term life,18-22,2,G31,G31,Death,Crude death,8
+Term life,23-30,1,G31,G31,Death,Crude death,144
+Term life,23-30,1,G36,G36,Death,Termination by Living Needs benefit payout,1
+Term life,23-30,1,G41,G41,Advanced disability,Advanced disability,8
+Term life,23-30,2,G31,G31,Death,Crude death,30
+Term life,31-40,1,G21,G21,Surrender ,Surrender,1
+Term life,31-40,1,G31,G31,Death,Crude death,878
+Term life,31-40,1,G36,G36,Death,Termination by Living Needs benefit payout,3
+Term life,31-40,1,G41,G41,Advanced disability,Advanced disability,30
+Term life,31-40,2,G31,G31,Death,Crude death,126
+Term life,31-40,2,G36,G36,Death,Termination by Living Needs benefit payout,1
+Term life,31-40,2,G41,G41,Advanced disability,Advanced disability,8
+Term life,41-50,1,G31,G31,Death,Crude death,1796
+Term life,41-50,1,G36,G36,Death,Termination by Living Needs benefit payout,9
+Term life,41-50,1,G41,G41,Advanced disability,Advanced disability,81
+Term life,41-50,2,G31,G31,Death,Crude death,241
+Term life,41-50,2,G36,G36,Death,Termination by Living Needs benefit payout,5
+Term life,41-50,2,G41,G41,Advanced disability,Advanced disability,12
+Term life,51-60,1,G31,G31,Death,Crude death,2461
+Term life,51-60,1,G36,G36,Death,Termination by Living Needs benefit payout,15
+Term life,51-60,1,G41,G41,Advanced disability,Advanced disability,109
+Term life,51-60,1,,,,,2
+Term life,51-60,2,G31,G31,Death,Crude death,483
+Term life,51-60,2,G36,G36,Death,Termination by Living Needs benefit payout,8
+Term life,51-60,2,G41,G41,Advanced disability,Advanced disability,20
+Term life,61-64,1,G31,G31,Death,Crude death,679
+Term life,61-64,1,G36,G36,Death,Termination by Living Needs benefit payout,8
+Term life,61-64,1,G41,G41,Advanced disability,Advanced disability,27
+Term life,61-64,2,G31,G31,Death,Crude death,184
+Term life,61-64,2,G36,G36,Death,Termination by Living Needs benefit payout,3
+Term life,61-64,2,G41,G41,Advanced disability,Advanced disability,13
+Term life,greater than 64,1,G31,G31,Death,Crude death,894
+Term life,greater than 64,1,G36,G36,Death,Termination by Living Needs benefit payout,6
+Term life,greater than 64,1,G41,G41,Advanced disability,Advanced disability,41
+Term life,greater than 64,2,G31,G31,Death,Crude death,351
+Term life,greater than 64,2,G36,G36,Death,Termination by Living Needs benefit payout,5
+Term life,greater than 64,2,G41,G41,Advanced disability,Advanced disability,19
+VL Endowment,18-22,1,G31,G31,Death,Crude death,2
+VL Endowment,18-22,1,G53,G53,Maturity,Maturity (Settled),37
+VL Endowment,18-22,2,G31,G31,Death,Crude death,1
+VL Endowment,18-22,2,G53,G53,Maturity,Maturity (Settled),40
+VL Endowment,23-30,1,G31,G31,Death,Crude death,1
+VL Endowment,23-30,1,G53,G53,Maturity,Maturity (Settled),132
+VL Endowment,23-30,2,G31,G31,Death,Crude death,2
+VL Endowment,23-30,2,G53,G53,Maturity,Maturity (Settled),67
+VL Endowment,31-40,1,G31,G31,Death,Crude death,8
+VL Endowment,31-40,1,G53,G53,Maturity,Maturity (Settled),207
+VL Endowment,31-40,2,G52,G52,Maturity,Maturity (Unsettled),1
+VL Endowment,31-40,2,G53,G53,Maturity,Maturity (Settled),79
+VL Endowment,41-50,1,G31,G31,Death,Crude death,9
+VL Endowment,41-50,1,G53,G53,Maturity,Maturity (Settled),191
+VL Endowment,41-50,2,G31,G31,Death,Crude death,2
+VL Endowment,41-50,2,G53,G53,Maturity,Maturity (Settled),127
+VL Endowment,51-60,1,G31,G31,Death,Crude death,15
+VL Endowment,51-60,1,G41,G41,Advanced disability,Advanced disability,1
+VL Endowment,51-60,1,G53,G53,Maturity,Maturity (Settled),174
+VL Endowment,51-60,2,G31,G31,Death,Crude death,2
+VL Endowment,51-60,2,G53,G53,Maturity,Maturity (Settled),121
+VL Endowment,61-64,1,G31,G31,Death,Crude death,1
+VL Endowment,61-64,1,G53,G53,Maturity,Maturity (Settled),6
+VL Endowment,61-64,2,G31,G31,Death,Crude death,2
+VL Endowment,61-64,2,G53,G53,Maturity,Maturity (Settled),2
+VL Endowment,greater than 64,1,G31,G31,Death,Crude death,1
+VL Endowment,greater than 64,1,G41,G41,Advanced disability,Advanced disability,1
+VL Endowment,greater than 64,1,G53,G53,Maturity,Maturity (Settled),3
+VL Endowment,greater than 64,2,G53,G53,Maturity,Maturity (Settled),3
+VL Whole life,18-22,1,G31,G31,Death,Crude death,3
+VL Whole life,18-22,1,G41,G41,Advanced disability,Advanced disability,1
+VL Whole life,18-22,2,G31,G31,Death,Crude death,2
+VL Whole life,23-30,1,G31,G31,Death,Crude death,16
+VL Whole life,23-30,1,G41,G41,Advanced disability,Advanced disability,1
+VL Whole life,23-30,2,G31,G31,Death,Crude death,4
+VL Whole life,23-30,2,G53,G53,Maturity,Maturity (Settled),2
+VL Whole life,31-40,1,G31,G31,Death,Crude death,47
+VL Whole life,31-40,1,G36,G36,Death,Termination by Living Needs benefit payout,1
+VL Whole life,31-40,1,G41,G41,Advanced disability,Advanced disability,2
+VL Whole life,31-40,1,G52,G52,Maturity,Maturity (Unsettled),1
+VL Whole life,31-40,1,G53,G53,Maturity,Maturity (Settled),5
+VL Whole life,31-40,2,G31,G31,Death,Crude death,16
+VL Whole life,31-40,2,G53,G53,Maturity,Maturity (Settled),1
+VL Whole life,41-50,1,G31,G31,Death,Crude death,83
+VL Whole life,41-50,1,G41,G41,Advanced disability,Advanced disability,4
+VL Whole life,41-50,1,G53,G53,Maturity,Maturity (Settled),2
+VL Whole life,41-50,2,G31,G31,Death,Crude death,23
+VL Whole life,41-50,2,G36,G36,Death,Termination by Living Needs benefit payout,2
+VL Whole life,41-50,2,G41,G41,Advanced disability,Advanced disability,2
+VL Whole life,41-50,2,G53,G53,Maturity,Maturity (Settled),4
+VL Whole life,51-60,1,G31,G31,Death,Crude death,87
+VL Whole life,51-60,1,G36,G36,Death,Termination by Living Needs benefit payout,3
+VL Whole life,51-60,1,G41,G41,Advanced disability,Advanced disability,3
+VL Whole life,51-60,1,G53,G53,Maturity,Maturity (Settled),3
+VL Whole life,51-60,2,G31,G31,Death,Crude death,27
+VL Whole life,51-60,2,G53,G53,Maturity,Maturity (Settled),2
+VL Whole life,61-64,1,G31,G31,Death,Crude death,25
+VL Whole life,61-64,1,G36,G36,Death,Termination by Living Needs benefit payout,3
+VL Whole life,61-64,1,G41,G41,Advanced disability,Advanced disability,3
+VL Whole life,61-64,2,G31,G31,Death,Crude death,13
+VL Whole life,greater than 64,1,G31,G31,Death,Crude death,63
+VL Whole life,greater than 64,1,G41,G41,Advanced disability,Advanced disability,5
+VL Whole life,greater than 64,2,G31,G31,Death,Crude death,42
+VL Whole life,greater than 64,2,G41,G41,Advanced disability,Advanced disability,1
+VL Whole life,greater than 64,2,G53,G53,Maturity,Maturity (Settled),1
+Whole life,18-22,1,G31,G31,Death,Crude death,125
+Whole life,18-22,1,G36,G36,Death,Termination by Living Needs benefit payout,1
+Whole life,18-22,1,G41,G41,Advanced disability,Advanced disability,5
+Whole life,18-22,2,G31,G31,Death,Crude death,33
+Whole life,18-22,2,G41,G41,Advanced disability,Advanced disability,1
+Whole life,23-30,1,G31,G31,Death,Crude death,405
+Whole life,23-30,1,G36,G36,Death,Termination by Living Needs benefit payout,3
+Whole life,23-30,1,G41,G41,Advanced disability,Advanced disability,14
+Whole life,23-30,2,G31,G31,Death,Crude death,115
+Whole life,23-30,2,G41,G41,Advanced disability,Advanced disability,7
+Whole life,31-40,1,G31,G31,Death,Crude death,922
+Whole life,31-40,1,G36,G36,Death,Termination by Living Needs benefit payout,8
+Whole life,31-40,1,G41,G41,Advanced disability,Advanced disability,38
+Whole life,31-40,2,G31,G31,Death,Crude death,257
+Whole life,31-40,2,G36,G36,Death,Termination by Living Needs benefit payout,3
+Whole life,31-40,2,G41,G41,Advanced disability,Advanced disability,11
+Whole life,41-50,1,G31,G31,Death,Crude death,1514
+Whole life,41-50,1,G36,G36,Death,Termination by Living Needs benefit payout,13
+Whole life,41-50,1,G41,G41,Advanced disability,Advanced disability,56
+Whole life,41-50,2,G31,G31,Death,Crude death,596
+Whole life,41-50,2,G36,G36,Death,Termination by Living Needs benefit payout,15
+Whole life,41-50,2,G41,G41,Advanced disability,Advanced disability,13
+Whole life,51-60,1,G31,G31,Death,Crude death,2392
+Whole life,51-60,1,G36,G36,Death,Termination by Living Needs benefit payout,27
+Whole life,51-60,1,G41,G41,Advanced disability,Advanced disability,85
+Whole life,51-60,2,G31,G31,Death,Crude death,908
+Whole life,51-60,2,G36,G36,Death,Termination by Living Needs benefit payout,11
+Whole life,51-60,2,G41,G41,Advanced disability,Advanced disability,16
+Whole life,61-64,1,G31,G31,Death,Crude death,817
+Whole life,61-64,1,G36,G36,Death,Termination by Living Needs benefit payout,5
+Whole life,61-64,1,G41,G41,Advanced disability,Advanced disability,26
+Whole life,61-64,2,G31,G31,Death,Crude death,423
+Whole life,61-64,2,G36,G36,Death,Termination by Living Needs benefit payout,5
+Whole life,61-64,2,G41,G41,Advanced disability,Advanced disability,6
+Whole life,greater than 64,1,G31,G31,Death,Crude death,1629
+Whole life,greater than 64,1,G36,G36,Death,Termination by Living Needs benefit payout,7
+Whole life,greater than 64,1,G41,G41,Advanced disability,Advanced disability,21
+Whole life,greater than 64,2,G31,G31,Death,Crude death,972
+Whole life,greater than 64,2,G36,G36,Death,Termination by Living Needs benefit payout,7
+Whole life,greater than 64,2,G41,G41,Advanced disability,Advanced disability,16

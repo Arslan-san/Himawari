@@ -1,0 +1,34 @@
+---------------------------------------------------------- Rate B ------------------------------------------------------------------
+
+
+
+
+Nominator:
+         
+        
+        select i."Policy Type Name", j."a_group",i."Insured'S Gender",count(*)
+        from "pi_ph_seg_seg2_seg3_insured_new" as i inner join "age_group" as j 
+        on i.age between j."lower_age" and j."upper_age"
+        or (i.age > j."lower_age" and j."lower_age" = 65)
+            
+        where i."Termination  Reason" in ('G31','G32','G33','G34','G35','G36','G37') 
+        or i."Termination  Reason" in ('G41','G42','G43','G44') 
+        or i."Termination  Reason" in ('G52','G53') 
+        or i."Termination  Reason" in ('GA1','GA2') 
+        or i."Reduce Settlement Reason" = 'DA1'
+        
+        group by i."Policy Type Name", j."a_group",i."Insured'S Gender"
+        order by i."Policy Type Name", j."a_group",i."Insured'S Gender"
+        
+ Denominator:       
+ 
+        
+        select i."Policy Type Name", j."a_group",i."Insured'S Gender",count(*)
+        from "pi_ph_seg_seg2_seg3_insured_new" as i inner join "age_group" as j 
+        on i.age between j."lower_age" and j."upper_age"
+        or (i.age > j."lower_age" and j."lower_age" = 65)
+        
+        where i."Termination  Reason" is not null
+                    
+        group by i."Policy Type Name", j."a_group",i."Insured'S Gender"
+        order by i."Policy Type Name", j."a_group",i."Insured'S Gender"
