@@ -1,0 +1,42 @@
+select * from "pi_ph_seg_seg2_seg3"
+where "seg_SHID_2" = '127744'
+
+
+select * from "Insured"
+where "i_SHID_2" = '127744'
+
+
+select * from "seg2"
+where "seg2_SHID_2" = '127744'
+
+
+
+select "LatestPolicyType_01","Policy Type Name","pi_SHID_2","Insured'S Gender","issuedDate","pi_birthDate","LatestAdditionalAge_01","age_according_to_issued","APL Number of LOAN","APL Number of Payment","APL Cumulative Balance","TotalP_1" 
+from "pi_ph_seg_seg2_seg3" limit 1000
+
+
+
+select count(*) from "pi_ph_seg_seg2_seg3" 
+where EXTRACT(Year FROM "age_according_to_issued")::int < 0 or 
+	EXTRACT(Year FROM "age_according_to_issued")::int = 0 or 
+	EXTRACT(Month FROM "age_according_to_issued")::int < 0 or
+	EXTRACT(Month FROM "age_according_to_issued")::int = 0 or
+	EXTRACT(Day FROM "age_according_to_issued")::int < 0 or
+	EXTRACT(Day FROM "age_according_to_issued")::int = 
+
+
+
+
+
+
+select * from "seg2"
+where "seg2_SHID_2" = '1000839'
+
+
+
+select * from "Insured"
+where "i_SHID_2" = '1000839'
+
+
+select "age_according_to_issued" from "pi_ph_seg_seg2_seg3"
+where "seg2_SHID_2" = '1000839'

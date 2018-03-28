@@ -1,0 +1,72 @@
+﻿SELECT column_name
+FROM information_schema.columns
+WHERE table_schema = 'public'
+  AND table_name   = 'Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG'
+
+
+
+select "SHID_2" from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG"
+where (CAST ( replace("SHID_2",'"','') AS INTEGER)) as id   = 129264
+
+
+select * from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG"
+where "SHID_2" = '129264.0'
+
+select "Policy Loan Number of LOAN","Policy LoanKB" from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG" limit 500 ;
+
+select * from "IF01_I_016_PolicyMaSter_InsuredSEG"
+where "SHID_2" = '2494698'
+
+select * from "if01_i_014_policymaster_policyholderseg"
+where "SHID_2" = '2494698'
+
+select count(*) from (
+
+select * from "if01_i_014_policymaster_policyholderseg"
+
+union
+
+select * from "IF01_I_016_PolicyMaSter_InsuredSEG_new"
+
+)q1
+
+select distinct("APL Number of LOAN") from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG"
+
+create table "IF01_I_016_PolicyMaSter_InsuredSEG_new" as
+(
+	select replace("Insured'S Gender",'"','') as "Insured'S Gender", replace("Insured'S BirthYear",'"','') as "Insured'S BirthYear", replace("Insured'S BirthMonth",'"','') as "Insured'S BirthMonth",
+	replace("Insured'S BirthDay",'"','') as "Insured'S BirthDay",replace("SHID_2",'"','') as "SHID_2"
+	from "IF01_I_016_PolicyMaSter_InsuredSEG"
+)
+
+ALTER TABLE "IF01_I_016_PolicyMaSter_InsuredSEG_new"
+ALTER COLUMN "Insured'S Gender" TYPE character varying(200);
+
+ALTER TABLE "IF01_I_016_PolicyMaSter_InsuredSEG_new"
+ALTER COLUMN "Insured'S BirthYear" TYPE character varying(200);
+
+ALTER TABLE "IF01_I_016_PolicyMaSter_InsuredSEG_new"
+ALTER COLUMN "Insured'S BirthMonth" TYPE character varying(200);
+
+ALTER TABLE "IF01_I_016_PolicyMaSter_InsuredSEG_new"
+ALTER COLUMN "Insured'S BirthDay" TYPE character varying(200);
+
+ALTER TABLE "IF01_I_016_PolicyMaSter_InsuredSEG_new"
+ALTER COLUMN "SHID_2" TYPE character varying(200);
+
+select count(*) from "IF01_I_016_PolicyMaSter_InsuredSEG_new";
+
+
+--replace("Insured'S Gender",'"',''), replace("Insured'S BirthYear",'"',''), replace("Insured'S BirthMonth",'"',''), replace("Insured'S BirthDay",'"',''),replace("SHID_2",'"',''),
+
+--where "APL Number of LOAN" = '4.0'
+
+
+-- select * from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG"
+-- where 129264 in (
+-- 
+-- select cast(replace((split_part("SHID_2",'.',1)),'"','')as integer) as id  from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG" limit 10
+-- 
+-- )
+
+

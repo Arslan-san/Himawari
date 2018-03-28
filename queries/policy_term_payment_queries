@@ -1,0 +1,29 @@
+﻿Alter table "pi_ph_seg_seg2_seg3_holder"
+add column "policy_t_year" int,
+add column "policy_t_age" int,
+add column "payment_t_year" int,
+add column"payment_t_age" int 
+
+
+update "pi_ph_seg_seg2_seg3_holder"
+set "policy_t_age" = split_part("LatestPolicyTerm_01",'.',1)::int,
+    "payment_t_age" = split_part("LatestPaymentTerm_01",'.',1)::int,
+    "policy_t_year" = 0,
+    "payment_t_year" = 0    
+where substring(split_part("LatestAgeKB_01",'.',1) from 1 for 1) = '1' and substring(split_part("LatestAgeKB_01",'.',1) from 2 for 1) = '1' and length(split_part("LatestAgeKB_01",'.',1)) = 2
+
+
+
+update "pi_ph_seg_seg2_seg3_holder"
+set "policy_t_age" = split_part("LatestPolicyTerm_01",'.',1)::int,
+    "payment_t_year" = split_part("LatestPaymentTerm_01",'.',1)::int,
+    "policy_t_year" = 0,
+    "payment_t_age" = 0
+where substring(split_part("LatestAgeKB_01",'.',1) from 1 for 1) = '1' and substring(split_part("LatestAgeKB_01",'.',1) from 2 for 1) = '0' and length(split_part("LatestAgeKB_01",'.',1)) = 2
+
+update "pi_ph_seg_seg2_seg3_holder"
+set "policy_t_year" = split_part("LatestPolicyTerm_01",'.',1)::int,
+    "payment_t_year" = split_part("LatestPaymentTerm_01",'.',1)::int,
+    "policy_t_age" = 0,
+    "payment_t_age" = 0    
+where substring(split_part("LatestAgeKB_01",'.',1) from 1 for 1) = '0' and length(split_part("LatestAgeKB_01",'.',1)) = 1

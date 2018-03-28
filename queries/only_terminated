@@ -1,0 +1,287 @@
+﻿
+
+select from "if01_i_013_policymaster_policybasedseg2" as i inner join "IF01_I_016_PolicyMaSter_InsuredSEG" as j on i."seg2_SHID_2" = j."SHID_2"
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+create table "proper_dates_with_age_column" as 
+(
+	select j.*,q.*,age("issuedDate"::timestamp,"birthDate"::timestamp) as "age_according_to_issued", case when "terminationDate" = '0' then '00:00:00' else age("terminationDate"::timestamp,"birthDate"::timestamp) end as "age_according_to_termination"  from
+
+	(
+
+		select "issuedDate", "terminationDate", "birthDate", "seg2_SHID_2" from 
+
+		(
+
+			select concat(issued_year,'-',issued_month,'-',issued_day) as "issuedDate", 
+			case when concat(termination_year,'-',termination_month,'-',termination_day) = '0--' then '0' else concat(termination_year,'-',termination_month,'-',termination_day) end as "terminationDate",q."seg2_SHID_2" from 
+
+				(
+					select substring(split_part("issuedYMD",'.',1) from 1 for 4) as issued_year,
+						substring(split_part("issuedYMD",'.',1) from 5 for 2) as issued_month,
+						substring(split_part("issuedYMD",'.',1) from 7 for 2) as issued_day,
+
+						substring(split_part("Termination Effective DateYMD",'.',1) from 1 for 4) as termination_year,
+						substring(split_part("Termination Effective DateYMD",'.',1) from 5 for 2) as termination_month,
+						substring(split_part("Termination Effective DateYMD",'.',1) from 7 for 2) as termination_day,
+						"seg2_SHID_2" 
+					 
+						from "if01_i_013_policymaster_policybasedseg2" 
+				) as q inner join "if01_i_013_policymaster_policybasedseg2" on "if01_i_013_policymaster_policybasedseg2"."seg2_SHID_2" = q."seg2_SHID_2"
+
+		) as q inner join "IF01_I_016_PolicyMaSter_InsuredSEG" on q."seg2_SHID_2" = "IF01_I_016_PolicyMaSter_InsuredSEG"."SHID_2" 
+
+	) as q inner join "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG" as j on j."seg_SHID_2" = q."seg2_SHID_2"
+
+)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+create table "age_between_18_22_male" as
+(
+	select * from "pi_ph_seg_seg2_seg3" as j 
+	where EXTRACT(YEAR FROM j."age_according_to_issued")::int >= 18 and EXTRACT(YEAR FROM j."age_according_to_issued")::int <= 22 and j."Insured'S Gender" = '1'
+)
+
+create table "age_between_18_22_female" as
+(
+	select * from "pi_ph_seg_seg2_seg3" as j 
+	where EXTRACT(YEAR FROM j."age_according_to_issued")::int >= 18 and EXTRACT(YEAR FROM j."age_according_to_issued")::int <= 22 and j."Insured'S Gender" = '2'
+)
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+create table "with_termination_male" as
+(
+	select "Policy Type Name",sum(count) as "only_termination_sum"  from 
+	(
+		select "LatestPolicyType_01","Policy Type Name",count(*) from 
+		(
+			select * from "pi_ph_seg_seg2_seg3"
+			where "Termination  Reason" is not NULL and EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 
+			and EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 
+			and "Insured'S Gender" = '1'
+		)as q group by q."LatestPolicyType_01",q."Policy Type Name" 
+		
+	) as q GROUP BY "Policy Type Name"
+)
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+create table "with_withOut_termination_male" as
+(
+	select "Policy Type Name",sum(count) as "with_and_withOut_termination_sum"  from 
+	(
+		select "LatestPolicyType_01","Policy Type Name",count(*) from 
+		(
+			select * from "pi_ph_seg_seg2_seg3"
+			where EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 
+			and EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 
+			and "Insured'S Gender" = '1'
+		)as q group by q."LatestPolicyType_01",q."Policy Type Name" 
+		
+	) as q GROUP BY "Policy Type Name"
+)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+select "Policy Type Name",sum(count) as "only_termination_sum"  from 
+	(
+		select "LatestPolicyType_01","Policy Type Name",count(*) from 
+		(
+			select * from "pi_ph_seg_seg2_seg3"
+			where "Termination  Reason" is not NULL and EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 
+			and EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 
+			and "Insured'S Gender" = '2'
+		)as q group by q."LatestPolicyType_01",q."Policy Type Name" 
+		
+	) as q GROUP BY "Policy Type Name"
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+select "Policy Type Name",sum(count) as "with_and_withOut_termination_sum"  from 
+	(
+		select "LatestPolicyType_01","Policy Type Name",count(*) from 
+		(
+			select * from "pi_ph_seg_seg2_seg3"
+			where EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 
+			and EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 
+			and "Insured'S Gender" = '2'
+		)as q group by q."LatestPolicyType_01",q."Policy Type Name" 
+		
+	) as q GROUP BY "Policy Type Name"
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+-- create table "pi_ph_seg_seg2_seg3" as
+-- (
+-- 	select *, age(j."issuedDate"::timestamp,j."birthDate"::timestamp) as "age_according_to_issued", case when j."terminationDate" = '0' then '00:00:00' else age(j."terminationDate"::timestamp,j."birthDate"::timestamp) end as "age_according_to_termination"
+-- 	from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG" as i inner join "if01_i_013_policymaster_policybasedseg2" as j on i."seg_SHID_2" = j."seg2_SHID_2"
+-- 	inner join "ph_pi" as k on  i."seg_SHID_2" = k."ph_SHID_2" inner join "if01_i_013_policymaster_policybasedseg3" as m on j."seg2_SHID_2" = m."seg3_SHID_2"
+-- -- 	inner join "Policy Type Code" on "Policy Type" = i."LatestPolicyType_01"
+-- -- 	inner join "TerminationCode" on "merge_reason_code" = j."Termination  Reason"
+-- 	
+-- )
+-- 
+-- create table "pi_ph_seg_seg2_seg3_new" as
+-- (
+-- 	select * from "pi_ph_seg_seg2_seg3" as i inner join "Policy Type Code" as j on j."Policy Type" = i."LatestPolicyType_01" left join "TerminationCode" on "merge_reason_code" = i."Termination  Reason"
+-- )
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+-- select * from "with_withOut_termination" as i, "with_termination" as j
+-- where i."Policy Type Name" = j."Policy Type Name"
+-- 
+-- 
+-- Alter table "proper_dates_with_age_column"
+-- drop column "seg_SHID_2",
+-- drop column "seg2_SHID_2";
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+create table "APL_Cumulative_Balance_statistics" as 
+(
+	select "Policy Type Name",
+		count(split_part("APL Cumulative Balance",'.',1)::int)as "APL Cumulative Balance Count",
+		sum(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance SUM",
+		avg(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance average",
+		min(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance MIN",
+		max(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance MAX",
+		percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Cumulative Balance",'.',1)::int ,0)) as "APL Cumulative Balance Median",
+		mode() within group (order by NULLIF(split_part("APL Cumulative Balance",'.',1)::int, 0)) as "APL Cumulative Balance Mode"
+	from "pi_ph_seg_seg2_seg3"
+
+	where "Termination  Reason" is not NULL and 
+		EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and 
+		EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and 
+		"Insured'S Gender" = '1' --and split_part("APL Number of LOAN",'.',1)::int > 3
+	group by "Policy Type Name"
+)
+
+create table "APL_Cumulative_Balance_statistics" as 
+(
+	select "Policy Type Name",
+		count(	)as "APL Cumulative Balance Count",
+		sum(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance SUM",
+		avg(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance average",
+		min(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance MIN",
+		max(split_part("APL Cumulative Balance",'.',1)::int) as "APL Cumulative Balance MAX",
+		percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Cumulative Balance",'.',1)::int ,0)) as "APL Cumulative Balance Median",
+		mode() within group (order by NULLIF(split_part("APL Cumulative Balance",'.',1)::int, 0)) as "APL Cumulative Balance Mode"
+	from "pi_ph_seg_seg2_seg3"
+
+	where "Termination  Reason" is not NULL and 
+		EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and 
+		EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and 
+		"Insured'S Gender" = '2'
+	group by "Policy Type Name"
+)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+select "Policy Type Name",
+	sum(split_part("TotalP_1",'.',1)::int) as "TotalP_1 SUM",
+	avg(split_part("TotalP_1",'.',1)::int) as "TotalP_1 average",
+	min(split_part("TotalP_1",'.',1)::int) as "TotalP_1 MIN",
+	max(split_part("TotalP_1",'.',1)::int) as "TotalP_1 MAX",
+	percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("TotalP_1",'.',1)::int ,0)) as "TotalP_1 Median",
+	mode() within group (order by NULLIF(split_part("TotalP_1",'.',1)::int, 0)) as "TotalP_1 Mode"
+from "pi_ph_seg_seg2_seg3"
+
+where "Termination  Reason" is not NULL and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and 
+	"Insured'S Gender" = '1'
+group by "Policy Type Name"
+
+
+
+select "Policy Type Name",
+	sum(split_part("TotalP_1",'.',1)::int) as "TotalP_1 SUM",
+	avg(split_part("TotalP_1",'.',1)::int) as "TotalP_1 average",
+	min(split_part("TotalP_1",'.',1)::int) as "TotalP_1 MIN",
+	max(split_part("TotalP_1",'.',1)::int) as "TotalP_1 MAX",
+	percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("TotalP_1",'.',1)::int ,0)) as "TotalP_1 Median",
+	mode() within group (order by NULLIF(split_part("TotalP_1",'.',1)::int, 0)) as "TotalP_1 Mode"
+from "pi_ph_seg_seg2_seg3"
+
+where "Termination  Reason" is not NULL and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and 
+	"Insured'S Gender" = '2'
+group by "Policy Type Name"
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+select "Policy Type Name",
+	count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+	sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+	avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+	min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+	max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+	percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+	mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode"
+from "pi_ph_seg_seg2_seg3"
+
+where "Termination  Reason" is not NULL and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and 
+	"Insured'S Gender" = '1'
+group by "Policy Type Name"
+
+select "Policy Type Name",
+	count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+	sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+	avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+	min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+	max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+	percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+	mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode"
+from "pi_ph_seg_seg2_seg3"
+
+where "Termination  Reason" is not NULL and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and 
+	EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and 
+	"Insured'S Gender" = '2'
+group by "Policy Type Name"
+
+select distinct split_part("APL Number of LOAN",'.',1)::int from "pi_ph_seg_seg2_seg3" order by split_part("APL Number of LOAN",'.',1)::int;
+
+------------------------------------------------------------------------------------------------------------------------------------
+-- Confirmation of mode
+
+select count(distinct("APL Cumulative Balance")) from 
+
+(
+	select * from "pi_ph_seg_seg2_seg3"
+	where EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and "Insured'S Gender" = '1'
+
+)q where "Policy Type Name" = 'Whole life' and "APL Cumulative Balance" != '0.0'
+
+
+select "APL Cumulative Balance","Policy Type Name" from 
+
+(
+	select * from "pi_ph_seg_seg2_seg3"
+	where EXTRACT(YEAR FROM "age_according_to_issued")::int >= 18 and EXTRACT(YEAR FROM "age_according_to_issued")::int <= 22 and "Insured'S Gender" = '1'
+
+)q where "Policy Type Name" = 'Whole life' and "APL Cumulative Balance" != '0.0' order by split_part("APL Cumulative Balance",'.',1)::int
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+select "seg_SHID_2","age_according_to_issued",EXTRACT(YEAR FROM "age_according_to_issued")::int from "pi_ph_seg_seg2_seg3" order by "seg_SHID_2"::int limit 500;
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,265 @@
+﻿------------------------------------------------------------------For age 61-64------------------------------------------------------------------------
+
+(
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '1' as "gender",
+    '61-64' as "age"
+    
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 61 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 64 and 
+    "Policyholder'S_Gender" = '1'
+group by "Policy Type Name" 
+
+union
+
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '2' as "gender",
+    '61-64' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 61 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 64 and 
+    "Policyholder'S_Gender" = '2'
+group by "Policy Type Name")
+
+------------------------------------------------------------------For age 51-60------------------------------------------------------------------------
+
+union
+
+(select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '1' as "gender",
+    '51-60' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 51 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 60 and 
+    "Policyholder'S_Gender" = '1'
+group by "Policy Type Name" 
+
+union
+
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '2' as "gender",
+    '51-60' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 50 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 60 and 
+    "Policyholder'S_Gender" = '2'
+group by "Policy Type Name" )
+
+------------------------------------------------------------------For age 41-50------------------------------------------------------------------------
+
+
+union
+
+(
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '1' as "gender",
+    '41-50' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 41 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 50 and 
+    "Policyholder'S_Gender" = '1'
+group by "Policy Type Name" 
+
+union
+
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '2' as "gender",
+    '41-50' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 41 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 50 and 
+    "Policyholder'S_Gender" = '2'
+group by "Policy Type Name" 
+)
+
+------------------------------------------------------------------For age 31-40------------------------------------------------------------------------
+
+union
+
+(
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '1' as "gender",
+    '31-40' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 31 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 40 and 
+    "Policyholder'S_Gender" = '1'
+group by "Policy Type Name" 
+
+union
+
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '2' as "gender",
+    '31-40' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 31 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 40 and 
+    "Policyholder'S_Gender" = '2'
+group by "Policy Type Name" 
+)
+
+------------------------------------------------------------------For age 23-30------------------------------------------------------------------------
+
+union
+
+(
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '1' as "gender",
+    '23-30' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 23 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 30 and 
+    "Policyholder'S_Gender" = '1'
+group by "Policy Type Name" 
+
+union
+
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '2' as "gender",
+    '23-30' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 23 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 30 and 
+    "Policyholder'S_Gender" = '2'
+group by "Policy Type Name" 
+)
+
+------------------------------------------------------------------For age 18-22------------------------------------------------------------------------
+
+union
+
+(
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '1' as "gender",
+    '18-22' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 18 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 22 and 
+    "Policyholder'S_Gender" = '1'
+group by "Policy Type Name" 
+
+union
+
+select "Policy Type Name",
+    count(split_part("APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+    sum(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+    avg(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average",
+    min(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MIN",
+    max(split_part("APL Number of LOAN",'.',1)::int) as "APL Number of LOAN MAX",
+    percentile_cont(0.5)WITHIN group(order by NULLIF(split_part("APL Number of LOAN",'.',1)::int ,0)) as "APL Number of LOAN Median",
+    mode() within group (order by NULLIF(split_part("APL Number of LOAN",'.',1)::int, 0)) as "APL Number of LOAN Mode",
+    '2' as "gender",
+    '18-22' as "age"
+
+from "pi_ph_seg_seg2_seg3_new"
+where "Termination  Reason" is not NULL and 
+    EXTRACT(YEAR FROM "holder_age")::int >= 18 and 
+    EXTRACT(YEAR FROM "holder_age")::int <= 22 and 
+    "Policyholder'S_Gender" = '2'
+group by "Policy Type Name" 
+)
+
+
+
+
+

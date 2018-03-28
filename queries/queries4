@@ -1,0 +1,76 @@
+﻿
+create table "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG_new" as
+(
+	select *,split_part("SHID_2",'.',1) as "SHID_2_new" from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG"
+)
+
+Alter table "age_between_18_22"
+drop column "age";
+
+
+
+ALTER TABLE "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG"
+ALTER COLUMN "SHID_2" TYPE character varying(200);
+
+create table "age_between_18_22" as
+(
+	select i.*,j.* from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG" as i 
+	inner join "if01_i_013_policymaster_policybasedseg2" as j on i."seg_SHID_2" = j."seg2_SHID_2" 
+	where EXTRACT(YEAR FROM j.age)::int >= 18 and EXTRACT(YEAR FROM j.age)::int <= 22
+)
+
+
+
+
+
+-------------------------------------------------------------------------------------------------
+
+create table "with_termination" as
+
+(
+
+	select "Policy Type Name",sum(count) as "only_termination_sum"  from 
+	(
+		select "LatestPolicyType_01",count(*) from 
+
+		(
+			select * from "age_between_18_22"
+			where "Termination  Reason" is not NULL
+		)as i
+		group by i."LatestPolicyType_01" 
+	) as q inner join "Policy Type Code" as j on q."LatestPolicyType_01" = j."Policy Type"
+
+	GROUP BY "Policy Type Name"
+
+)
+
+
+
+create table "with_withOut_termination" as
+(
+	select "Policy Type Name",sum(count) as "with_withOut_termination_sum"  from 
+	(
+		select "LatestPolicyType_01",count(*) from "age_between_18_22" 
+		group by "LatestPolicyType_01"
+	) as q inner join "Policy Type Code" as j on q."LatestPolicyType_01" = j."Policy Type"
+
+	GROUP BY "Policy Type Name"
+)
+
+select * from "if01_i_013_policymaster_policybasedseg2"
+ where "seg2_SHID_2" = '2071857';
+
+-------------------------------------------------------------------------------------------------
+
+select *, from "with_withOut_termination", "with_termination"
+
+
+select * from "Policy Type Code"
+where "Policy Type" = '181'
+
+--where j."age" >= 18 and j."age" <= 22:: ;
+
+
+SELECT EXTRACT(YEAR FROM age)::int as age_year FROM "if01_i_013_policymaster_policybasedseg2" limit 10;
+
+select * 

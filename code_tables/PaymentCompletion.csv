@@ -1,0 +1,8 @@
+pc_Area,pc_Type,pc_Reason_Code,pc_unnamed,pc_Details,pc_merge_reason_code
+Payment (=Premium Payment) Completion,Payment Completion,F1,1,Payment Completion Insurance,F11
+Payment (=Premium Payment) Completion,Payment Completion,F1,2,Payment Completion Whole Life Insurance,F12
+Payment (=Premium Payment) Completion,Payment  Extended,F2,1,Payment Extended Insurance,F21
+Payment (=Premium Payment) Completion,Payment  Extended,F2,2,Auto Payment Extended Insurance,F22
+Payment (=Premium Payment) Completion,Base Policy Payment Completion,F5,1,Limited Pay(ment)  ,F51
+Payment (=Premium Payment) Completion,Base Policy Payment Completion,F5,2,Continuous Premium ,F52
+Payment (=Premium Payment) Completion,Base Policy Payment Completion,F5,3,Lump Sum Premium Completion ,F53

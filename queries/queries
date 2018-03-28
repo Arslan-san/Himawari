@@ -1,0 +1,78 @@
+--where "Insured'S BirthYear" 
+
+
+SELECT column_name
+FROM information_schema.columns
+WHERE table_schema = 'public'
+  AND table_name   = 'IF01_I_013_PolicyMaSter_PolicybasedSEG_000'
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+select count(*) from "IF01_I_016_PolicyMaSter_InsuredSEG"; 
+
+select min(CAST ( "SHID_2" AS INTEGER)),max(CAST ( "SHID_2" AS INTEGER)) from "IF01_I_016_PolicyMaSter_InsuredSEG";
+
+select min(CAST ( replace("Insured'S BirthYear",'"','')  AS INTEGER)),max(CAST ( replace("Insured'S BirthYear",'"','')  AS INTEGER)) from "IF01_I_016_PolicyMaSter_InsuredSEG";
+
+select min(CAST ( replace("Insured'S BirthMonth",'"','') AS INTEGER)),max(CAST ( replace("Insured'S BirthMonth",'"','') AS INTEGER)) from "IF01_I_016_PolicyMaSter_InsuredSEG";
+
+select min(CAST ( replace("Insured'S BirthDay",'"','') AS INTEGER)),max(CAST ( replace("Insured'S BirthDay",'"','') AS INTEGER)) from "IF01_I_016_PolicyMaSter_InsuredSEG";
+
+
+select replace("Insured'S BirthYear",'"','') as year,count(*) from "IF01_I_016_PolicyMaSter_InsuredSEG"
+group by "Insured'S BirthYear"
+order by year
+
+
+select replace("Insured'S BirthYear",'"','') as year,replace("Insured'S BirthMonth",'"','') as month,count(*) from "IF01_I_016_PolicyMaSter_InsuredSEG"
+group by "Insured'S BirthYear","Insured'S BirthMonth"
+order by year,month
+
+
+select replace("Insured'S BirthYear",'"','') as year,replace("Insured'S BirthMonth",'"','') as month,replace("Insured'S BirthDay",'"','') as day,count(*) from "IF01_I_016_PolicyMaSter_InsuredSEG"
+group by "Insured'S BirthYear","Insured'S BirthMonth","Insured'S BirthDay"
+order by year,month,day
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+select * from "IF01_I_013_PolicyMaSter_PolicybasedSEG_000" limit 1;
+
+select count(*) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_000";
+select count(*) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_001";
+select count(*) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_002";
+select count(*) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_003";
+
+select min(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)), max(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_000" limit 1;
+
+select min(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)), max(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_001" limit 1;
+
+select min(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)), max(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_002" limit 1;
+
+select min(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)), max(cast(replace((split_part("SHID_2",'.',1)),'"','')as integer)) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_003" limit 1;
+
+
+select "LatestAdditionalAge_03",count(*) from "IF01_I_013_PolicyMaSter_PolicybasedSEG_000"
+group by "LatestAdditionalAge_03"
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+select * from "IF01_I_015_PolicyMaSter_Contact AddressSEG" limit 10;
+
+select count(*) from "IF01_I_015_PolicyMaSter_Contact AddressSEG";
+
+select min(CAST ( "SHID_2" AS INTEGER)),max(CAST ( "SHID_2" AS INTEGER)) from "IF01_I_015_PolicyMaSter_Contact AddressSEG"
+order by max desc
+limit 10;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+create table "IF01_I_013_PolicyMaSter_PolicybasedSEG" as
+(
+	select * from "IF01_I_013_PolicyMaSter_PolicybasedSEG_000"
+	union
+	select * from "IF01_I_013_PolicyMaSter_PolicybasedSEG_001"
+	union
+	select * from "IF01_I_013_PolicyMaSter_PolicybasedSEG_002"
+	union
+	select * from "IF01_I_013_PolicyMaSter_PolicybasedSEG_003"
+)
+
+

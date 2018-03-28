@@ -1,0 +1,116 @@
+﻿alter table "pi_ph_seg_seg2_seg3_holder" add column "insurance_duration" int;
+
+
+select age("terminationDate"::timestamp,"issuedDate"::timestamp) from "pi_ph_seg_seg2_seg3_holder"
+where "h_SHID_2" = 2790207
+
+update "pi_ph_seg_seg2_seg3_holder"
+set "insurance_duration" = case when "terminationDate" = '0' then '0' else Extract (Year from (age("terminationDate"::timestamp,"issuedDate"::timestamp))) end
+
+
+
+select i."Policy Type Name", j."a_group",i."Policyholder'S_Gender",
+     count(*) as "count"  
+from "pi_ph_seg_seg2_seg3_holder" as i inner join "age_group" as j 
+on i.age between j."lower_age" and j."upper_age"
+or (i.age > j."lower_age" and j."lower_age" = 65)
+--where --i."Termination  Reason" is not NULL and "Type" = 'Surrender '
+group by i."Policy Type Name", j."a_group",i."Policyholder'S_Gender"
+order by i."Policy Type Name", j."a_group",i."Policyholder'S_Gender"
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where  "Termination  Reason" is not null --"Type" != 'Surrender ' 
+and "Policy Type Name" = 'M.I.P' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where  "Policy Type Name" = 'Juvenile' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where  "Type" = 'Surrender ' 
+and "Policy Type Name" = 'Juvenile' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Type" != 'Surrender ' 
+and "Policy Type Name" = 'J.M.I.P' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is null 
+and "Policy Type Name" = 'Cancer' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is not null and "Type" = 'Surrender ' 
+and "Policy Type Name" = 'Cancer' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+--------------------------------------------------------------------------------------------------------------
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where age <= 17 -- and "Type" = 'Surrender ' and age < 18
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is  not null and "Type" = 'Surrender ' and age > 17
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is  not null and age > 17
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is null and age > 17 -- and "Type" = 'Surrender ' and age < 18
+
+
+--select (3112755 + 975658) + (1673808) + (2273637 - 1673808)
+
+--select (2273637 - 1673808)
+
+
+select "Termination  Reason", "Type", count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is null 
+group by "Termination  Reason", "Type"
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+select count(*) from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is null 
+and "Policy Type Name" = 'Whole life' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+
+
+select split_part("LatestP_01",'.',1)::int from "pi_ph_seg_seg2_seg3_holder"
+where "Termination  Reason" is not null and "Type" = 'Surrender ' 
+and "Policy Type Name" = 'Whole life' 
+and "Policyholder'S_Gender" = '1'
+and (age >= 18 and age <= 22)
+
+

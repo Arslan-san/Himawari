@@ -1,0 +1,206 @@
+﻿
+---------------------------------------------------------- holder_age_according_to_issued_date -----------------------------------------------------------
+
+create table "pi_ph_seg_seg2_seg3_holder_new" as 
+(
+	select q.*, case when "holder_age" = '00:00:00' then 0 else Extract (YEAR FROM ("holder_age")) end as "age" from 
+	(
+
+
+		select k.*,q.*,i.*,j.*,l.*,m.*,n.*,o.*,p.*,a.*, case when "h_birthDate" = '0' then '0' else age("issuedDate"::timestamp,"h_birthDate"::timestamp) end as "holder_age" from
+
+		( 
+			select q.*,concat(issued_year,'-',issued_month,'-',issued_day) as "issuedDate", 
+			case when concat("Policyholder'S BirthYear" , '-', "Policyholder'S BirthMonth" , '-', "Policyholder'S_BirthDay") = '0-0-0' then '0' else concat("Policyholder'S BirthYear" , '-', "Policyholder'S BirthMonth" , '-', "Policyholder'S_BirthDay") end as "h_birthDate" ,
+			case when concat(termination_year,'-',termination_month,'-',termination_day) = '0--' then '0' else concat(termination_year,'-',termination_month,'-',termination_day) end as "terminationDate","holder".* from 
+
+				(
+					select "seg2".*, substring("issuedYMD" from 1 for 4) as issued_year,
+						substring(split_part("issuedYMD",'.',1) from 5 for 2) as issued_month,
+						substring(split_part("issuedYMD",'.',1) from 7 for 2) as issued_day,
+
+						substring(split_part("Termination Effective DateYMD",'.',1) from 1 for 4) as termination_year,
+						substring(split_part("Termination Effective DateYMD",'.',1) from 5 for 2) as termination_month,
+						substring(split_part("Termination Effective DateYMD",'.',1) from 7 for 2) as termination_day			
+					 
+						from "seg2" -- limit 500
+				) as q inner join "seg2" on "seg2"."seg2_SHID_2" = q."seg2_SHID_2" inner join "holder" on "holder"."h_SHID_2" = q."seg2_SHID_2" -- limit 500
+
+		) as q inner join "Insured" as i on i."i_SHID_2" = q."h_SHID_2" 
+			inner join "seg3" as j on j."seg3_SHID_2" =  q."h_SHID_2" 
+			inner join "merged" as k on split_part(k."seg_SHID_2",'.',1)::int =  q."h_SHID_2" 
+			left join "policy_type" as l on l."Policy Type" = k."LatestPolicyType_01"
+			left join "termination_type" as m on m."merge_reason_code" = q."Termination  Reason" 	
+			left join "address" as n on n."SHID_2" = q."h_SHID_2"
+			left join "perfecture_address" as o on o."japanese_name" = n."address_name" -- limit 500
+			left join "application_codes" as p on p."application_code" = q."application Channel"
+			left join "check_up" as a on a."check_up_code" = q."CheckupKBfirst"
+	) as q
+)
+
+
+
+---------------------------------------------------------- holder_age_according_to_current_date -----------------------------------------------------------
+
+create table "pi_ph_seg_seg2_seg3_holder_curr_age" as
+(
+	select k.*,q.*,i.*,j.*,l.*,m.*, case when "h_birthDate" = '0' then '0' else age(timestamp '2018-03-30',"h_birthDate"::timestamp) end as "holder_curr_age" from
+
+	( 
+		select q.*,concat(issued_year,'-',issued_month,'-',issued_day) as "issuedDate", 
+		case when concat("Policyholder'S BirthYear" , '-', "Policyholder'S BirthMonth" , '-', "Policyholder'S_BirthDay") = '0-0-0' then '0' else concat("Policyholder'S BirthYear" , '-', "Policyholder'S BirthMonth" , '-', "Policyholder'S_BirthDay") end as "h_birthDate" ,
+		case when concat(termination_year,'-',termination_month,'-',termination_day) = '0--' then '0' else concat(termination_year,'-',termination_month,'-',termination_day) end as "terminationDate","holder".* from 
+
+			(
+				select "seg2".*, substring("issuedYMD" from 1 for 4) as issued_year,
+					substring(split_part("issuedYMD",'.',1) from 5 for 2) as issued_month,
+					substring(split_part("issuedYMD",'.',1) from 7 for 2) as issued_day,
+
+					substring(split_part("Termination Effective DateYMD",'.',1) from 1 for 4) as termination_year,
+					substring(split_part("Termination Effective DateYMD",'.',1) from 5 for 2) as termination_month,
+					substring(split_part("Termination Effective DateYMD",'.',1) from 7 for 2) as termination_day			
+				 
+					from "seg2" -- limit 500
+			) as q inner join "seg2" on "seg2"."seg2_SHID_2" = q."seg2_SHID_2" inner join "holder" on "holder"."h_SHID_2" = q."seg2_SHID_2" -- limit 500
+
+	) as q inner join "Insured" as i on i."i_SHID_2" = q."h_SHID_2" 
+		inner join "seg3" as j on j."seg3_SHID_2" =  q."h_SHID_2" 
+		inner join "merged" as k on split_part(k."seg_SHID_2",'.',1)::int =  q."h_SHID_2" 
+		inner join "policy_type" as l on l."Policy Type" = k."LatestPolicyType_01"
+		left join "termination_type" as m on m."merge_reason_code" = q."Termination  Reason" -- limit 500	
+)
+
+---------------------------------------------------------- insured_age_according_to_current_date -----------------------------------------------------------
+
+create table "pi_ph_seg_seg2_seg3_insured_curr_age" as
+(
+	select k.*,q.*,i.*,j.*,l.*,m.*, case when "i_birthDate" = '0' then '0' else age(timestamp '2018-03-30',"i_birthDate"::timestamp) end as "insured_curr_age" from
+
+	( 
+		select q.*,concat(issued_year,'-',issued_month,'-',issued_day) as "issuedDate", 
+		case when concat(replace("Insured'S BirthYear",'"','') , '-', replace("Insured'S BirthMonth",'"',''), '-', replace("Insured'S BirthDay",'"','')) = '0-0-0' then '0' else concat(replace("Insured'S BirthYear",'"','') , '-', replace("Insured'S BirthMonth",'"','') , '-', replace("Insured'S BirthDay",'"','')) end as "i_birthDate" ,
+		case when concat(termination_year,'-',termination_month,'-',termination_day) = '0--' then '0' else concat(termination_year,'-',termination_month,'-',termination_day) end as "terminationDate","Insured".* from 
+
+			(
+				select "seg2".*, substring("issuedYMD" from 1 for 4) as issued_year,
+					substring(split_part("issuedYMD",'.',1) from 5 for 2) as issued_month,
+					substring(split_part("issuedYMD",'.',1) from 7 for 2) as issued_day,
+
+					substring(split_part("Termination Effective DateYMD",'.',1) from 1 for 4) as termination_year,
+					substring(split_part("Termination Effective DateYMD",'.',1) from 5 for 2) as termination_month,
+					substring(split_part("Termination Effective DateYMD",'.',1) from 7 for 2) as termination_day			
+				 
+					from "seg2" --limit 500
+			) as q inner join "seg2" on "seg2"."seg2_SHID_2" = q."seg2_SHID_2" inner join "Insured" on "Insured"."i_SHID_2" = q."seg2_SHID_2" --limit 500
+
+	) as q inner join "holder" as i on i."h_SHID_2" = q."i_SHID_2" 
+		inner join "seg3" as j on j."seg3_SHID_2" =  q."i_SHID_2" 
+		inner join "merged" as k on split_part(k."seg_SHID_2",'.',1)::int =  q."i_SHID_2" 
+		inner join "policy_type" as l on l."Policy Type" = k."LatestPolicyType_01"
+		left join "termination_type" as m on m."merge_reason_code" = q."Termination  Reason" -- limit 500	
+)
+
+
+
+---------------------------------------------------------- insured_age_according_to_issued_date -----------------------------------------------------------
+
+create table "pi_ph_seg_seg2_seg3_insured_new" as 
+(
+	select q.*, case when "insured_age" = '00:00:00' then 0 else Extract (YEAR FROM ("insured_age")) end as "age" from 
+	(
+
+
+		select k.*,q.*,i.*,j.*,l.*,m.*,n.*,o.*,p.*,a.*, case when "i_birthDate" = '0' then '0' else age("issuedDate"::timestamp,"i_birthDate"::timestamp) end as "insured_age" from
+
+		( 
+			select q.*,concat(issued_year,'-',issued_month,'-',issued_day) as "issuedDate", 
+			case when concat(replace("Insured'S BirthYear",'"','') , '-', replace("Insured'S BirthMonth",'"',''), '-', replace("Insured'S BirthDay",'"','')) = '0-0-0' then '0' else concat(replace("Insured'S BirthYear",'"','') , '-', replace("Insured'S BirthMonth",'"','') , '-', replace("Insured'S BirthDay",'"','')) end as "i_birthDate" ,
+			case when concat(termination_year,'-',termination_month,'-',termination_day) = '0--' then '0' else concat(termination_year,'-',termination_month,'-',termination_day) end as "terminationDate","Insured".* from 
+
+				(
+					select "seg2".*, substring("issuedYMD" from 1 for 4) as issued_year,
+						substring(split_part("issuedYMD",'.',1) from 5 for 2) as issued_month,
+						substring(split_part("issuedYMD",'.',1) from 7 for 2) as issued_day,
+
+						substring(split_part("Termination Effective DateYMD",'.',1) from 1 for 4) as termination_year,
+						substring(split_part("Termination Effective DateYMD",'.',1) from 5 for 2) as termination_month,
+						substring(split_part("Termination Effective DateYMD",'.',1) from 7 for 2) as termination_day			
+					 
+						from "seg2"  --limit 500
+				) as q inner join "seg2" on "seg2"."seg2_SHID_2" = q."seg2_SHID_2" inner join "Insured" on "Insured"."i_SHID_2" = q."seg2_SHID_2"  --limit 500
+
+		) as q inner join "holder" as i on i."h_SHID_2" = q."i_SHID_2"
+			inner join "seg3" as j on j."seg3_SHID_2" =  q."i_SHID_2" 
+			inner join "merged" as k on split_part(k."seg_SHID_2",'.',1)::int =  q."i_SHID_2" 
+			left join "policy_type" as l on l."Policy Type" = k."LatestPolicyType_01"
+			left join "termination_type" as m on m."merge_reason_code" = q."Termination  Reason" 	
+			left join "address" as n on n."SHID_2" = q."i_SHID_2"
+			left join "perfecture_address" as o on o."japanese_name" = n."address_name" -- limit 500
+			left join "application_codes" as p on p."application_code" = q."application Channel"
+			left join "check_up" as a on a."check_up_code" = q."CheckupKBfirst" --limit 500
+	) as q
+);
+
+
+update "pi_ph_seg_seg2_seg3_insured_new"
+set "Insured'S BirthYear" = replace("Insured'S BirthYear",'"',''),
+"Insured'S BirthMonth" = replace("Insured'S BirthMonth",'"',''),
+"Insured'S BirthDay" = replace("Insured'S BirthDay",'"',''),
+"Insured'S Gender" = replace("Insured'S Gender",'"','');
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+select i."Policy Type Name", j."a_group",i."Policyholder'S_Gender",
+     count(split_part(i."APL Number of LOAN",'.',1)::int)as "APL Number of LOAN Count",
+     sum(split_part(i."APL Number of LOAN",'.',1)::int) as "APL Number of LOAN SUM",
+     avg(split_part(i."APL Number of LOAN",'.',1)::int) as "APL Number of LOAN average"  
+from "pi_ph_seg_seg2_seg3_holder" as i inner join "age_group" as j 
+on i.age_t between j."lower_age" and j."upper_age"
+or (i.age_t > j."lower_age" and j."lower_age" = 65)
+where i."Termination  Reason" is not NULL and "Type" = 'Surrender '
+group by i."Policy Type Name", j."a_group",i."Policyholder'S_Gender"
+order by i."Policy Type Name", j."a_group",i."Policyholder'S_Gender"
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+select "h_birthDate",count(*)
+from "pi_ph_seg_seg2_seg3_new"
+group by "h_birthDate" 
+having count(*) > 1
+--order by c desc
+
+
+select distinct("Insured'S Gender") from "Insured";
+select "Insured'S BirthYear" from "Insured" order by replace(split_part("Insured'S BirthYear",'.',1),'"','')::int limit 100
+
+
+select distinct("Policyholder'S_Gender") from "holder";
+select "Policyholder'S BirthYear" from "holder" order by replace(split_part("Policyholder'S BirthYear",'.',1),'"','')::int limit 100
+
+-- case when "terminationDate" = '0' then '00:00:00' else age("terminationDate"::timestamp,"h_birthDate"::timestamp) end as "age_according_to_termination"
+
+-- create table "policy_type"
+-- 
+-- (
+-- "Policy Type" character varying(200),
+-- "Representative CD" character varying(200),
+-- "Policy Type Name" character varying(200)
+-- )
+-- copy "policy_type" from '/home/arslan/My_Data/ADDO Work/Himavari Project/merge_data/Policy Type Code.csv' DELIMITER ',' CSV HEADER 
+-- 
+-- 
+-- create table "termination_type"
+-- (
+-- "Area" character varying(200),
+-- "Type" character varying(200),
+-- "Reason Code" character varying(200),
+-- "Unnamed: 3" character varying(200),
+-- "Details" character varying(200),
+-- "merge_reason_code" character varying(200)
+-- )
+-- 
+-- copy "termination_type" from '/home/arslan/My_Data/ADDO Work/Himavari Project/merge_data/TerminationCode.csv' DELIMITER ',' CSV HEADER 

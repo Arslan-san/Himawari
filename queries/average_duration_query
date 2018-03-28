@@ -1,0 +1,3 @@
+update "pi_ph_seg_seg2_seg3_insured_new"
+set "insurance_duration" = extract(year from age("terminationDate"::timestamp, "issuedDate"::timestamp))*12 + extract(month from age("terminationDate"::timestamp, "issuedDate"::timestamp))
+where "terminationDate" != '0'

@@ -1,0 +1,48 @@
+﻿COPY "TerminationCode" FROM '/home/arslan/My_Data/ADDO Work/Himavari Project/merge_data/TerminationCode.csv' CSV HEADER;
+
+CREATE TABLE public."TerminationCode"
+(
+Area character varying(200),
+"Type" character varying(200),
+"Reason Code" character varying(200),
+Unnamed character varying(200),
+Details character varying(200),
+merge_reason_code character varying(200)
+
+)
+
+
+select * from "Merged_IF01_I_013_PolicyMaSter_PolicybasedSEG" as t1 inner join "Policy Type Code" as t2 on t1."LatestPolicyType_01" = t2."Policy Type" limit 10;
+
+--select cast(replace((split_part("issuedYMD",'.',1)),'"','')as integer)::date from "if01_i_013_policymaster_policybasedseg2" limit 10;
+
+
+select to_timestamp(cast(replace((split_part("issuedYMD",'.',1)),'"','')as integer))::date,"SHID_2" from "if01_i_013_policymaster_policybasedseg2" limit 500;
+
+select * from "if01_i_013_policymaster_policybasedseg2"
+where "SHID_2" = '4.0'
+
+ALTER TABLE "if01_i_013_policymaster_policybasedseg2"
+    ADD COLUMN "issued date" VARCHAR,
+    ADD COLUMN "termination date" VARCHAR;
+
+UPDATE "if01_i_013_policymaster_policybasedseg2"
+SET ("issued date") = ( 
+
+			select concat(year,'-',month,'-',day) as "issuedDate" from 
+			(
+				select substring(split_part("issuedYMD",'.',1) from 1 for 4) as year,substring(split_part("issuedYMD",'.',1) from 5 for 2) as month,substring(split_part("issuedYMD",'.',1) from 7 for 2) as day,
+				"SHID_2"from "if01_i_013_policymaster_policybasedseg2" limit 1
+			) as q inner join "if01_i_013_policymaster_policybasedseg2" on "if01_i_013_policymaster_policybasedseg2"."SHID_2" = q."SHID_2"
+		);
+
+
+
+select case when concat(year,'-',month,'-',day) = '0--' then '0' else concat(year,'-',month,'-',day) end as "Termination Effective Date" from 
+(
+	select substring(split_part("Termination Effective DateYMD",'.',1) from 1 for 4) as year,substring(split_part("Termination Effective DateYMD",'.',1) from 5 for 2) as month,substring(split_part("Termination Effective DateYMD",'.',1) from 7 for 2) as day
+	from "if01_i_013_policymaster_policybasedseg2" limit 500
+)q
+
+
+

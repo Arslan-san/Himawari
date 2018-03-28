@@ -1,0 +1,13 @@
+r_Area,r_Type,r_Reason Code,r_unnamed,r_Details,r_merge_reason_code
+ Recovery, Recovery,E1,1,Recovery,E11
+ Recovery, Recovery,E1,2,Auto term extended avoidance,E12
+ Recovery,Surrender Avoidance,H2,1,Surrender,H21
+ Recovery,Surrender Avoidance,H2,2,Surrender after lapse,H22
+ Recovery,Surrender Avoidance,H2,3,Surrender after lapse on the policy cause,H23
+ Recovery,Surrender Avoidance,H2,4,Surrender by conversion,H24
+ Recovery,Surrender Avoidance,H2,5,Surrender of consent,H25
+ Recovery,Cancellation Avoidance,H6,1,Death (Refund P),H61
+ Recovery,Cancellation Avoidance,H6,2,Death (Other),H62
+ Recovery,Cancellation Avoidance,H6,3,Hospitalization (Refund P),H63
+ Recovery,Cancellation Avoidance,H6,4,Hospitalization (Other),H64
+ Recovery,Cancellation Avoidance,H6,5,Other Cancellation,H65

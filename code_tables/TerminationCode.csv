@@ -1,0 +1,53 @@
+Area,Type,Reason Code,Unnamed: 3,Details,merge_reason_code
+Termination,Lapse,G1,1,Unpaid ,G11
+Termination,Lapse,G1,2,Over Loan,G12
+Termination,Lapse,G1,4,Lapse by prescription,G14
+Termination,Surrender ,G2,1,Surrender,G21
+Termination,Surrender ,G2,2,Surrender after lapse,G22
+Termination,Surrender ,G2,3,Surrender after lapse on the policy cause,G23
+Termination,Surrender ,G2,4,Surrender by conversion,G24
+Termination,Surrender ,G2,5,Surrender of consent,G25
+Termination,Surrender ,G2,6,Retirement surrender,G26
+Termination,Death,G3,1,Crude death,G31
+Termination,Death,G3,2,Death (Second Joint Policy),G32
+Termination,Death,G3,3,Life&NonLifeDeath/Advanced disability,G33
+Termination,Death,G3,4,Death except cancer (Cancer Insurance),G34
+Termination,Death,G3,5,Medical/Death,G35
+Termination,Death,G3,6,Termination by Living Needs benefit payout,G36
+Termination,Death,G3,7,Termination by Specific Disease benefit payout,G37
+Termination,Death,G3,9,Prescription ,G39
+Termination,Advanced disability,G4,1,Advanced disability,G41
+Termination,Advanced disability,G4,2,Advanced disability (Second Joint Policy),G42
+Termination,Advanced disability,G4,3,Termination by care benefit payout,G43
+Termination,Advanced disability,G4,4,Medical/Advanced disability,G44
+Termination,Advanced disability,G4,9,Prescription ,G49
+Termination,Maturity,G5,1,Expiration,G51
+Termination,Maturity,G5,2,Maturity (Unsettled),G52
+Termination,Maturity,G5,3,Maturity (Settled),G53
+Termination,Maturity,G5,4,Auto renewal expiration,G54
+Termination,Cancellation,G6,1,Death (Refund P),G61
+Termination,Cancellation,G6,2,Death (Other),G62
+Termination,Cancellation,G6,3,Hospitalization (Refund P),G63
+Termination,Cancellation,G6,4,Hospitalization (Other),G64
+Termination,Cancellation,G6,5,Other Cancellation,G65
+Termination,Cancellation,G6,6,Other Cancellation (Second insured),G66
+Termination,Avoidance after issued,G7,1,Cooling Off,G71
+Termination,Avoidance after issued,G7,2,Avoidance due to company matters,G72
+Termination,Avoidance after issued,G7,3,Out of age range for new policy,G73
+Termination,Avoidance after issued,G7,4,Fraud,G74
+Termination,Avoidance after issued,G7,5,Develop cancer before 90days inception,G75
+Termination,Avoidance after issued,G7,6,Other,G76
+Termination,Avoidance after issued,G7,7,Termination by changing fixed payment,G77
+Termination,Invalid,G8,1,Cooling Off,G81
+Termination,Invalid,G8,2,Avoidance due to company matters,G82
+Termination,Invalid,G8,3,Out of age range for new policy,G83
+Termination,Invalid,G8,4,Fraud,G84
+Termination,Invalid,G8,5,Develop cancer before 90days inception,G85
+Termination,Invalid,G8,6,Other,G86
+Termination,Exemption,G9,1,Suicide Exclusion ,G91
+Termination,Exemption,G9,2,Deliberately Disclaimer,G92
+Termination,Exemption,G9,3,Suicide Exclusion (Second Insured),G93
+Termination,Exemption,G9,4,Deliberately Disclaimer (Second Insured),G94
+Termination,Payout,GA,1,Pension Lump Payout （Annuity Certain),GA1
+Termination,Payout,GA,2,Pension Lump Payout by offset loans,GA2
+Termination,Payout,GA,3,Total payout over limit,GA3
